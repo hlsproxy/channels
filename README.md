@@ -1,4 +1,4 @@
-# HLS-Proxy (from 7.0.8)
+# HLS-Proxy (from 7.1.0)
 ## Setup channels match and logo replacing
 
 HLS-Proxy has its own copy of channels.json
