@@ -15,5 +15,5 @@ It can be done by creating html folder and then logos folder in it and then you 
 2. Run a command: 
 
 ```bash
-curl -LO https://github.com/hlsproxy/channels/archive/master.zip -o channels.zip ; unzip -o master.zip -d "./" ; rsync -arv ./channels-master/ ./; rm -r channels-master master.zip
+curl -LO https://github.com/hlsproxy/channels/archive/master.zip ; unzip -o master.zip -d "./" ; rsync -arv ./channels-master/ ./; rm -r channels-master master.zip
 ```
