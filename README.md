@@ -24,7 +24,7 @@ curl -LO https://github.com/hlsproxy/channels/archive/master.zip ; unzip -o mast
 ## Requirements of a channels.json format
 - `_id` value should be unique
 - `country` should be standard ISO 3166-1 Alpha-2 code lower case  
-You can find all codes here: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes\
+You can find all codes here: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
 - `logo_url` is a link or a relative path (in case of local file) like this /logos/file.png
 - `group` a one of ids from groups.json file (You can find it in HLS-Proxy package)
 - `basealias`* is the main alias
