@@ -562,7 +562,7 @@
 		"aliases": "|discoverycentraleurope|discoverycee|discoveryceehd|discoveryевропа|discoveryeurope|discoveryromania|discoveryuk|discoveryireland|",
 		"basealias": "discoveryцентральнаяевропа",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/dd/discovery_global_us.png",
+		"logo_url": "/logos/discovery-channel.png",
 		"name": "Discovery Channel Центральная Европа",
 		"group": "knowledge"
 	},
@@ -2263,7 +2263,7 @@
 		"aliases": "|загорoдныйhd|загородныйhd|телеканалзагородный|",
 		"basealias": "загородный",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/mp5am3im7iig9ow/zagor.png",
+		"logo_url": "/logos/zagorodnyi.png",
 		"name": "Загородный",
 		"group": "knowledge"
 	},
@@ -7642,10 +7642,10 @@
 	},
 	{
 		"_id": 863,
-		"aliases": "",
+		"aliases": "|страхнd|",
 		"basealias": "страхhd",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/o447ca6qcikpiuz/strahhd.jpg",
+		"logo_url": "/logos/strah-hd.png",
 		"name": "Страх HD",
 		"group": "films"
 	},
@@ -7654,7 +7654,7 @@
 		"aliases": "",
 		"basealias": "фантастикаhd",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/rvugq7330z51266/fantastikahd.png",
+		"logo_url": "/logos/fantastika-hd.png",
 		"name": "Фантастика HD",
 		"group": "films"
 	},
@@ -64733,7 +64733,7 @@
 		"aliases": "|кино24|",
 		"basealias": "kino24",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/5fyeux6dodycah4/kino24.png",
+		"logo_url": "/logos/kino24.png",
 		"name": "Kino 24",
 		"group": "films"
 	},
@@ -71897,7 +71897,7 @@
 		"aliases": "|russianextremeretro|русскийэкстримретроhd|",
 		"basealias": "русскийэкстримретро",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/7xtd36ej1rzfnhu/rusextremretro.png",
+		"logo_url": "/logos/russian-extreme-retro.png",
 		"name": "Русский Экстрим Ретро",
 		"group": "men"
 	},
@@ -77348,11 +77348,11 @@
 	},
 	{
 		"_id": 54463,
-		"aliases": "|bestfilms|",
-		"basealias": "bestfilmshd",
+		"aliases": "",
+		"basealias": "bestfilms",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/jgt7xjj13fsstz2/bestfilms.png",
-		"name": "BEST Films HD",
+		"logo_url": "/logos/best-films.png",
+		"name": "BEST Films",
 		"group": "films"
 	},
 	{
@@ -77390,6 +77390,15 @@
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/aa/amici-animali-tv-it.png",
 		"name": "Amici Animali TV",
 		"group": "knowledge"
+	},
+	{
+		"_id": 54468,
+		"aliases": "",
+		"basealias": "bestfilmshd",
+		"country": "ru",
+		"logo_url": "/logos/best-films-hd.png",
+		"name": "BEST Films HD",
+		"group": "films"
 	},
 	{
 		"_id": 54469,
@@ -78125,7 +78134,7 @@
 		"aliases": "|загородныйinternational|загородныйinternet|загородныйinternetверсия|загородныйinthd|загородныйhdint|загородныйinternationalhd|",
 		"basealias": "загородныйint",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/e2k9hv71zr9n30p/zagor-int.png",
+		"logo_url": "/logos/zagorodnyi-int.png",
 		"name": "Загородный Int (Internet-версия)",
 		"group": "knowledge"
 	},
@@ -82697,7 +82706,7 @@
 		"aliases": "|советскоекиноhd|",
 		"basealias": "советскоекино",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/bndq87gm6kh3llr/soviet.kino.png",
+		"logo_url": "/logos/sovetskoe-kino.png",
 		"name": "Советское кино",
 		"group": "films"
 	},
@@ -83516,7 +83525,7 @@
 		"aliases": "|flixsniphd|flixsnipsd|",
 		"basealias": "flixsnip",
 		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/y9d8qonatfnnmmq/flix.png",
+		"logo_url": "/logos/flix-snip.png",
 		"name": "FlixSnip",
 		"group": "notfound"
 	},
@@ -87586,7 +87595,7 @@
 		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/ksvcui3fnbquqgk/sssr.png",
 		"name": "Сделано в СССР",
-		"group": "common"
+		"group": "films"
 	},
 	{
 		"_id": 100112,
@@ -88927,6 +88936,15 @@
 		"country": "ru",
 		"logo_url": "/logos/zolotaya-kollekciya.png",
 		"name": "Мосфильм. Золотая коллекция",
+		"group": "films"
+	},
+	{
+		"_id": 100263,
+		"aliases": "|cccpфильмы|",
+		"basealias": "сссрфильмы",
+		"country": "ru",
+		"logo_url": "/logos/sssr-filmy.png",
+		"name": "СССР Фильмы",
 		"group": "films"
 	}
 ]
