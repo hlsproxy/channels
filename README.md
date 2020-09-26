@@ -33,3 +33,4 @@ You can find all codes here: https://en.wikipedia.org/wiki/List_of_ISO_3166_coun
 *) `basealias` and `aliases` are constructed from all possible names.  
 Values for these fields should be in lowercase without spaces. Only letters and `+` allowed. All other chars should be removed.
  
+## Any contributions are more than welcome
