@@ -85,7 +85,7 @@
 		"aliases": "|24techno|техно24|24tehno|24texhd|techno24|t24|т24|",
 		"basealias": "24техно",
 		"country": "ru",
-		"logo_url": "/logos/nechno-24.png",
+		"logo_url": "/logos/techno-24.png",
 		"name": "24 Техно",
 		"group": "men"
 	},
@@ -2119,7 +2119,7 @@
 		"aliases": "|доверие|moskvadoverie|",
 		"basealias": "москвадоверие",
 		"country": "ru",
-		"logo_url": "",
+		"logo_url": "/logos/moskva-doverie.png",
 		"name": "Москва Доверие",
 		"group": "regional"
 	},
@@ -3781,11 +3781,11 @@
 	},
 	{
 		"_id": 431,
-		"aliases": "|телеканалсупер|суперhd|",
-		"basealias": "супер",
+		"aliases": "|телеканалсуббота|супер|телеканалсупер|",
+		"basealias": "суббота",
 		"country": "ru",
-		"logo_url": "/logos/super.png",
-		"name": "Супер",
+		"logo_url": "/logos/subbota.png",
+		"name": "Суббота!",
 		"group": "entertainment"
 	},
 	{
@@ -4423,7 +4423,7 @@
 		"aliases": "|bigudi|бiгудi|бiгудiтв|бигудитв|бiгуди|бігуді|",
 		"basealias": "бигуди",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/bigudi_tv_ua.png",
+		"logo_url": "/logos/bigudi.png",
 		"name": "Бигуди",
 		"group": "entertainment"
 	},
@@ -5043,7 +5043,7 @@
 		"_id": 573,
 		"aliases": "|romantica|",
 		"basealias": "zoneromantica",
-		"country": "kz",
+		"country": "ru",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/zz/zone_romantica.png",
 		"name": "Zone Romantica",
 		"group": "entertainment"
@@ -5052,25 +5052,25 @@
 		"_id": 574,
 		"aliases": "|премиальное|кинопремиум|kinopremium|kinopremiumhd|премиальноеfhd|",
 		"basealias": "кинопремиумhd",
-		"country": "kz",
+		"country": "ru",
 		"logo_url": "/logos/premialnoe.png",
 		"name": "Премиальное HD",
 		"group": "films"
 	},
 	{
 		"_id": 575,
-		"aliases": "|нашкинороманhd|",
-		"basealias": "нашкинороман",
-		"country": "kz",
-		"logo_url": "/logos/nash-kinoroman.png",
-		"name": "Наш Кинороман",
+		"aliases": "|нашкинороман|нашкинороманhd|душевноеhd|",
+		"basealias": "душевное",
+		"country": "ru",
+		"logo_url": "/logos/dushevnoe.png",
+		"name": "Душевное",
 		"group": "films"
 	},
 	{
 		"_id": 576,
 		"aliases": "|остросюжетное|остросюжетноекино|остросюжетноекиноhd|ostrosugetnoehd|ostrosugetnoe|ostrosuyzhetnoe|",
 		"basealias": "остросюжетноеhd",
-		"country": "kz",
+		"country": "ru",
 		"logo_url": "/logos/ostrosuzhetnoe.png",
 		"name": "Остросюжетное HD",
 		"group": "films"
@@ -5107,7 +5107,7 @@
 		"aliases": "|лале|ляле|lalehd|",
 		"basealias": "lale",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ll/lale_tv_ua.png",
+		"logo_url": "/logos/lale.png",
 		"name": "LALE",
 		"group": "kids"
 	},
@@ -7978,7 +7978,7 @@
 		"aliases": "|дайвингhd|дайвингтвhd|",
 		"basealias": "дайвинг",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/xy81slpwxdbhj2l/diving.gif",
+		"logo_url": "/logos/daiving-tv.png",
 		"name": "Дайвинг ТВ",
 		"group": "men"
 	},
@@ -9823,8 +9823,17 @@
 		"aliases": "|mtvclassicen|mtvclassicuk|mtvclassicaustralia|mtv80s|",
 		"basealias": "mtvclassic",
 		"country": "gb",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/mm/mtv_classic_us_global.png",
-		"name": "MTV Classic",
+		"logo_url": "/logos/mtv-80s.png",
+		"name": "MTV 80s",
+		"group": "music"
+	},
+	{
+		"_id": 1271,
+		"aliases": "|mtv90|",
+		"basealias": "mtv90s",
+		"country": "gb",
+		"logo_url": "/logos/mtv-90s.png",
+		"name": "MTV 90s",
 		"group": "music"
 	},
 	{
@@ -14869,10 +14878,10 @@
 	},
 	{
 		"_id": 1960,
-		"aliases": "|рибалка|rybalka|телеканалрибалка|рибалкаhd|рыбалкаhd|",
+		"aliases": "|рибалка|rybalka|телеканалрибалка|рибалкаhd|рыбалкаhd|рыбалкаhdua|",
 		"basealias": "рыбалка",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/yfy81mg64thdkdm/rybalka.png",
+		"logo_url": "/logos/ribalka-ua.png",
 		"name": "Рыбалка ТВ",
 		"group": "knowledge"
 	},
@@ -18429,7 +18438,7 @@
 		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/eydnejmhqwuz7s3/bcu-svat.png",
 		"name": "BCU Сваты",
-		"group": "notfound"
+		"group": "films"
 	},
 	{
 		"_id": 2518,
@@ -18438,7 +18447,7 @@
 		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/vhv8bj689z6e6f4/bcu-russ.png",
 		"name": "BCU Russian",
-		"group": "notfound"
+		"group": "films"
 	},
 	{
 		"_id": 2519,
@@ -18447,7 +18456,7 @@
 		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/sifickjomxztpj3/bcumedia.png",
 		"name": "BCU Media",
-		"group": "notfound"
+		"group": "films"
 	},
 	{
 		"_id": 2520,
@@ -53403,7 +53412,7 @@
 		"country": "us",
 		"logo_url": "https://dl.dropboxusercontent.com/s/hoskmbq8fszmvd9/comunion.png",
 		"name": "Comunion TV",
-		"group": "notfound"
+		"group": "religious"
 	},
 	{
 		"_id": 51625,
@@ -59369,7 +59378,7 @@
 		"aliases": "|food|foodisrael|",
 		"basealias": "foodchannel",
 		"country": "il",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ff/food_channel_il.png",
+		"logo_url": "/logos/israel-food-channel.png",
 		"name": "Food Channel (IL)",
 		"group": "israel"
 	},
@@ -76505,7 +76514,7 @@
 		"aliases": "|nicktoons|nicktoonshd|nicktoonsrussia|nicktoonsru|",
 		"basealias": "nicktoonsроссия",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/w4ooxktxe75quft/ntoons.png",
+		"logo_url": "/logos/nicktoons.png",
 		"name": "NickToons Россия",
 		"group": "kids"
 	},
@@ -82940,7 +82949,7 @@
 		"aliases": "|terraincognita|терраинкогнитаhd|терраинкогнитоhd|terraincognitahd|",
 		"basealias": "терраинкогнита",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/hnabuqgqwl5s3hd/terrainc.png",
+		"logo_url": "/logos/terra-incognita.png",
 		"name": "Терра Инкогнита",
 		"group": "knowledge"
 	},
@@ -86092,7 +86101,7 @@
 		"country": 30,
 		"logo_url": "https://dl.dropboxusercontent.com/s/zdg3a6omrt16f6s/bcu-act.png",
 		"name": "BCU Action",
-		"group": "notfound"
+		"group": "films"
 	},
 	{
 		"_id": 55466,
@@ -86633,6 +86642,42 @@
 		"logo_url": "/logos/ebc-music.png",
 		"name": "EBC Music",
 		"group": "music"
+	},
+	{
+		"_id": 55526,
+		"aliases": "|bcukids|bcukidshd|",
+		"basealias": "bcukids",
+		"country": "ru",
+		"logo_url": "",
+		"name": "BCU Kids HD",
+		"group": "films"
+	},
+	{
+		"_id": 55527,
+		"aliases": "|bcukids+|bcukids+hd|",
+		"basealias": "bcukids+",
+		"country": "ru",
+		"logo_url": "",
+		"name": "BCU Kids+ HD",
+		"group": "films"
+	},
+	{
+		"_id": 55528,
+		"aliases": "|bcucinema+|bcuboxcinema+|bcuboxcinema+hd|boxcinema+bcu|",
+		"basealias": "bcucinema+hd",
+		"country": "ru",
+		"logo_url": "https://dl.dropboxusercontent.com/s/4zv6qidover3inm/boxcinema.png",
+		"name": "BCU Cinema+ HD",
+		"group": "films"
+	},
+	{
+		"_id": 55529,
+		"aliases": "|bcucinema+|bcuboxcinema+|bcuboxcinema+hd|boxcinema+bcu|",
+		"basealias": "bcucinema+hd",
+		"country": "ru",
+		"logo_url": "/logos/bcu-stars-hd.png",
+		"name": "BCU Stars HD",
+		"group": "films"
 	},
 	{
 		"_id": 100000,
@@ -88507,15 +88552,6 @@
 		"group": "regional"
 	},
 	{
-		"_id": 100213,
-		"aliases": "|мосфильм|",
-		"basealias": "мосфильм",
-		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/t6ad0w9yc3g7syt/mosfilm.png",
-		"name": "Мосфильм",
-		"group": "films"
-	},
-	{
 		"_id": 100214,
 		"aliases": "",
 		"basealias": "vox1",
@@ -88918,7 +88954,7 @@
 		"country": "gb",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ff/fashion_tv_uk.png",
 		"name": "Fashion TV UK",
-		"group": "knowledge"
+		"group": "entertainment"
 	},
 	{
 		"_id": 100261,
@@ -88931,7 +88967,7 @@
 	},
 	{
 		"_id": 100262,
-		"aliases": "|золотаяколлекция|",
+		"aliases": "|золотаяколлекция|мосфильм|",
 		"basealias": "мосфильмзолотаяколлекция",
 		"country": "ru",
 		"logo_url": "/logos/zolotaya-kollekciya.png",
@@ -88946,5 +88982,59 @@
 		"logo_url": "/logos/sssr-filmy.png",
 		"name": "СССР Фильмы",
 		"group": "films"
+	},
+	{
+		"_id": 100264,
+		"aliases": "|золотаяколлекцияhd|мосфильмhd|",
+		"basealias": "мосфильмзолотаяколлекцияhd",
+		"country": "ru",
+		"logo_url": "/logos/zolotaya-kollekciya-hd.png",
+		"name": "Мосфильм. Золотая коллекция HD",
+		"group": "films"
+	},
+	{
+		"_id": 100265,
+		"aliases": "",
+		"basealias": "kinojam1",
+		"country": "ru",
+		"logo_url": "/logos/kinojam-1.png",
+		"name": "KinoJam 1",
+		"group": "films"
+	},
+	{
+		"_id": 100266,
+		"aliases": "",
+		"basealias": "kinojam2",
+		"country": "ru",
+		"logo_url": "/logos/kinojam-2.png",
+		"name": "KinoJam 2",
+		"group": "films"
+	},
+	{
+		"_id": 100267,
+		"aliases": "",
+		"basealias": "gagsnetwork",
+		"country": "ru",
+		"logo_url": "/logos/gagsnetwork.png",
+		"name": "Gagsnetwork",
+		"group": "entertainment"
+	},
+	{
+		"_id": 100268,
+		"aliases": "|eromaniaultra|eromaniaultrahd|",
+		"basealias": "eromania4k",
+		"country": "ru",
+		"logo_url": "/logos/eromania-4k.png",
+		"name": "Eromania 4k",
+		"group": "adult"
+	},
+	{
+		"_id": 100269,
+		"aliases": "|телеканалсубботаhd|суперhd|телеканалсуперhd|",
+		"basealias": "субботаhd",
+		"country": "ru",
+		"logo_url": "/logos/subbota-hd.png",
+		"name": "Суббота! HD",
+		"group": "entertainment"
 	}
 ]
