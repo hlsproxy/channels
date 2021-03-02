@@ -7266,7 +7266,7 @@
 		"_id": 821,
 		"aliases": "|тнтfhd|",
 		"basealias": "тнтhd",
-		"country": "de",
+		"country": "ru",
 		"logo_url": "/logos/tnt-hd.png",
 		"name": "ТНТ HD",
 		"group": "entertainment"
@@ -14871,10 +14871,10 @@
 		"_id": 1959,
 		"aliases": "|cacavision|cazavision|",
 		"basealias": "caçavision",
-		"country": 30,
+		"country": "pt",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/cc/cacavision_es.png",
 		"name": "Caçavision",
-		"group": "notfound"
+		"group": "men"
 	},
 	{
 		"_id": 1960,
@@ -14959,37 +14959,37 @@
 	},
 	{
 		"_id": 1969,
-		"aliases": "",
+		"aliases": "|bcupremiere1|bcupremiere1hd|bcuкинозалpremiere1hd|",
 		"basealias": "bcuкинозалpremiere1hd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/uvovvcismvorvj5/bcu-kinprem.png",
+		"country": "ru",
+		"logo_url": "/logos/bcu-premiere-hd.png",
 		"name": "BCU Кинозал Premiere 1 HD",
 		"group": "films"
 	},
 	{
 		"_id": 1970,
-		"aliases": "",
+		"aliases": "|bcupremiere2|bcupremiere2hd|bcuкинозалpremiere2hd|",
 		"basealias": "bcuкинозалpremiere2hd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/uvovvcismvorvj5/bcu-kinprem.png",
+		"country": "ru",
+		"logo_url": "/logos/bcu-premiere-hd.png",
 		"name": "BCU Кинозал Premiere 2 HD",
 		"group": "films"
 	},
 	{
 		"_id": 1971,
-		"aliases": "",
+		"aliases": "|bcupremiere3|bcupremiere3hd|bcuкинозалpremiere3hd|",
 		"basealias": "bcuкинозалpremiere3hd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/uvovvcismvorvj5/bcu-kinprem.png",
+		"country": "ru",
+		"logo_url": "/logos/bcu-premiere-hd.png",
 		"name": "BCU Кинозал Premiere 3 HD",
 		"group": "films"
 	},
 	{
 		"_id": 1972,
-		"aliases": "",
+		"aliases": "|bcupremiere4|bcupremiere4hd|bcuкинозалpremiere4hd|",
 		"basealias": "bcuкинозалpremiere4hd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/uvovvcismvorvj5/bcu-kinprem.png",
+		"country": "ru",
+		"logo_url": "/logos/bcu-premiere-hd.png",
 		"name": "BCU Кинозал Premiere 4 HD",
 		"group": "films"
 	},
@@ -14997,7 +14997,7 @@
 		"_id": 1973,
 		"aliases": "|bcuromantic|",
 		"basealias": "bcuromantichd",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/vofb7we2yhahiyu/bcu-rom.png",
 		"name": "BCU Romantic HD",
 		"group": "films"
@@ -86053,8 +86053,8 @@
 		"_id": 55460,
 		"aliases": "|bcupremiere|bcupremierehd51|",
 		"basealias": "bcupremierehd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/4b2xg6ie7pw7a57/bcu-prem.png",
+		"country": "ru",
+		"logo_url": "/logos/bcu-premiere-hd.png",
 		"name": "BCU Premiere HD",
 		"group": "films"
 	},
@@ -86071,7 +86071,7 @@
 		"_id": 55462,
 		"aliases": "|bcuсссрhd|bcuкинозалсссрhd|",
 		"basealias": "bcuкинозалссср",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/bgrghif90b39i8x/bcu-sssr.png",
 		"name": "BCU СССР",
 		"group": "films"
@@ -86080,7 +86080,7 @@
 		"_id": 55463,
 		"aliases": "|bcuмультсериалhd|",
 		"basealias": "bcuмультсериал",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/m54a9kl10w4sdmr/bcu-multser.png",
 		"name": "BCU Мультсериал",
 		"group": "kids"
@@ -86107,7 +86107,7 @@
 		"_id": 55466,
 		"aliases": "|bcuкинозал|bcuкинозал1hd|bcuкинозал2hd|bcuкинозал3hd|bcuкинозал4hd|bcuкинозал5hd|bcuкинозал6hd|bcuкинозал7hd|",
 		"basealias": "bcuкинозалhd",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/invvhuu2k97f84f/bcu-kinoz.png",
 		"name": "BCU Кинозал HD",
 		"group": "films"
@@ -86672,8 +86672,8 @@
 	},
 	{
 		"_id": 55529,
-		"aliases": "|bcucinema+|bcuboxcinema+|bcuboxcinema+hd|boxcinema+bcu|",
-		"basealias": "bcucinema+hd",
+		"aliases": "|bcustars|bcuboxstars|bcuboxstarshd|boxstarsbcu|",
+		"basealias": "bcustarshd",
 		"country": "ru",
 		"logo_url": "/logos/bcu-stars-hd.png",
 		"name": "BCU Stars HD",
