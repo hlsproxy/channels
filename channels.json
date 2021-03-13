@@ -18147,7 +18147,7 @@
 		"_id": 2485,
 		"aliases": "|i24newsfrancais|",
 		"basealias": "i24newsfrançais",
-		"country": 30,
+		"country": "fr",
 		"logo_url": "/logos/i24.png",
 		"name": "I24 News Français",
 		"group": "news"
@@ -23194,7 +23194,7 @@
 	},
 	{
 		"_id": 4253,
-		"aliases": "|i24newshd|i24израиль|i24il|",
+		"aliases": "|i24newshd|i24израиль|i24il|i24israel|",
 		"basealias": "i24news",
 		"country": "il",
 		"logo_url": "/logos/israel-i24-news.png",
@@ -47476,10 +47476,10 @@
 	},
 	{
 		"_id": 50333,
-		"aliases": "|14israel|14|arutz10|10israel|arutzeser|10израиль|14израиль|",
+		"aliases": "|14israel|14|arutz10|10israel|arutzeser|10израиль|14израиль|14каналisrael|",
 		"basealias": "channel14",
 		"country": "il",
-		"logo_url": "https://dl.dropboxusercontent.com/s/2yxll7z2f0ikjam/14ch.png",
+		"logo_url": "/logos/israel-14.png",
 		"name": "Eser",
 		"group": "israel"
 	},
@@ -75728,7 +75728,7 @@
 	},
 	{
 		"_id": 54281,
-		"aliases": "|keshet12hd|12|reshet12|reshet12il|12keshetisrael|keshet12il|12il|кешет12|keshet12|12israel|12kanalil|12канализраиль|channel12израиль|",
+		"aliases": "|keshet12hd|12|reshet12|reshet12il|12keshetisrael|keshet12il|12il|кешет12|keshet12|12israel|12kanalil|12канализраиль|channel12израиль|12каналisrael|",
 		"basealias": "keshet12",
 		"country": "il",
 		"logo_url": "/logos/israel-12.png",
@@ -88202,7 +88202,7 @@
 	},
 	{
 		"_id": 100174,
-		"aliases": "",
+		"aliases": "|turkishdramas|turkishdramasisrael|turkishdramasplus|turkishdramasplusisrael|",
 		"basealias": "harutzhadramothaturkiyot",
 		"country": "il",
 		"logo_url": "/logos/israel-hot-turkish-dramas.png",
@@ -89036,5 +89036,41 @@
 		"logo_url": "/logos/subbota-hd.png",
 		"name": "Суббота! HD",
 		"group": "entertainment"
+	},
+	{
+		"_id": 100270,
+		"aliases": "|digitaldesirehd|",
+		"basealias": "digitaldesire",
+		"country": "us",
+		"logo_url": "/logos/digital-desire.png",
+		"name": "Digital Desire HD",
+		"group": "adult"
+	},
+	{
+		"_id": 100271,
+		"aliases": "|хоккейныйhd|",
+		"basealias": "хоккейный",
+		"country": "us",
+		"logo_url": "/logos/hokkeynyi.png",
+		"name": "Хоккейный HD",
+		"group": "sport"
+	},
+	{
+		"_id": 100272,
+		"aliases": "|футбольныйhd|",
+		"basealias": "футбольный",
+		"country": "us",
+		"logo_url": "/logos/futbolny.png",
+		"name": "Футбольный HD",
+		"group": "sport"
+	},
+	{
+		"_id": 100273,
+		"aliases": "|спортивныйhd|",
+		"basealias": "спортивный",
+		"country": "us",
+		"logo_url": "/logos/sportivny.png",
+		"name": "Спортивный HD",
+		"group": "sport"
 	}
 ]
