@@ -559,9 +559,9 @@
 	},
 	{
 		"_id": 65,
-		"aliases": "|discoverycentraleurope|discoverycee|discoveryceehd|discoveryевропа|discoveryeurope|discoveryromania|discoveryuk|discoveryireland|",
+		"aliases": "|discoverycentraleurope|discoverycee|discoveryceehd|discoveryевропа|discoveryeurope|discoveryromania|discoveryuk|discoveryireland|discoveryro|",
 		"basealias": "discoveryцентральнаяевропа",
-		"country": "ru",
+		"country": "ro",
 		"logo_url": "/logos/discovery-channel.png",
 		"name": "Discovery Channel Центральная Европа",
 		"group": "knowledge"
@@ -1027,7 +1027,7 @@
 	},
 	{
 		"_id": 119,
-		"aliases": "|musicbox|musicboxgoldhd|musicboxgoldrussiahd|musicboxtv|musicboxhd|",
+		"aliases": "|musicboxgoldhd|musicboxgoldrussiahd|musicboxgoldtv|musicboxgoldhd|",
 		"basealias": "musicboxgold",
 		"country": "ru",
 		"logo_url": "/logos/music-box.png",
@@ -1072,7 +1072,7 @@
 	},
 	{
 		"_id": 124,
-		"aliases": "|russianmusicbox|russianmusicboxhd|musicboxruhd|musicboxrussiahd|musicboxrussian|musicboxrussianhd|musicboxроссия|musicboxроссияhd|",
+		"aliases": "|musicbox|russianmusicbox|russianmusicboxhd|musicboxruhd|musicboxrussiahd|musicboxrussian|musicboxrussianhd|musicboxроссия|musicboxроссияhd|",
 		"basealias": "musicboxru",
 		"country": "ru",
 		"logo_url": "/logos/russian-musicbox.png",
@@ -1596,7 +1596,7 @@
 		"_id": 183,
 		"aliases": "|travelchannelhd|",
 		"basealias": "travelhd",
-		"country": "us",
+		"country": "ru",
 		"logo_url": "/logos/travel-channel-hd.png",
 		"name": "Travel HD",
 		"group": "knowledge"
@@ -3169,11 +3169,11 @@
 	},
 	{
 		"_id": 362,
-		"aliases": "|первыйfhd|perviyhd|hdпервый|",
-		"basealias": "первыйhd",
+		"aliases": "|первый|1канал|onerussia|первыйсанктпетербург|первыйканалроссия|",
+		"basealias": "первыйканал",
 		"country": "ru",
-		"logo_url": "/logos/perviy-hd.png",
-		"name": "Первый канал HD",
+		"logo_url": "/logos/perviy.png",
+		"name": "Первый канал",
 		"group": "common"
 	},
 	{
@@ -3205,11 +3205,11 @@
 	},
 	{
 		"_id": 366,
-		"aliases": "|первый|1канал|onerussia|первыйсанктпетербург|первыйканалроссия|",
-		"basealias": "первыйканал",
+		"aliases": "|первыйfhd|perviyhd|hdпервый|",
+		"basealias": "первыйhd",
 		"country": "ru",
-		"logo_url": "/logos/perviy.png",
-		"name": "Первый канал",
+		"logo_url": "/logos/perviy-hd.png",
+		"name": "Первый канал HD",
 		"group": "common"
 	},
 	{
@@ -4163,7 +4163,7 @@
 		"basealias": "ю",
 		"country": "ru",
 		"logo_url": "/logos/u-tv.png",
-		"name": "Ю",
+		"name": "Ю ТВ",
 		"group": "entertainment"
 	},
 	{
@@ -8069,7 +8069,7 @@
 		"basealias": "12каналкрасноярск",
 		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/9d2w0n1klyz9wtn/12.png",
-		"name": "12 канал -ТНТ4 (Красноярск)",
+		"name": "12 канал - ТНТ4 (Красноярск)",
 		"group": "regional"
 	},
 	{
@@ -15186,7 +15186,7 @@
 		"_id": 1994,
 		"aliases": "|sonyaxnhd|axnde|axngermany|sonyaxnde|sonyaxnhdde|",
 		"basealias": "sonyaxn",
-		"country": 30,
+		"country": "de",
 		"logo_url": "https://dl.dropboxusercontent.com/s/1ovcxdmn2qt9t7i/sonyaxn.png",
 		"name": "Sony AXN",
 		"group": "films"
@@ -15195,7 +15195,7 @@
 		"_id": 1996,
 		"aliases": "|foodeast|foodnetworkeast|foodwest|foodnetworkwest|foodeasthd|foodnetworkeasthd|foodwesthd|foodnetworkwesthd|",
 		"basealias": "foodnetworkus",
-		"country": 30,
+		"country": "us",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ff/food_network_us.png",
 		"name": "Food Network (US East-West)",
 		"group": "knowledge"
@@ -29640,7 +29640,7 @@
 		"_id": 8311,
 		"aliases": "|animаlplanеtindiahd|animаlplanеtsoutheastasia|animаlplanеtasia|animаlplanеtjapan|animаlplanеttürkiye|animаlplanеtmiddleeast|animаlplanеtaustralia|",
 		"basealias": "animalplanetindia",
-		"country": "ru",
+		"country": "in",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/aa/animal_planet_ca.png",
 		"name": "Animal Planet India (Asia)",
 		"group": "knowledge"
@@ -39153,7 +39153,7 @@
 		"_id": 20340,
 		"aliases": "|foodnetworkроссия|foodnetworkrussia|",
 		"basealias": "foodnetwork",
-		"country": "us",
+		"country": "ru",
 		"logo_url": "/logos/food-network.png",
 		"name": "Food Network",
 		"group": "knowledge"
@@ -57611,7 +57611,7 @@
 	},
 	{
 		"_id": 52138,
-		"aliases": "|reshet13hd|13|keshet13|keshet13il|reshet|reshet13il|reshethd|reshettv|reshetil|hahadashot13|hadashot13|13israel|13il|13hadashot|13hadashot2|решет13|13канализраиль|channel13израиль|",
+		"aliases": "|reshet13hd|13|keshet13|keshet13il|reshet|reshet13il|reshethd|reshettv|reshetil|hahadashot13|hadashot13|13israel|13il|13hadashot|13hadashot2|решет13|13канализраиль|channel13израиль|channel13il|решетhd|",
 		"basealias": "reshet13",
 		"country": "il",
 		"logo_url": "/logos/israel-13.png",
@@ -58405,7 +58405,7 @@
 		"_id": 52241,
 		"aliases": "|nationalgeographicwilduk|nationalgeographicwildbg|nationalgeographicwildhdbg|",
 		"basealias": "natgeowilduk",
-		"country": 30,
+		"country": "uk",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png",
 		"name": "Nat Geo Wild UK",
 		"group": "knowledge"
@@ -58421,9 +58421,9 @@
 	},
 	{
 		"_id": 52243,
-		"aliases": "|natgeowildhdtr|natgeowildil|nationalgeographicwildasia|natgeowildtürkiye|natgeowildturkiye|",
+		"aliases": "|natgeowildhdtr|nationalgeographicwildasia|natgeowildtürkiye|natgeowildturkiye|",
 		"basealias": "natgeowildasia",
-		"country": 30,
+		"country": "tr",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png",
 		"name": "Nat Geo Wild Asia",
 		"group": "knowledge"
@@ -59350,7 +59350,7 @@
 		"_id": 52354,
 		"aliases": "|foodnetworkca|foodnetworkcanadahd|",
 		"basealias": "foodnetworkcanada",
-		"country": 30,
+		"country": "ca",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ff/food_network_ca.png",
 		"name": "Food Network Canada",
 		"group": "knowledge"
@@ -59359,7 +59359,7 @@
 		"_id": 52355,
 		"aliases": "|foodnetworkроссияhd|fооdnetworkhd|foodnetworkrussiahd|foodnetworkfhd|",
 		"basealias": "foodnetworkhd",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "/logos/food-network-hd.png",
 		"name": "Food Network HD",
 		"group": "knowledge"
@@ -62905,7 +62905,7 @@
 		"_id": 52793,
 		"aliases": "|viasatexplorerhd|viasatexploreроссияhd|viasatexplorehdроссия|",
 		"basealias": "viasatexplorehd",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "/logos/viasat-explore-hd.png",
 		"name": "Viasat Explore HD",
 		"group": "knowledge"
@@ -63022,7 +63022,7 @@
 		"_id": 52806,
 		"aliases": "|golfviasathd|viasatgolfhdsk|",
 		"basealias": "viasatgolfhd",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/yytlw39g7x5w82j/viagolfhd.png",
 		"name": "Viasat Golf HD",
 		"group": "sport"
@@ -63031,7 +63031,7 @@
 		"_id": 52807,
 		"aliases": "|viasathistоryhd|historyviasathd|",
 		"basealias": "viasathistoryhd",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "/logos/viasat-history-hd.png",
 		"name": "Viasat History HD",
 		"group": "knowledge"
@@ -63040,7 +63040,7 @@
 		"_id": 52808,
 		"aliases": "",
 		"basealias": "viasathockeyhd",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/viasat_hockey_se_hd.png",
 		"name": "Viasat Hockey HD",
 		"group": "sport"
@@ -63112,7 +63112,7 @@
 		"_id": 52817,
 		"aliases": "|viasatsportроссияhd|sportviasathd|viasatsporteasthd|viasatsporthdроссия|",
 		"basealias": "viasatsporthd",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "/logos/viasat-sport-hd.png",
 		"name": "Viasat Sport HD",
 		"group": "sport"
@@ -63121,7 +63121,7 @@
 		"_id": 52818,
 		"aliases": "",
 		"basealias": "viasatsportpremium",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/viasat_sport_se_premium.png",
 		"name": "Vsport Premium",
 		"group": "sport"
@@ -63130,7 +63130,7 @@
 		"_id": 52819,
 		"aliases": "|viasatsporthdpremium|viasatsportpremiumhdsk|",
 		"basealias": "viasatsportpremiumhd",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/viasat_sport_se_premium_hd.png",
 		"name": "Vsport Premium HD",
 		"group": "sport"
@@ -63139,7 +63139,7 @@
 		"_id": 52820,
 		"aliases": "|tv1000bg|tv1000bulgaria|",
 		"basealias": "tv1000balkan",
-		"country": 30,
+		"country": "bg",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_balkan.png",
 		"name": "TV1000 Balkan",
 		"group": "films"
@@ -63506,7 +63506,7 @@
 	},
 	{
 		"_id": 52867,
-		"aliases": "|11israel|11|11il|kan11il|кан11|кан11hd|kan11hd|аруцришон|11канал|11канализраиль|channel11израиль|channel11israel|",
+		"aliases": "|11israel|11|11il|kan11il|кан11|кан11hd|kan11hd|аруцришон|11канал|11канализраиль|channel11израиль|channel11israel|channel11il|",
 		"basealias": "kan11",
 		"country": "il",
 		"logo_url": "/logos/israel-11.png",
@@ -64588,7 +64588,7 @@
 		"_id": 52998,
 		"aliases": "",
 		"basealias": "discoverysciencehd",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "/logos/discovery-science-hd.png",
 		"name": "Discovery Science HD",
 		"group": "knowledge"
@@ -75728,7 +75728,7 @@
 	},
 	{
 		"_id": 54281,
-		"aliases": "|keshet12hd|12|reshet12|reshet12il|12keshetisrael|keshet12il|12il|кешет12|keshet12|12israel|12kanalil|12канализраиль|channel12израиль|12каналisrael|",
+		"aliases": "|keshet12hd|12|reshet12|reshet12il|12keshetisrael|keshet12il|12il|кешет12|keshet12|12israel|12kanalil|12канализраиль|channel12израиль|12каналisrael|channel12il|кешетhd|",
 		"basealias": "keshet12",
 		"country": "il",
 		"logo_url": "/logos/israel-12.png",
@@ -86680,10 +86680,19 @@
 		"group": "films"
 	},
 	{
+		"_id": 55530,
+		"aliases": "|natgeowildisrael|nationalgeographicwildisrael|natgeowildilhd|natgeowildilhd|natgeowildisraelhd|nationalgeographicwildisraelhd|natgeowildhdil|",
+		"basealias": "natgeowildil",
+		"country": "il",
+		"logo_url": "https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png",
+		"name": "Nat Geo Wild IL",
+		"group": "knowledge"
+	},
+	{
 		"_id": 100000,
 		"aliases": "|multiktvgreece|",
 		"basealias": "multiktv",
-		"country": 30,
+		"country": "gr",
 		"logo_url": "",
 		"name": "MULTIKTV (Greece)",
 		"group": "kids"
@@ -89072,5 +89081,221 @@
 		"logo_url": "/logos/sportivny.png",
 		"name": "Спортивный HD",
 		"group": "sport"
+	},
+	{
+		"_id": 100274,
+		"aliases": "",
+		"basealias": "vfadventure",
+		"country": "ru",
+		"logo_url": "/logos/vf-adventure.png",
+		"name": "VF Adventure",
+		"group": "films"
+	},
+	{
+		"_id": 100275,
+		"aliases": "",
+		"basealias": "vfanime",
+		"country": "ru",
+		"logo_url": "/logos/vf-anime.png",
+		"name": "VF Anime",
+		"group": "films"
+	},
+	{
+		"_id": 100276,
+		"aliases": "",
+		"basealias": "vfcartoon",
+		"country": "ru",
+		"logo_url": "/logos/vf-cartoon.png",
+		"name": "VF Cartoon",
+		"group": "kids"
+	},
+	{
+		"_id": 100277,
+		"aliases": "",
+		"basealias": "vfcomedy",
+		"country": "ru",
+		"logo_url": "/logos/vf-comedy.png",
+		"name": "VF Comedy",
+		"group": "films"
+	},
+	{
+		"_id": 100278,
+		"aliases": "",
+		"basealias": "vffamily",
+		"country": "ru",
+		"logo_url": "/logos/vf-family.png",
+		"name": "VF Family",
+		"group": "films"
+	},
+	{
+		"_id": 100279,
+		"aliases": "",
+		"basealias": "vffantasy",
+		"country": "ru",
+		"logo_url": "/logos/vf-fantasy.png",
+		"name": "VF Fantasy",
+		"group": "films"
+	},
+	{
+		"_id": 100280,
+		"aliases": "",
+		"basealias": "vfmelodrama",
+		"country": "ru",
+		"logo_url": "/logos/vf-melodrama.png",
+		"name": "VF Melodrama",
+		"group": "films"
+	},
+	{
+		"_id": 100281,
+		"aliases": "",
+		"basealias": "vfmystic",
+		"country": "ru",
+		"logo_url": "/logos/vf-mystic.png",
+		"name": "VF Mystic",
+		"group": "films"
+	},
+	{
+		"_id": 100282,
+		"aliases": "",
+		"basealias": "vfuzhasy",
+		"country": "ru",
+		"logo_url": "/logos/vf-uzhasy.png",
+		"name": "VF Ужасы",
+		"group": "films"
+	},
+	{
+		"_id": 100283,
+		"aliases": "|vfvhsmix|",
+		"basealias": "vfvhs",
+		"country": "ru",
+		"logo_url": "/logos/vf-vhs.png",
+		"name": "VF VHS",
+		"group": "films"
+	},
+	{
+		"_id": 100284,
+		"aliases": "",
+		"basealias": "vfужасыvhs",
+		"country": "ru",
+		"logo_url": "/logos/vf-uzhasyvhs.png",
+		"name": "VF Ужасы VHS",
+		"group": "films"
+	},
+	{
+		"_id": 100285,
+		"aliases": "",
+		"basealias": "vfпремьера",
+		"country": "ru",
+		"logo_url": "/logos/vf-premiera.png",
+		"name": "VF Премьера",
+		"group": "films"
+	},
+	{
+		"_id": 100286,
+		"aliases": "",
+		"basealias": "vfpremiere",
+		"country": "ru",
+		"logo_url": "/logos/vf-premiere.png",
+		"name": "VF Premiere",
+		"group": "films"
+	},
+	{
+		"_id": 100287,
+		"aliases": "",
+		"basealias": "vfклассика",
+		"country": "ru",
+		"logo_url": "/logos/vf-classika.png",
+		"name": "VF Классика",
+		"group": "films"
+	},
+	{
+		"_id": 100288,
+		"aliases": "",
+		"basealias": "vfclassic",
+		"country": "ru",
+		"logo_url": "/logos/vf-classic.png",
+		"name": "VF Classic",
+		"group": "films"
+	},
+	{
+		"_id": 100289,
+		"aliases": "",
+		"basealias": "vfкомедия",
+		"country": "ru",
+		"logo_url": "/logos/vf-comedia.png",
+		"name": "VF Комедия",
+		"group": "films"
+	},
+	{
+		"_id": 100290,
+		"aliases": "",
+		"basealias": "vfmarvel",
+		"country": "ru",
+		"logo_url": "/logos/vf-marvel.png",
+		"name": "VF Marvel",
+		"group": "films"
+	},
+	{
+		"_id": 100291,
+		"aliases": "|vfбоевик|vfбоевики|",
+		"basealias": "vfboevik",
+		"country": "ru",
+		"logo_url": "/logos/vf-boevik.png",
+		"name": "VF Боевик",
+		"group": "films"
+	},
+	{
+		"_id": 100292,
+		"aliases": "",
+		"basealias": "vfвоенные",
+		"country": "ru",
+		"logo_url": "/logos/vf-voennye.png",
+		"name": "VF Военные",
+		"group": "films"
+	},
+	{
+		"_id": 100293,
+		"aliases": "",
+		"basealias": "vfкатастрофы",
+		"country": "ru",
+		"logo_url": "/logos/vf-katastrofa.png",
+		"name": "VF Катастрофы",
+		"group": "films"
+	},
+	{
+		"_id": 100294,
+		"aliases": "",
+		"basealias": "vfмосфильм",
+		"country": "ru",
+		"logo_url": "/logos/vf-mosfilm.png",
+		"name": "VF Мосфильм",
+		"group": "films"
+	},
+	{
+		"_id": 100295,
+		"aliases": "",
+		"basealias": "vfмультфильмыссср",
+		"country": "ru",
+		"logo_url": "/logos/vf-multfilmy-ussr.png",
+		"name": "VF Мультфильмы СССР",
+		"group": "films"
+	},
+	{
+		"_id": 100296,
+		"aliases": "",
+		"basealias": "vfнашапобеда",
+		"country": "ru",
+		"logo_url": "/logos/vf-nasha-pobeda.png",
+		"name": "VF Наша победа",
+		"group": "films"
+	},
+	{
+		"_id": 100297,
+		"aliases": "",
+		"basealias": "vfфильмыссср",
+		"country": "ru",
+		"logo_url": "/logos/vf-filmy-ussr.png",
+		"name": "VF Фильмы СССР",
+		"group": "films"
 	}
 ]
