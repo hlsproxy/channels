@@ -80804,7 +80804,7 @@
 	},
 	{
 		"_id": 54867,
-		"aliases": "|armenia6premium|sineman|atv6premium|atvcineman|cineman|armeniacineman|armeniacinemax|սինեման|սինեմանhd|սինեմաքս|",
+		"aliases": "|armenia6premium|sineman|atv6premium|atvcineman|armeniacineman|armeniacinemax|սինեման|սինեմանhd|սինեմաքս|",
 		"basealias": "armeniasineman",
 		"country": 30,
 		"logo_url": "https://dl.dropboxusercontent.com/s/vqxdupz16f58ewf/arm6p.png",
@@ -89341,6 +89341,105 @@
 		"country": "ru",
 		"logo_url": "/logos/bcu-premiere-hd.png",
 		"name": "BCU Кинозал Premiere 10 HD",
+		"group": "films"
+	},
+	{
+		"_id": 100305,
+		"aliases": "|cinemantophd|",
+		"basealias": "cinemantop",
+		"country": "ru",
+		"logo_url": "/logos/cineman-top.png",
+		"name": "CineMan Top",
+		"group": "films"
+	},
+	{
+		"_id": 100306,
+		"aliases": "|cinemanactionhd|",
+		"basealias": "cinemanaction",
+		"country": "ru",
+		"logo_url": "/logos/cineman-action.png",
+		"name": "CineMan Action",
+		"group": "films"
+	},
+	{
+		"_id": 100307,
+		"aliases": "|cinemanhd|",
+		"basealias": "cineman",
+		"country": "ru",
+		"logo_url": "/logos/cineman.png",
+		"name": "CineMan",
+		"group": "films"
+	},
+	{
+		"_id": 100308,
+		"aliases": "|cinemanmarvelhd|",
+		"basealias": "cinemanmarvel",
+		"country": "ru",
+		"logo_url": "/logos/cineman-marvel.png",
+		"name": "CineMan Marvel",
+		"group": "films"
+	},
+	{
+		"_id": 100309,
+		"aliases": "|cinemanmelodramahd|",
+		"basealias": "cinemanmelodrama",
+		"country": "ru",
+		"logo_url": "/logos/cineman-melodrama.png",
+		"name": "CineMan Melodrama",
+		"group": "films"
+	},
+	{
+		"_id": 100310,
+		"aliases": "|cinemanрукиноhd|cinemanrukino|cinemanrukinohd|",
+		"basealias": "cinemanрукино",
+		"country": "ru",
+		"logo_url": "/logos/cineman-rukino.png",
+		"name": "CineMan РуКино",
+		"group": "films"
+	},
+	{
+		"_id": 100311,
+		"aliases": "|cinemanсватыhd|cinemansvaty|cinemansvatyhd|",
+		"basealias": "cinemanсваты",
+		"country": "ru",
+		"logo_url": "/logos/cineman-svaty.png",
+		"name": "CineMan Сваты",
+		"group": "films"
+	},
+	{
+		"_id": 100312,
+		"aliases": "|cinemanthrillerhd|",
+		"basealias": "cinemanmthriller",
+		"country": "ru",
+		"logo_url": "/logos/cineman-thriller.png",
+		"name": "CineMan Thriller",
+		"group": "films"
+	},
+	{
+		"_id": 100313,
+		"aliases": "|cinemanvhshd|",
+		"basealias": "cinemanmvhs",
+		"country": "ru",
+		"logo_url": "/logos/cineman-vhs.png",
+		"name": "CineMan VHS",
+		"group": "films"
+	},
+	{
+		"_id": 100314,
+		"aliases": "|cinemanкомедияhd|cinemancomedy|cinemancomedyhd|",
+		"basealias": "cinemanmкомедия",
+		"country": "ru",
+		"logo_url": "/logos/cineman-comedy.png",
+		"name": "CineMan Комедия",
+		"group": "films"
+	},
+	{
+		"_id": 100315,
+		"aliases": "|cinemanужасыhd|cinemanuzhasy|cinemanuzhasyhd|",
+		"basealias": "cinemanmужасы",
+		"country": "ru",
+		"logo_url": "/logos/cineman-uzhasy.png",
+		"name": "CineMan Ужасы",
 		"group": "films"
 	}
 ]
