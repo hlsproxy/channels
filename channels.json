@@ -1378,7 +1378,7 @@
 	},
 	{
 		"_id": 159,
-		"aliases": "|setrussia|sonytv|sonyset|sonyтв|sonyrussia|sonytв|",
+		"aliases": "|setrussia|sonytv|sonyset|sonyтв|sonyrussia|sonytв|sonyentertainment|sonyentertainmenttelevision|set|",
 		"basealias": "sony",
 		"country": "ru",
 		"logo_url": "/logos/sony-channel.png",
@@ -1387,7 +1387,7 @@
 	},
 	{
 		"_id": 160,
-		"aliases": "|сониhd|sonyтвhd|sonysethd|sethd|sonyhdrussia|sonychannelhd|",
+		"aliases": "|сониhd|sonyтвhd|sonysethd|sethd|sonyhdrussia|sonychannelhd|sonyentertainmenttelevisionhd|sonyentertainmenthd|",
 		"basealias": "sonyhd",
 		"country": "ru",
 		"logo_url": "/logos/sony-channel-hd.png",
@@ -2368,7 +2368,7 @@
 	},
 	{
 		"_id": 270,
-		"aliases": "|k1|k1украина|",
+		"aliases": "|k1|k1украина|k1hdукраина||k1hdua|",
 		"basealias": "к1",
 		"country": "ua",
 		"logo_url": "/logos/k1-ua.png",
@@ -3550,7 +3550,7 @@
 		"aliases": "|luxuryhd|luxuryworldhd|luxuryworld|",
 		"basealias": "luxury",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/dypfnfwrwg06b62/luxury.png",
+		"logo_url": "/logos/luxury-hd.png",
 		"name": "Luxury",
 		"group": "knowledge"
 	},
@@ -3655,10 +3655,10 @@
 	},
 	{
 		"_id": 417,
-		"aliases": "|совсек|совсекретно|совершенносекретноhd|",
+		"aliases": "|совсек|совсекретно|совершенносекретноhd|topsecret|",
 		"basealias": "совершенносекретно",
 		"country": "ru",
-		"logo_url": "/logos/sovershenno-sekretno.png",
+		"logo_url": "/logos/top-secret.png",
 		"name": "Совершенно Секретно",
 		"group": "knowledge"
 	},
@@ -6565,7 +6565,7 @@
 		"aliases": "|первыйкосмическийhd|1йкосмический|1йкосмическийhd|kosmo|kosmohd|",
 		"basealias": "первыйкосмический",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/bf1hgfu4r36rc5l/kosmo.png",
+		"logo_url": "/logos/1-kosmichesky.png",
 		"name": "Первый космический",
 		"group": "common"
 	},
@@ -13459,7 +13459,7 @@
 		"aliases": "|першийнезалежний|первыйнезалежный|perszyjniezależnyj|",
 		"basealias": "perszyjniezaleznyj",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/6tsj5kay8w09zpq/persz-niez.png",
+		"logo_url": "/logos/1-nezalezhny.png",
 		"name": "Perszyj Niezaleznyj",
 		"group": "regional"
 	},
@@ -32161,7 +32161,7 @@
 		"aliases": "|rtrplanetaazia|россияртр|rtrplanetaasia|россияпланета|russiartr|ртрроссия|rtrrussia|",
 		"basealias": "ртрпланетаазия",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/pkyisxipyzoliua/rtrplaneta.png",
+		"logo_url": "/logos/rossia-rtr.png",
 		"name": "РТР-Планета (Азия)",
 		"group": "common"
 	},
@@ -42708,7 +42708,7 @@
 		"_id": 20824,
 		"aliases": "|spikerossiya|spikerussia|spikeроссия|spikeukr|spikeukraina|spikeроссияукраина|",
 		"basealias": "spike",
-		"country": "us",
+		"country": "ru",
 		"logo_url": "/logos/spike.png",
 		"name": "Spike",
 		"group": "films"
@@ -86971,7 +86971,7 @@
 		"_id": 100035,
 		"aliases": "|spikerossiyahd|spikerussiahd|spikeроссияhd|spikeukrhd|spikeukrainahd|",
 		"basealias": "spikehd",
-		"country": "us",
+		"country": "ru",
 		"logo_url": "/logos/spike-hd.png",
 		"name": "Spike HD",
 		"group": "films"
@@ -87047,24 +87047,6 @@
 		"logo_url": "/logos/govorit-moskva.png",
 		"name": "Говорит Москва",
 		"group": "news"
-	},
-	{
-		"_id": 100044,
-		"aliases": "|sonyentertainmenttelevision|set|",
-		"basealias": "sonyentertainment",
-		"country": "ru",
-		"logo_url": "/logos/sony-entertainment.png",
-		"name": "Sony Entertainment",
-		"group": "films"
-	},
-	{
-		"_id": 100045,
-		"aliases": "|sonyentertainmenttelevisionhd|",
-		"basealias": "sonyentertainmenthd",
-		"country": "ru",
-		"logo_url": "/logos/sony-entertainment-hd.png",
-		"name": "Sony Entertainment HD",
-		"group": "films"
 	},
 	{
 		"_id": 100046,
@@ -89296,6 +89278,69 @@
 		"country": "ru",
 		"logo_url": "/logos/vf-filmy-ussr.png",
 		"name": "VF Фильмы СССР",
+		"group": "films"
+	},
+	{
+		"_id": 100298,
+		"aliases": "|звезда+|звездаплюсhd|zvezdaplus|",
+		"basealias": "звездаплюс",
+		"country": "ru",
+		"logo_url": "/logos/zvezda-plus.png",
+		"name": "Звезда Плюс",
+		"group": "common"
+	},
+	{
+		"_id": 100299,
+		"aliases": "|bcupremiere5|bcupremiere5hd|bcuкинозалpremiere5hd|",
+		"basealias": "bcuкинозалpremiere5hd",
+		"country": "ru",
+		"logo_url": "/logos/bcu-premiere-hd.png",
+		"name": "BCU Кинозал Premiere 5 HD",
+		"group": "films"
+	},
+	{
+		"_id": 100300,
+		"aliases": "|bcupremiere6|bcupremiere6hd|bcuкинозалpremiere6hd|",
+		"basealias": "bcuкинозалpremiere6hd",
+		"country": "ru",
+		"logo_url": "/logos/bcu-premiere-hd.png",
+		"name": "BCU Кинозал Premiere 6 HD",
+		"group": "films"
+	},
+	{
+		"_id": 100301,
+		"aliases": "|bcupremiere7|bcupremiere7hd|bcuкинозалpremiere7hd|",
+		"basealias": "bcuкинозалpremiere7hd",
+		"country": "ru",
+		"logo_url": "/logos/bcu-premiere-hd.png",
+		"name": "BCU Кинозал Premiere 7 HD",
+		"group": "films"
+	},
+	{
+		"_id": 100302,
+		"aliases": "|bcupremiere8|bcupremiere8hd|bcuкинозалpremiere8hd|",
+		"basealias": "bcuкинозалpremiere8hd",
+		"country": "ru",
+		"logo_url": "/logos/bcu-premiere-hd.png",
+		"name": "BCU Кинозал Premiere 8 HD",
+		"group": "films"
+	},
+	{
+		"_id": 100303,
+		"aliases": "|bcupremiere9|bcupremiere9hd|bcuкинозалpremiere9hd|",
+		"basealias": "bcuкинозалpremiere9hd",
+		"country": "ru",
+		"logo_url": "/logos/bcu-premiere-hd.png",
+		"name": "BCU Кинозал Premiere 9 HD",
+		"group": "films"
+	},
+	{
+		"_id": 100304,
+		"aliases": "|bcupremiere10|bcupremiere10hd|bcuкинозалpremiere10hd|",
+		"basealias": "bcuкинозалpremiere10hd",
+		"country": "ru",
+		"logo_url": "/logos/bcu-premiere-hd.png",
+		"name": "BCU Кинозал Premiere 10 HD",
 		"group": "films"
 	}
 ]
