@@ -13456,7 +13456,7 @@
 	},
 	{
 		"_id": 1800,
-		"aliases": "|першийнезалежний|первыйнезалежный|perszyjniezależnyj|",
+		"aliases": "|першийнезалежний|первыйнезалежный|perszyjniezależnyj|1незалежний|",
 		"basealias": "perszyjniezaleznyj",
 		"country": "ua",
 		"logo_url": "/logos/1-nezalezhny.png",
@@ -48844,7 +48844,7 @@
 	},
 	{
 		"_id": 51066,
-		"aliases": "|cinemacosmos|cinematv|cinemahd|cinemaтв|cinemahdcosmos|cinemahdcosmostv|космос|",
+		"aliases": "|cinemacosmos|cinematv|cinemaтв|cinemahdcosmos|cinemahdcosmostv|космос|",
 		"basealias": "cinemaкосмос",
 		"country": "by",
 		"logo_url": "https://dl.dropboxusercontent.com/s/fsdwu3n7vsm8f8l/cinema-cos.jpg",
@@ -50311,7 +50311,7 @@
 	},
 	{
 		"_id": 51259,
-		"aliases": "|5livehd|5sportlive|sport5live|sport5liveil|+5live|plus5live|5+live|5+livehd|sport5+livehdil|",
+		"aliases": "|5livehd|5sportlive|sport5live|sport5livehd|sport5liveil|+5live|plus5live|5+live|5+livehd|sport5+livehdil|",
 		"basealias": "5live",
 		"country": "il",
 		"logo_url": "/logos/israel-5-live.png",
@@ -88193,7 +88193,7 @@
 	},
 	{
 		"_id": 100174,
-		"aliases": "|turkishdramas|turkishdramasisrael|turkishdramasplus|turkishdramasplusisrael|",
+		"aliases": "|turkishdrama|turkishdramas|turkishdramasisrael|turkishdramasplus|turkishdramasplusisrael|",
 		"basealias": "harutzhadramothaturkiyot",
 		"country": "il",
 		"logo_url": "/logos/israel-hot-turkish-dramas.png",
@@ -88985,7 +88985,7 @@
 	},
 	{
 		"_id": 100265,
-		"aliases": "",
+		"aliases": "|киноджем1|киноджем1hd|",
 		"basealias": "kinojam1",
 		"country": "ru",
 		"logo_url": "/logos/kinojam-1.png",
@@ -88994,7 +88994,7 @@
 	},
 	{
 		"_id": 100266,
-		"aliases": "",
+		"aliases": "|киноджем2|киноджем2hd|",
 		"basealias": "kinojam2",
 		"country": "ru",
 		"logo_url": "/logos/kinojam-2.png",
@@ -89440,6 +89440,15 @@
 		"country": "ru",
 		"logo_url": "/logos/cineman-uzhasy.png",
 		"name": "CineMan Ужасы",
+		"group": "films"
+	},
+	{
+		"_id": 100316,
+		"aliases": "|паркразвлеченийhd|parkrazvlechenyhd|синемаhd|cinémahd|",
+		"basealias": "cinemahd",
+		"country": "ru",
+		"logo_url": "/logos/cinema-hd.png",
+		"name": "Cinema HD",
 		"group": "films"
 	}
 ]
