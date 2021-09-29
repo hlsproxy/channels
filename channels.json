@@ -1084,7 +1084,7 @@
 		"aliases": "|musicboхuahd|musicboxукраина|musicboxuahd|musicboxhdua|musixboxua|musicboxukraine|musicboxукраинаhd|",
 		"basealias": "musicboxua",
 		"country": "ua",
-		"logo_url": "",
+		"logo_url": "/logos/music-box.png",
 		"name": "Music Box UA",
 		"group": "music"
 	},
@@ -3331,7 +3331,7 @@
 	},
 	{
 		"_id": 380,
-		"aliases": "|рбкюжныйрегион|рбкомск|рбкhd|рбкпермь|рбкfhd|",
+		"aliases": "|рбкюжныйрегион|рбкомск|рбкhd|рбкпермь|рбкfhd|рбктв|",
 		"basealias": "рбк",
 		"country": "ru",
 		"logo_url": "/logos/rbk.png",
@@ -4294,9 +4294,9 @@
 	},
 	{
 		"_id": 489,
-		"aliases": "|armeniansecond|armenia2satellite|armenia2europe|h2armenia|2tvarmenia|Հ2|հ2|hayastan2|հանրային2|",
+		"aliases": "|armeniansecond|armenia2satellite|armenia2europe|h2armenia|2tvarmenia|Հ2|հ2|h2|h2am|hayastan2|հանրային2|",
 		"basealias": "armenia2",
-		"country": "ru",
+		"country": "am",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/hh/h2_tv_am.png",
 		"name": "Armenia 2 TV",
 		"group": "regional"
@@ -4450,7 +4450,7 @@
 		"aliases": "|сонцеhd|солнце|sonce|",
 		"basealias": "сонце",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/mxtldkvmsfi42zu/sonce.png",
+		"logo_url": "/logos/solnce.png",
 		"name": "Сонце",
 		"group": "entertainment"
 	},
@@ -6571,10 +6571,10 @@
 	},
 	{
 		"_id": 743,
-		"aliases": "|israeleducation|kaneducationalhd|education23|kanelady|channel23|kaneducationhd|kan23il|kaneducation|kanchinuchit|kanhinuchit|учебный|hinuhit|kanhinuhit|",
+		"aliases": "|israeleducation|kaneducationalhd|education23|kanelady|channel23|kaneducationhd|kan23il|kaneducation|kanchinuchit|kanhinuchit|учебный|hinuhit|kanhinuhit|kanedu|",
 		"basealias": "kaneducational",
 		"country": "il",
-		"logo_url": "/logos/israel-tohnit.png",
+		"logo_url": "/logos/israel-kan-hinuhit.png",
 		"name": "KAN Educational",
 		"group": "israel"
 	},
@@ -12549,10 +12549,10 @@
 		"_id": 1699,
 		"aliases": "",
 		"basealias": "mikan",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/mm/mikan.png",
+		"country": "il",
+		"logo_url": "/logos/israel-mikan.png",
 		"name": "Mikan",
-		"group": "notfound"
+		"group": "israel"
 	},
 	{
 		"_id": 1700,
@@ -18166,7 +18166,7 @@
 		"aliases": "|yesпутешествия|travelisrael|travelil|путешествия|",
 		"basealias": "yestravel",
 		"country": "il",
-		"logo_url": "https://dl.dropboxusercontent.com/s/8m8viq8a8x4aq2h/yestravel.png",
+		"logo_url": "/logos/israel-yes-travel.png",
 		"name": "Yes Travel Channel",
 		"group": "israel"
 	},
@@ -18339,7 +18339,7 @@
 		"country": "ru",
 		"logo_url": "/logos/hit.png",
 		"name": "Хит",
-		"group": "music"
+		"group": "films"
 	},
 	{
 		"_id": 2507,
@@ -19939,9 +19939,9 @@
 		"aliases": "|blackhd|",
 		"basealias": "black",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/hw28jz2hogeb00g/black.png",
+		"logo_url": "/logos/black.png",
 		"name": "Black",
-		"group": "notfound"
+		"group": "films"
 	},
 	{
 		"_id": 3028,
@@ -23854,7 +23854,7 @@
 		"aliases": "|scifiuniversal|scifipolskahd|scifi|scifihd|",
 		"basealias": "scifipolska",
 		"country": "pl",
-		"logo_url": "https://dl.dropboxusercontent.com/s/0rk6kk5gqmq5drh/scifi.png",
+		"logo_url": "/logos/sci-fi.png",
 		"name": "SciFi Polska",
 		"group": "films"
 	},
@@ -27127,10 +27127,10 @@
 	},
 	{
 		"_id": 8002,
-		"aliases": "|hdfashionlifestyle|hdfashionlifestyleua|hdfashionandlifestyle|hdfashionua|fashionlifestyleuahd|hdfashionuа|",
+		"aliases": "|hdfashionlifestyle|hdfashionlifestyleua|hdfashionandlifestyle|hdfashionua|fashionlifestyleuahd|hdfashionuа|fashionlifestyle|fashionandlifestyle|fashionandlifestylehd|",
 		"basealias": "hdfashion",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/wlce50qtu782s58/hdfashion.png",
+		"logo_url": "/logos/fashion-and-lifestyle-hd.png",
 		"name": "HDFashion",
 		"group": "entertainment"
 	},
@@ -36118,11 +36118,11 @@
 	},
 	{
 		"_id": 10257,
-		"aliases": "|h2rus|h2russ|history2|h2history|h2tv|",
-		"basealias": "h2",
+		"aliases": "|h2rus|h2russ|h2history|h2tv|",
+		"basealias": "history2",
 		"country": "ru",
 		"logo_url": "/logos/history-2.png",
-		"name": "H2",
+		"name": "History 2",
 		"group": "knowledge"
 	},
 	{
@@ -36256,7 +36256,7 @@
 		"aliases": "|первыймузыкальныйhd|первыймузыкальныйbyhd|первыймузыкальныйhdby|firstmusichd|onehdby|",
 		"basealias": "onebyhd",
 		"country": "by",
-		"logo_url": "https://dl.dropboxusercontent.com/s/safyl4e6h82uhsx/oneby.png",
+		"logo_url": "/logos/oneby.png",
 		"name": "1 Музыкальный HD",
 		"group": "music"
 	},
@@ -47485,7 +47485,7 @@
 	},
 	{
 		"_id": 50335,
-		"aliases": "|9|9израиль|9kanalisrael|израильплюс|israel+|9hd|9hdil|9hdизраиль|9israel|9il|9israelrus|9израильhd|9канал|9каналhd|channel9израиль|",
+		"aliases": "|9|9израиль|9kanalisrael|израильплюс|israel+|9hd|9hdil|9hdизраиль|9israel|9il|9israelrus|9израильhd|9канал|9каналhd|channel9израиль|channel9il|channel9hdil|",
 		"basealias": "9канализраиль",
 		"country": "il",
 		"logo_url": "/logos/9channel-il.png",
@@ -47521,7 +47521,7 @@
 	},
 	{
 		"_id": 50347,
-		"aliases": "|hidavrut|hidabrut|arutzhahedabrut|hidabrutil|",
+		"aliases": "|hidavrut|hidabrut|arutzhahedabrut|hidabrutil|ערוץההידברות|",
 		"basealias": "hidabroot",
 		"country": "il",
 		"logo_url": "/logos/israel-hidabrut.png",
@@ -47557,10 +47557,10 @@
 	},
 	{
 		"_id": 50354,
-		"aliases": "|кабала|каббалаtv|66канал|66kanal|",
+		"aliases": "|кабала|каббалаtv|66канал|66kanal|ערוץהקבלה|",
 		"basealias": "каббала",
 		"country": 31,
-		"logo_url": "https://dl.dropboxusercontent.com/s/bz5bib7ose75rfa/kabb.png",
+		"logo_url": "/logos/israel-66-kabbala.png",
 		"name": "Каббала ТВ",
 		"group": "religious"
 	},
@@ -47602,30 +47602,30 @@
 	},
 	{
 		"_id": 50392,
-		"aliases": "|yesactionhd|yesactionhdil|yesstarsaction|yesstarsactionhd|",
+		"aliases": "|yesactionhd|yesactionhdil|yesstarsaction|yesstarsactionhd|yestvaction|yestvactionil|",
 		"basealias": "yesaction",
 		"country": "il",
 		"logo_url": "/logos/israel-yes-action.png",
 		"name": "Yes Action",
-		"group": "films"
+		"group": "israel"
 	},
 	{
 		"_id": 50393,
 		"aliases": "|yestv|yesca|yescanada|yescalgary|yescaedmonton|",
 		"basealias": "yes",
-		"country": 31,
+		"country": "ca",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/yy/yes_tv_ca.png",
 		"name": "Yes TV (CA)",
 		"group": "films"
 	},
 	{
 		"_id": 50394,
-		"aliases": "|yescomedyhd|yescomedyhdil|yesstarscomedy|",
+		"aliases": "|yescomedyhd|yescomedyhdil|yesstarscomedy|yestvcomedy|yestvcomedyil|",
 		"basealias": "yescomedy",
 		"country": "il",
 		"logo_url": "/logos/israel-yes-comedy.png",
 		"name": "Yes Comedy",
-		"group": "films"
+		"group": "israel"
 	},
 	{
 		"_id": 50395,
@@ -47634,16 +47634,16 @@
 		"country": "il",
 		"logo_url": "/logos/israel-yes-docu.png",
 		"name": "Yes Docu",
-		"group": "knowledge"
+		"group": "israel"
 	},
 	{
 		"_id": 50396,
-		"aliases": "|yesdramahd|yesdramahdil|yesstarsdrama|yesstarsdramahd|",
+		"aliases": "|yesdramahd|yesdramahdil|yesstarsdrama|yesstarsdramahd|yestvdrama|yestvdramail|",
 		"basealias": "yesdrama",
 		"country": "il",
 		"logo_url": "/logos/israel-yes-drama.png",
 		"name": "Yes Drama",
-		"group": "films"
+		"group": "israel"
 	},
 	{
 		"_id": 50397,
@@ -47652,7 +47652,7 @@
 		"country": "il",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/yy/yes_dvdbox.png",
 		"name": "Yes DVDbox",
-		"group": "films"
+		"group": "israel"
 	},
 	{
 		"_id": 50399,
@@ -47670,7 +47670,7 @@
 		"country": "il",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/yy/yes_oh_il.png",
 		"name": "Yes Oh",
-		"group": "entertainment"
+		"group": "israel"
 	},
 	{
 		"_id": 50401,
@@ -47679,7 +47679,7 @@
 		"country": "il",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/yy/yes_raduga.png",
 		"name": "Yes Raduga",
-		"group": "regional"
+		"group": "israel"
 	},
 	{
 		"_id": 50402,
@@ -47688,7 +47688,7 @@
 		"country": "il",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/yy/yes_vod_kids_il.png",
 		"name": "Yes VOD Kids",
-		"group": "kids"
+		"group": "israel"
 	},
 	{
 		"_id": 50403,
@@ -47697,7 +47697,7 @@
 		"country": "il",
 		"logo_url": "/logos/israel-yes-01.png",
 		"name": "Yes 1 HD",
-		"group": "films"
+		"group": "israel"
 	},
 	{
 		"_id": 50404,
@@ -47706,7 +47706,7 @@
 		"country": "il",
 		"logo_url": "/logos/israel-yes-02.png",
 		"name": "Yes 2 HD",
-		"group": "films"
+		"group": "israel"
 	},
 	{
 		"_id": 50405,
@@ -47715,7 +47715,7 @@
 		"country": "il",
 		"logo_url": "/logos/israel-yes-03.png",
 		"name": "Yes 3 HD",
-		"group": "films"
+		"group": "israel"
 	},
 	{
 		"_id": 50417,
@@ -47724,7 +47724,7 @@
 		"country": "il",
 		"logo_url": "/logos/israel-yes-04.png",
 		"name": "Yes 4 HD",
-		"group": "films"
+		"group": "israel"
 	},
 	{
 		"_id": 50418,
@@ -47733,7 +47733,7 @@
 		"country": "il",
 		"logo_url": "/logos/israel-yes-05.png",
 		"name": "Yes 5 HD",
-		"group": "films"
+		"group": "israel"
 	},
 	{
 		"_id": 50429,
@@ -48054,10 +48054,10 @@
 		"_id": 50471,
 		"aliases": "|hotcomedycentral|",
 		"basealias": "hotcomedycentralhd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/jgl4rh3hu265b2b/hotcomedycentralhd.jpg",
+		"country": "il",
+		"logo_url": "/logos/israel-hot-comedy-central.png",
 		"name": "HOT Comedy Central HD",
-		"group": "films"
+		"group": "israel"
 	},
 	{
 		"_id": 50474,
@@ -48171,8 +48171,8 @@
 		"_id": 50493,
 		"aliases": "|5goldhd|+5gold|5sportgold|plus5gold|sport5goldil|5+gold|sport5+gold|5plusgold|sport5gold|",
 		"basealias": "5gold",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/zlkn1awslkbtg8c/5gold.png",
+		"country": "il",
+		"logo_url": "/logos/israel-05-sport-gold.png",
 		"name": "5 Gold (IL)",
 		"group": "sport"
 	},
@@ -48216,10 +48216,10 @@
 		"_id": 50504,
 		"aliases": "|5спорт4k|sport54k|sport5uhd|5спортuhd|спорт5uhd|5sportuhd|",
 		"basealias": "5sport4k",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/icgcaatlkh71qzn/54k.png",
+		"country": "il",
+		"logo_url": "/logos/israel-05-sport-4k.png",
 		"name": "5 Sport 4K (IL)",
-		"group": "sport"
+		"group": "israel"
 	},
 	{
 		"_id": 50512,
@@ -48259,10 +48259,10 @@
 	},
 	{
 		"_id": 50525,
-		"aliases": "|new24|new24hd|channel24|24music|music24hd|arutzhamusica24|",
+		"aliases": "|new24|new24hd|channel24|24music|music24hd|arutzhamusica24|channel24musichdil|",
 		"basealias": "music24",
 		"country": "il",
-		"logo_url": "https://dl.dropboxusercontent.com/s/lt7ep3y43uodd0n/new24.png",
+		"logo_url": "/logos/israel-24-new.png",
 		"name": "Music 24 Israel",
 		"group": "israel"
 	},
@@ -51562,7 +51562,7 @@
 	},
 	{
 		"_id": 51411,
-		"aliases": "|yaldutisraelit|hopyaldutisraeli|yaldutil|hopchildhood|hopchildhoodil|детствоизраиля|хопизраильскоедетство|израильскоедетство|israelichildishness|hopisraeligirls|",
+		"aliases": "|yaldutisraelit|hopyaldutisraeli|yaldutil|hopchildhood|hopchildhoodil|детствоизраиля|хопизраильскоедетство|израильскоедетство|israelichildishness|hopisraeligirls|yeshopchildhood|",
 		"basealias": "hopyaldutisraelit",
 		"country": "il",
 		"logo_url": "/logos/israel-hop-girls.png",
@@ -51607,7 +51607,7 @@
 	},
 	{
 		"_id": 51418,
-		"aliases": "|oneisrael|onehdis|onehdisrael|sportone|onesport|onesportil|sportonehd|onehdil|",
+		"aliases": "|oneisrael|onehdis|onehdisrael|sportone|onesport|onesportil|sportonehd|onehdil|one1hdil|",
 		"basealias": "oneil",
 		"country": "il",
 		"logo_url": "/logos/one-hd-il.png",
@@ -52248,10 +52248,10 @@
 		"_id": 51493,
 		"aliases": "",
 		"basealias": "yesnews",
-		"country": 30,
+		"country": "il",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/yy/yes_il_news.png",
 		"name": "Yes News",
-		"group": "news"
+		"group": "israel"
 	},
 	{
 		"_id": 51494,
@@ -54902,7 +54902,6 @@
 	{
 		"_id": 51797,
 		"aliases": "|planetahdbulgaria|planetahdболгария|bgplanetahd|планетаhdболгария|",
-		"aliases": "|planetahdbulgaria|planetahdболгария|bgplanetahd|",
 		"basealias": "planetahd",
 		"country": "bg",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/pp/planeta_tv_hd.png",
@@ -57611,7 +57610,7 @@
 	},
 	{
 		"_id": 52138,
-		"aliases": "|reshet13hd|13|keshet13|keshet13il|reshet|reshet13il|reshethd|reshettv|reshetil|hahadashot13|hadashot13|13israel|13il|13hadashot|13hadashot2|решет13|13канализраиль|channel13израиль|channel13il|решетhd|",
+		"aliases": "|reshet13hd|13|keshet13|keshet13il|reshet|reshet13il|reshethd|reshettv|reshetil|hahadashot13|hadashot13|13israel|13il|13hadashot|13hadashot2|решет13|13канализраиль|channel13израиль|channel13il|решетhd|channel13ilhd|channel13hdil|",
 		"basealias": "reshet13",
 		"country": "il",
 		"logo_url": "/logos/israel-13.png",
@@ -58340,7 +58339,7 @@
 	},
 	{
 		"_id": 52231,
-		"aliases": "|nationalgeographictürkiye|nationalgeographicturk|nationalgeographicil|nationalgeographichongkong|",
+		"aliases": "|nationalgeographictürkiye|nationalgeographicturk|nationalgeographichongkong|",
 		"basealias": "nationalgeographicasia",
 		"country": 30,
 		"logo_url": "/logos/national-geographic.png",
@@ -63680,7 +63679,7 @@
 		"aliases": "|historyil|historyhdil|historyhdisrael|",
 		"basealias": "historyisrael",
 		"country": "il",
-		"logo_url": "https://dl.dropboxusercontent.com/s/x615xi961p2eaxz/historyil.jpg",
+		"logo_url": "/logos/israel-history.png",
 		"name": "History Channel Israel",
 		"group": "israel"
 	},
@@ -63722,7 +63721,7 @@
 	},
 	{
 		"_id": 52891,
-		"aliases": "|hotbidur|hotбидурисраэли|entertainmentil|",
+		"aliases": "|hotbidur|hotбидурисраэли|entertainmentil|hotentertainmentil|hotentertainmenthdil|",
 		"basealias": "hotbidurisraeli",
 		"country": "il",
 		"logo_url": "/logos/israel-hot-entertainment.png",
@@ -63770,7 +63769,7 @@
 		"aliases": "|bigbrotheril|האחהגדול|",
 		"basealias": "bigbrotherisrael",
 		"country": "il",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/big_brother_il.png",
+		"logo_url": "/logos/israel-big-brother.png",
 		"name": "Big Brother Israel",
 		"group": "israel"
 	},
@@ -63904,10 +63903,10 @@
 		"_id": 52914,
 		"aliases": "",
 		"basealias": "yesbollywood",
-		"country": 30,
+		"country": "il",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/yy/yes_bollywood_il.png",
 		"name": "Yes Bollywood",
-		"group": "films"
+		"group": "israel"
 	},
 	{
 		"_id": 52915,
@@ -63916,7 +63915,7 @@
 		"country": "il",
 		"logo_url": "/logos/israel-ego-total.png",
 		"name": "Ego Total",
-		"group": "adult"
+		"group": "israel"
 	},
 	{
 		"_id": 52916,
@@ -73210,8 +73209,8 @@
 		"_id": 53995,
 		"aliases": "|bcucinema|bcuboxcinema|bcuboxcinemahd|boxcinemabcu|",
 		"basealias": "bcucinemahd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/4zv6qidover3inm/boxcinema.png",
+		"country": "ru",
+		"logo_url": "/logos/bcu-cinema-hd.png",
 		"name": "BCU Cinema HD",
 		"group": "films"
 	},
@@ -75728,7 +75727,7 @@
 	},
 	{
 		"_id": 54281,
-		"aliases": "|keshet12hd|12|reshet12|reshet12il|12keshetisrael|keshet12il|12il|кешет12|keshet12|12israel|12kanalil|12канализраиль|channel12израиль|12каналisrael|channel12il|кешетhd|",
+		"aliases": "|keshet12hd|12|reshet12|reshet12il|12keshetisrael|keshet12il|12il|кешет12|keshet12|12israel|12kanalil|12канализраиль|channel12израиль|12каналisrael|channel12il|кешетhd|channel12ilhd|channel12hdil|",
 		"basealias": "keshet12",
 		"country": "il",
 		"logo_url": "/logos/israel-12.png",
@@ -76126,8 +76125,8 @@
 		"_id": 54325,
 		"aliases": "|mtv00s|mtvoos|",
 		"basealias": "mtvomg",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/ycnzjd38s1ozf3z/mtvomg.png",
+		"country": "ww",
+		"logo_url": "/logos/mtv-00s.png",
 		"name": "MTV OMG",
 		"group": "music"
 	},
@@ -76718,10 +76717,10 @@
 	},
 	{
 		"_id": 54391,
-		"aliases": "|powerhd|",
+		"aliases": "|powerhd|powertv|",
 		"basealias": "power",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/pp/power_tr_tv.png",
+		"country": "tr",
+		"logo_url": "/logos/power-tv.png",
 		"name": "Power TV (TR)",
 		"group": "entertainment"
 	},
@@ -78988,10 +78987,10 @@
 		"_id": 54651,
 		"aliases": "|yesedgehd|",
 		"basealias": "yesedge",
-		"country": 30,
+		"country": "il",
 		"logo_url": "https://dl.dropboxusercontent.com/s/2e415e00bjdqckd/yesedg.jpg",
 		"name": "Yes Edge",
-		"group": "films"
+		"group": "israel"
 	},
 	{
 		"_id": 54652,
@@ -83201,9 +83200,9 @@
 		"aliases": "|мирвокругhd|",
 		"basealias": "мирвокруг",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/w6mmnrnjmshczzr/mirvokr.png",
+		"logo_url": "/logos/mir-vokrug.png",
 		"name": "Мир Вокруг",
-		"group": "common"
+		"group": "knowledge"
 	},
 	{
 		"_id": 55138,
@@ -83533,16 +83532,16 @@
 		"_id": 55175,
 		"aliases": "|flixsniphd|flixsnipsd|",
 		"basealias": "flixsnip",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "/logos/flix-snip.png",
 		"name": "FlixSnip",
-		"group": "notfound"
+		"group": "films"
 	},
 	{
 		"_id": 55176,
 		"aliases": "|eurocinemahd|eurocinemasd|",
 		"basealias": "eurocinema",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/v2wefjyu6378772/eu-cin.png",
 		"name": "Eurocinema",
 		"group": "films"
@@ -83581,7 +83580,7 @@
 		"country": "ru",
 		"logo_url": "/logos/mir-basketbola.png",
 		"name": "Мир баскетбола",
-		"group": "common"
+		"group": "sport"
 	},
 	{
 		"_id": 55181,
@@ -86000,7 +85999,7 @@
 		"aliases": "|кускусhd|kuskus|кускусhdua|",
 		"basealias": "кускус",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/sg2mie0m5813ri1/kuskus.png",
+		"logo_url": "/logos/kuskus-hd.png",
 		"name": "Кус-Кус",
 		"group": "knowledge"
 	},
@@ -86072,7 +86071,7 @@
 		"aliases": "|bcuсссрhd|bcuкинозалсссрhd|",
 		"basealias": "bcuкинозалссср",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/bgrghif90b39i8x/bcu-sssr.png",
+		"logo_url": "/logos/bcu-sssr-hd.png",
 		"name": "BCU СССР",
 		"group": "films"
 	},
@@ -86987,20 +86986,11 @@
 	},
 	{
 		"_id": 100037,
-		"aliases": "|rtdochd|rtdochd|rtdocumentaryhd|russiatodaydocumentaryhd|rtdhd|",
+		"aliases": "|rtdochd|rtdochd|rtdocumentaryhd|russiatodaydocumentaryhd|rtdhd|russiatodayдокhd|rtдhd|rtдокhd|rtдрусскийhd|russiatodayдокументальныйhd|russiatodaydocrushd|rtдокументальныйhd|",
 		"basealias": "russiatodaydochd",
 		"country": "ru",
 		"logo_url": "/logos/russia-today-doc-hd.png",
 		"name": "Russia Today Doc HD",
-		"group": "news"
-	},
-	{
-		"_id": 100038,
-		"aliases": "|rtдhd|rtдокhd|rtдрусскийhd|russiatodayдокументальныйhd|russiatodaydocrushd|rtдокументальныйhd|",
-		"basealias": "russiatodayдокhd",
-		"country": "ru",
-		"logo_url": "/logos/russia-today-doc-hd.png",
-		"name": "Russia Today Док HD",
 		"group": "news"
 	},
 	{
@@ -87662,11 +87652,11 @@
 	},
 	{
 		"_id": 100115,
-		"aliases": "",
-		"basealias": "shakhtar",
+		"aliases": "|shakhtarhd|шахтарhd|шахтар|shakhtar|",
+		"basealias": "shakhtartv",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/m10v9um189gs1h1/shakhtar.png",
-		"name": "Shakhtar TV",
+		"logo_url": "/logos/shakhtar-tv.png",
+		"name": "Шахтар ТВ",
 		"group": "sport"
 	},
 	{
@@ -89450,5 +89440,77 @@
 		"logo_url": "/logos/cinema-hd.png",
 		"name": "Cinema HD",
 		"group": "films"
+	},
+	{
+		"_id": 100317,
+		"aliases": "|yesmoviesdramahd|",
+		"basealias": "yesmoviesdrama",
+		"country": "il",
+		"logo_url": "/logos/israel-yes-movies-drama.png",
+		"name": "Yes Movies Drama",
+		"group": "israel"
+	},
+	{
+		"_id": 100318,
+		"aliases": "|yesmoviesactionhd|",
+		"basealias": "yesmoviesaction",
+		"country": "il",
+		"logo_url": "/logos/israel-yes-movies-action.png",
+		"name": "Yes Movies Action",
+		"group": "israel"
+	},
+	{
+		"_id": 100319,
+		"aliases": "|yesmoviescomedyhd|",
+		"basealias": "yesmoviescomedy",
+		"country": "il",
+		"logo_url": "/logos/israel-yes-movies-comedy.png",
+		"name": "Yes Movies Comedy",
+		"group": "israel"
+	},
+	{
+		"_id": 100320,
+		"aliases": "|yesmovieskidshd|",
+		"basealias": "yesmovieskids",
+		"country": "il",
+		"logo_url": "/logos/israel-yes-movies-kids.png",
+		"name": "Yes Movies Kids",
+		"group": "israel"
+	},
+	{
+		"_id": 100321,
+		"aliases": "|ערוץההומור|",
+		"basealias": "humorchannelhd",
+		"country": "il",
+		"logo_url": "/logos/israel-humor.png",
+		"name": "Humor Channel IL",
+		"group": "israel"
+	},
+	{
+		"_id": 100322,
+		"aliases": "|חגיגהמזרחית|",
+		"basealias": "hagigamizrahit",
+		"country": "il",
+		"logo_url": "/logos/israel-hagiga-mizrahit.png",
+		"name": "Hagiga Mizrahit",
+		"group": "israel"
+	},
+	{
+		"_id": 100323,
+		"aliases": "|nationalgeographicsil|nationalgeographichdil|nationalgeographicshdil|",
+		"basealias": "nationalgeographicil",
+		"country": "il",
+		"logo_url": "/logos/national-geographic.png",
+		"name": "National Geographic IL",
+		"group": "knowledge"
+	},
+	{
+		"_id": 100324,
+		"aliases": "|1ростов|",
+		"basealias": "первыйростовский",
+		"country": "ru",
+		"logo_url": "/logos/1rostov.png",
+		"name": "Первый Ростовский",
+		"group": "regional"
 	}
 ]
