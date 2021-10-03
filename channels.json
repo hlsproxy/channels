@@ -1093,7 +1093,7 @@
 		"aliases": "|nhkworldjapan|nhk|nhkhd|nhkworldhd|nhkworldjapanhd|",
 		"basealias": "nhkworld",
 		"country": "ru",
-		"logo_url": "",
+		"logo_url": "/logos/nhk.png",
 		"name": "NHK World TV",
 		"group": "news"
 	},
@@ -1804,7 +1804,7 @@
 		"aliases": "|ювелирочкатв|ювелирочкамода|",
 		"basealias": "ювелирочка",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/jj/juvelirochka_ru.png",
+		"logo_url": "/logos/yuvelirochka.png",
 		"name": "Ювелирочка",
 		"group": "shopping"
 	},
@@ -2515,7 +2515,7 @@
 		"aliases": "|вместерфhd|vmesterf|телеканалсоветафедерациивместерф|",
 		"basealias": "вместерф",
 		"country": "ru",
-		"logo_url": "",
+		"logo_url": "/logos/vmeste-rf.png",
 		"name": "Вместе-РФ",
 		"group": "news"
 	},
@@ -3397,7 +3397,7 @@
 		"aliases": "|rtrplanetaeu|ртрпланетаснг|ртрпланета|rtrпланета|rtrplaneta|planetartr|ртрпланетаукраина|россияпланетаевропа|планетартр|",
 		"basealias": "ртрпланетаевропа",
 		"country": "ru",
-		"logo_url": "",
+		"logo_url": "/logos/rtr-planeta.png",
 		"name": "РТР-Планета (Европа)",
 		"group": "common"
 	},
@@ -3658,7 +3658,7 @@
 		"aliases": "|совсек|совсекретно|совершенносекретноhd|topsecret|",
 		"basealias": "совершенносекретно",
 		"country": "ru",
-		"logo_url": "/logos/top-secret.png",
+		"logo_url": "/logos/sovershenno-sekretno.png",
 		"name": "Совершенно Секретно",
 		"group": "knowledge"
 	},
@@ -3667,7 +3667,7 @@
 		"aliases": "|союз|souz|soyuz|",
 		"basealias": "телеканалсоюз",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ss/soyuz_ru.png",
+		"logo_url": "/logos/souz.png",
 		"name": "Телеканал Союз",
 		"group": "religious"
 	},
@@ -3676,7 +3676,7 @@
 		"aliases": "|spas|",
 		"basealias": "спас",
 		"country": "ru",
-		"logo_url": "",
+		"logo_url": "/logos/spas.png",
 		"name": "Спас ТВ",
 		"group": "religious"
 	},
@@ -4558,7 +4558,7 @@
 		"aliases": "|tochka|",
 		"basealias": "точка",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tochka_tv_ru.png",
+		"logo_url": "/logos/tochka-tv.png",
 		"name": "Точка ТВ",
 		"group": "common"
 	},
@@ -6007,7 +6007,7 @@
 		"aliases": "|perezinternational|перецint|перецi|perezint|перецintl|",
 		"basealias": "перецinternational",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/pp/peretz_tv_ru_international.png",
+		"logo_url": "/logos/peretz-international.png",
 		"name": "Перец International",
 		"group": "entertainment"
 	},
@@ -15571,10 +15571,10 @@
 	},
 	{
 		"_id": 2048,
-		"aliases": "|deutschewelleeu|dweurope|dweu|",
+		"aliases": "|deutschewelleeu|dweurope|dweu|dwtv|",
 		"basealias": "deutschewelleeurope",
 		"country": "de",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png",
+		"logo_url": "/logos/dw-tv.png",
 		"name": "DW Europe",
 		"group": "news"
 	},
@@ -17049,8 +17049,8 @@
 		"_id": 2238,
 		"aliases": "",
 		"basealias": "tvrus",
-		"country": "de",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tv_rus.png",
+		"country": "ru",
+		"logo_url": "/logos/tv-rus.png",
 		"name": "TV Rus",
 		"group": "common"
 	},
@@ -28111,7 +28111,7 @@
 		"aliases": "|shopandshow|шопэндшоу|",
 		"basealias": "shopshow",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ss/shop_and_show_ru.png",
+		"logo_url": "/logos/shop-and-show.png",
 		"name": "Shop&Show",
 		"group": "shopping"
 	},
@@ -29614,7 +29614,7 @@
 		"aliases": "|первыйевропа|1tvruseurope|1ruseurope|",
 		"basealias": "первыйканалевропа",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/pp/perviy_1_kanal.png",
+		"logo_url": "/logos/perviy-europa.png",
 		"name": "Первый канал Европа",
 		"group": "common"
 	},
@@ -48909,9 +48909,9 @@
 		"_id": 51075,
 		"aliases": "|новатвболгария|новаболгария|нователевизия|нователевизияболгария|нователевизияbulgaria|нова|bgnova|novabulgaria|novamk|novabg|",
 		"basealias": "nova",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/nn/nova_tv_bg.png",
-		"name": "Nova TV (BG)",
+		"country": "bg",
+		"logo_url": "/logos/nova-bg.png",
+		"name": "Nova TV",
 		"group": "entertainment"
 	},
 	{
@@ -65656,10 +65656,10 @@
 	},
 	{
 		"_id": 53128,
-		"aliases": "|novahd|antenanova|",
+		"aliases": "|novaes|antenanova|",
 		"basealias": "novaspain",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/aa/antena_nova.png",
+		"country": "es",
+		"logo_url": "/logos/nova-es.png",
 		"name": "Nova (ES)",
 		"group": "entertainment"
 	},
@@ -84892,7 +84892,7 @@
 		"aliases": "|тв3int|tv3international|тв3россияinternational|тв3inthd|тв3международный|",
 		"basealias": "тв3international",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/476a902pn6jpitn/tv3int.png",
+		"logo_url": "/logos/tv3.png",
 		"name": "ТВ-3 International (Россия)",
 		"group": "films"
 	},
@@ -89512,5 +89512,14 @@
 		"logo_url": "/logos/1rostov.png",
 		"name": "Первый Ростовский",
 		"group": "regional"
+	},
+	{
+		"_id": 100325,
+		"aliases": "|zalsuda|",
+		"basealias": "залсуда",
+		"country": "ru",
+		"logo_url": "/logos/zal-suda.png",
+		"name": "Зал суда",
+		"group": "common"
 	}
 ]
