@@ -2368,12 +2368,12 @@
 	},
 	{
 		"_id": 270,
-		"aliases": "|k1|k1украина|k1hdукраина||k1hdua|",
+		"aliases": "|k1|k1hd|k1украина|k1hdукраина||k1hdua|",
 		"basealias": "к1",
 		"country": "ua",
 		"logo_url": "/logos/k1-ua.png",
 		"name": "К1",
-		"group": "entertainment"
+		"group": "films"
 	},
 	{
 		"_id": 271,
@@ -13125,8 +13125,8 @@
 		"_id": 1763,
 		"aliases": "",
 		"basealias": "kino1",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/oprunhvcf4d6y62/kino1.png",
+		"country": "ua",
+		"logo_url": "/logos/kino1-ua.png",
 		"name": "Kino 1",
 		"group": "films"
 	},
@@ -13341,8 +13341,8 @@
 		"_id": 1787,
 		"aliases": "|nickelodeonasia|nickelodeonil|nickelodeontr|nickelodeontürkiye|",
 		"basealias": "nickelodeonsoutheastasia",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png",
+		"country": "il",
+		"logo_url": "/logos/nickelodeon.png",
 		"name": "Nickelodeon South East Asia",
 		"group": "kids"
 	},
@@ -19228,7 +19228,7 @@
 		"aliases": "|домua|домhd|дімua|дімhd|",
 		"basealias": "дом",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/iwnr0tgcylodhsy/domua.png",
+		"logo_url": "/logos/dom-ua.png",
 		"name": "Дом (Дім)",
 		"group": "regional"
 	},
@@ -24529,7 +24529,7 @@
 		"aliases": "",
 		"basealias": "foody",
 		"country": "jp",
-		"logo_url": "https://dl.dropboxusercontent.com/s/2dk35haojw21wik/foody.png",
+		"logo_url": "/logos/foody.png",
 		"name": "Foody",
 		"group": "notfound"
 	},
@@ -32194,12 +32194,12 @@
 	},
 	{
 		"_id": 8624,
-		"aliases": "|uaльвiв|uaльвів|uaльвов|львов|lvivtv|lviv|львів|тркльвов|тркльвів|",
+		"aliases": "|uaльвiв|uaльвів|uaльвов|львов|lvivtv|lviv|львів|тркльвов|тркльвів|львiв|",
 		"basealias": "тркльвiв",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/q9u5jhjxalaoyn2/ualviv.png",
-		"name": "UA: Львiв (Львов ТВ)",
-		"group": "common"
+		"logo_url": "/logos/trk-lvov.png",
+		"name": "UA: Львiв",
+		"group": "regional"
 	},
 	{
 		"_id": 8625,
@@ -48486,10 +48486,10 @@
 		"_id": 50564,
 		"aliases": "|red|",
 		"basealias": "tvred",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tv_red_cl.png",
-		"name": "TV Red (Chile)",
-		"group": "entertainment"
+		"country": "ru",
+		"logo_url": "/logos/red.png",
+		"name": "TV Red",
+		"group": "films"
 	},
 	{
 		"_id": 50584,
@@ -49234,7 +49234,7 @@
 		"aliases": "|canal+sport1hd|",
 		"basealias": "canal+sport1fr",
 		"country": "fr",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_sport_1.png",
+		"logo_url": "/logos/canal-plus-sport-hd.png",
 		"name": "Canal + Sport 1",
 		"group": "sport"
 	},
@@ -71551,9 +71551,9 @@
 	},
 	{
 		"_id": 53798,
-		"aliases": "|hd1movie|k1hd|k1hd1|k1hdmovielithuania|",
+		"aliases": "|hd1movie|hd1moviehd|k1hdmovielithuania|",
 		"basealias": "k1hdmovie",
-		"country": 30,
+		"country": "lt",
 		"logo_url": "https://dl.dropboxusercontent.com/s/pmssrur9gx29mq2/k1hd.png",
 		"name": "K1 HD Movie Channel",
 		"group": "films"
@@ -71562,7 +71562,7 @@
 		"_id": 53799,
 		"aliases": "",
 		"basealias": "k1movie",
-		"country": 30,
+		"country": "lt",
 		"logo_url": "https://dl.dropboxusercontent.com/s/1kr85jqclg762nc/k1.png",
 		"name": "K1 Movie Channel",
 		"group": "films"
@@ -71571,9 +71571,9 @@
 		"_id": 53800,
 		"aliases": "",
 		"basealias": "k2movie",
-		"country": 30,
+		"country": "lt",
 		"logo_url": "https://dl.dropboxusercontent.com/s/3vvpc0398gwjmp9/k2.png",
-		"name": "K2 Movie Channel (LT)",
+		"name": "K2 Movie Channel",
 		"group": "films"
 	},
 	{
@@ -76107,8 +76107,8 @@
 		"_id": 54323,
 		"aliases": "|спорт1балтия|спорт1baltic|",
 		"basealias": "sport1baltic",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/wpl161te7izuveo/sport1balt.png",
+		"country": "ru",
+		"logo_url": "/logos/sport-1-baltic.png",
 		"name": "Sport 1 Baltic",
 		"group": "sport"
 	},
@@ -79095,8 +79095,8 @@
 		"_id": 54665,
 		"aliases": "|спорт2балтия|спорт2baltic|",
 		"basealias": "sport2baltic",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/ro7i4d123xetfi1/sport2balt.png",
+		"country": "ru",
+		"logo_url": "/logos/sport-2-baltic.png",
 		"name": "Sport 2 Baltic",
 		"group": "sport"
 	},
@@ -83343,8 +83343,8 @@
 		"_id": 55154,
 		"aliases": "|amc|amcbaltic|amcpaneuropean|amcpe|amcпанъевропейский|amcукраина|amcбалтия|amcукраинабалтика|amcукраинаибалтика|",
 		"basealias": "amcукраинабалтия",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/aa/amc_us.png",
+		"country": "ua",
+		"logo_url": "/logos/amc.png",
 		"name": "AMC Украина-Балтия",
 		"group": "films"
 	},
@@ -83368,10 +83368,10 @@
 	},
 	{
 		"_id": 55157,
-		"aliases": "|megogoфутболhd|mфутбол|",
+		"aliases": "|megogoфутболhd|megogoфутбол1hd|mфутбол|mфутбол1|megogoфутбол1|",
 		"basealias": "megogoфутбол",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/gupms4vm6ss7wxq/megofutb.png",
+		"logo_url": "/logos/megogo-futbol-01.png",
 		"name": "Megogo Футбол",
 		"group": "sport"
 	},
@@ -89521,5 +89521,140 @@
 		"logo_url": "/logos/zal-suda.png",
 		"name": "Зал суда",
 		"group": "common"
+	},
+	{
+		"_id": 100326,
+		"aliases": "",
+		"basealias": "моястихия",
+		"country": "ru",
+		"logo_url": "/logos/moya-stichiya.png",
+		"name": "Моя стихия",
+		"group": "knowledge"
+	},
+	{
+		"_id": 100327,
+		"aliases": "|megogoфутбол2hd|mфутбол2|megogoфутболдругiй|",
+		"basealias": "megogoфутбол2",
+		"country": "ua",
+		"logo_url": "/logos/megogo-futbol-02.png",
+		"name": "Megogo Футбол 2",
+		"group": "sport"
+	},
+	{
+		"_id": 100328,
+		"aliases": "|megogoфутбол3hd|mфутбол3|",
+		"basealias": "megogoфутбол3",
+		"country": "ua",
+		"logo_url": "/logos/megogo-futbol-03.png",
+		"name": "Megogo Футбол 3",
+		"group": "sport"
+	},
+	{
+		"_id": 100329,
+		"aliases": "|megogoфутбол4hd|mфутбол4|",
+		"basealias": "megogoфутбол4",
+		"country": "ua",
+		"logo_url": "/logos/megogo-futbol-04.png",
+		"name": "Megogo Футбол 4",
+		"group": "sport"
+	},
+	{
+		"_id": 100330,
+		"aliases": "|megogoфутбол5hd|mфутбол5|",
+		"basealias": "megogoфутбол5",
+		"country": "ua",
+		"logo_url": "/logos/megogo-futbol-05.png",
+		"name": "Megogo Футбол 5",
+		"group": "sport"
+	},
+	{
+		"_id": 100331,
+		"aliases": "|megogoфутбол6hd|mфутбол6|",
+		"basealias": "megogoфутбол6",
+		"country": "ua",
+		"logo_url": "/logos/megogo-futbol-06.png",
+		"name": "Megogo Футбол 6",
+		"group": "sport"
+	},
+	{
+		"_id": 100332,
+		"aliases": "|megogoфутбол7hd|mфутбол7|",
+		"basealias": "megogoфутбол7",
+		"country": "ua",
+		"logo_url": "/logos/megogo-futbol-07.png",
+		"name": "Megogo Футбол 7",
+		"group": "sport"
+	},
+	{
+		"_id": 100333,
+		"aliases": "|megogoфутбол8hd|mфутбол8|",
+		"basealias": "megogoфутбол8",
+		"country": "ua",
+		"logo_url": "/logos/megogo-futbol-08.png",
+		"name": "Megogo Футбол 8",
+		"group": "sport"
+	},
+	{
+		"_id": 100334,
+		"aliases": "|megogoфутбол9hd|mфутбол9|",
+		"basealias": "megogoфутбол9",
+		"country": "ua",
+		"logo_url": "/logos/megogo-futbol-09.png",
+		"name": "Megogo Футбол 9",
+		"group": "sport"
+	},
+	{
+		"_id": 100335,
+		"aliases": "|megogoфутбол10hd|mфутбол10|",
+		"basealias": "megogoфутбол10",
+		"country": "ua",
+		"logo_url": "/logos/megogo-futbol-10.png",
+		"name": "Megogo Футбол 10",
+		"group": "sport"
+	},
+	{
+		"_id": 100336,
+		"aliases": "|megogoфутбол11hd|mфутбол11|",
+		"basealias": "megogoфутбол11",
+		"country": "ua",
+		"logo_url": "/logos/megogo-futbol-11.png",
+		"name": "Megogo Футбол 11",
+		"group": "sport"
+	},
+	{
+		"_id": 100337,
+		"aliases": "|megogoфутбол12hd|mфутбол12|",
+		"basealias": "megogoфутбол12",
+		"country": "ua",
+		"logo_url": "/logos/megogo-futbol-12.png",
+		"name": "Megogo Футбол 12",
+		"group": "sport"
+	},
+	{
+		"_id": 100338,
+		"aliases": "|megogoфутбол13hd|mфутбол13|",
+		"basealias": "megogoфутбол13",
+		"country": "ua",
+		"logo_url": "/logos/megogo-futbol-13.png",
+		"name": "Megogo Футбол 13",
+		"group": "sport"
+	},
+	{
+		"_id": 100339,
+		"aliases": "|megogoфутбол14hd|mфутбол14|",
+		"basealias": "megogoфутбол14",
+		"country": "ua",
+		"logo_url": "/logos/megogo-futbol-14.png",
+		"name": "Megogo Футбол 14",
+		"group": "sport"
+	},
+	{
+		"_id": 100340,
+		"aliases": "|megogoфутбол15hd|mфутбол15|",
+		"basealias": "megogoфутбол15",
+		"country": "ua",
+		"logo_url": "/logos/megogo-futbol-15.png",
+		"name": "Megogo Футбол 15",
+		"group": "sport"
 	}
 ]
