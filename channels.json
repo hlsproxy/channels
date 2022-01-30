@@ -13,7 +13,7 @@
 		"aliases": "|1+1международный|1plus1int|1+1int|1+1міжнародний|1+1nternational|",
 		"basealias": "1+1international",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/num/1_plus_1_ua_international.png",
+		"logo_url": "/logos/1-plus-1-int.png",
 		"name": "1+1 International",
 		"group": "common"
 	},
@@ -553,7 +553,7 @@
 		"aliases": "|canal+discoveryfhdpl|canaldiscoveryhdpl|discoverypolskahd|discoveryhdpolska|discoveryhdpl|",
 		"basealias": "discoverypolska",
 		"country": "pl",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",
+		"logo_url": "/logos/discovery-channel-hd.png",
 		"name": "Discovery Polska",
 		"group": "knowledge"
 	},
@@ -1012,7 +1012,7 @@
 		"aliases": "|mtvmusicen|",
 		"basealias": "mtvmusic",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/mm/mtv_music_uk.png",
+		"logo_url": "/logos/mtv-music.png",
 		"name": "MTV Music",
 		"group": "music"
 	},
@@ -3280,7 +3280,7 @@
 		"aliases": "|idfashionhd|idfashionua|idfashionuahd|idfashioneurope|",
 		"basealias": "idfashion",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ii/id_fashion_de.png",
+		"logo_url": "/logos/id-fashion.png",
 		"name": "ID Fashion",
 		"group": "entertainment"
 	},
@@ -3829,7 +3829,7 @@
 		"aliases": "|tdk|дамскийклуб|телевизионныйдамскийклуб|тдкhd|",
 		"basealias": "тдк",
 		"country": "ru",
-		"logo_url": "",
+		"logo_url": "/logos/tdk.png",
 		"name": "ТДК",
 		"group": "entertainment"
 	},
@@ -4063,7 +4063,7 @@
 		"aliases": "|uspeh|вашуспех|",
 		"basealias": "успех",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/t7ofmjjltm1fdw8/uspeh.png",
+		"logo_url": "/logos/uspeh.png",
 		"name": "Успех",
 		"group": "knowledge"
 	},
@@ -5764,7 +5764,7 @@
 		"aliases": "|miladytv|миледи|mileditelevisio|",
 		"basealias": "milady",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/mm/mi_lady_tv_ua.png",
+		"logo_url": "/logos/milady-tv.png",
 		"name": "Milady Television",
 		"group": "entertainment"
 	},
@@ -11209,8 +11209,17 @@
 		"aliases": "|vintage|vintagecanada|",
 		"basealias": "vintageuk",
 		"country": "gb",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/vintage_tv_uk.png",
+		"logo_url": "/logos/vintagetv.png",
 		"name": "Vintage TV UK",
+		"group": "music"
+	},
+	{
+		"_id": 1482,
+		"aliases": "|vintagetvua|vintageukraine|vintagtveukraine|vintagetvукраина|",
+		"basealias": "vintageua",
+		"country": "ua",
+		"logo_url": "/logos/vintagetv.png",
+		"name": "Vintage TV UA",
 		"group": "music"
 	},
 	{
@@ -22108,7 +22117,7 @@
 		"aliases": "",
 		"basealias": "mtvmusicitalia",
 		"country": "it",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/mm/mtv_music_it.png",
+		"logo_url": "/logos/mtv-music.png",
 		"name": "MTV Music Italia",
 		"group": "music"
 	},
@@ -23368,7 +23377,7 @@
 		"aliases": "|canal+sport1pl|canal+sportfhdpl|canal+sportpolskahd|canal+sport1polska|canal+sport1polskahd|",
 		"basealias": "canal+sportpl",
 		"country": "pl",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/cc/canalplus_pl_sport.png",
+		"logo_url": "/logos/canal-plus-sport-hd.png",
 		"name": "Canal + Sport Polska",
 		"group": "sport"
 	},
@@ -27985,7 +27994,7 @@
 		"aliases": "|бутик|бутиктв|boutiqueукраина|boutiqueukraina|",
 		"basealias": "boutique",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/boutique_tv_ru.png",
+		"logo_url": "/logos/boutique-tv.png",
 		"name": "Boutique TV",
 		"group": "shopping"
 	},
@@ -29701,10 +29710,10 @@
 	},
 	{
 		"_id": 8319,
-		"aliases": "|lifetimephilippines|lifetimetürkiye|lifetimeturkiye|lifetimeisrael|",
+		"aliases": "|lifetimephilippines|lifetimetürkiye|lifetimeturkiye|",
 		"basealias": "lifetimeasia",
-		"country": "in",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ll/lifetime_asia.png",
+		"country": "tr",
+		"logo_url": "/logos/lifetime.png",
 		"name": "Lifetime Asia",
 		"group": "entertainment"
 	},
@@ -29863,7 +29872,7 @@
 	},
 	{
 		"_id": 8339,
-		"aliases": "|360самара|360самаратерра|терра360самара|терра360|трктерра|рентерра|рентвтерра|терра|тера|",
+		"aliases": "|360самара|360самаратерра|терра360самара|терра360|трктерра|рентерра|рентвтерра|терра|",
 		"basealias": "террасамара",
 		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/06d1x25p2pnpmhu/terr.png",
@@ -30451,7 +30460,7 @@
 		"aliases": "|черновцы|черновцытелеканал|чернівці|чернiвцi|тркчернівці|черновцытелеканалua|",
 		"basealias": "тркчерновцы",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/02czq4009og38l9/tkchern.jpg",
+		"logo_url": "/logos/chernovcy.png",
 		"name": "ТРК Черновцы",
 		"group": "common"
 	},
@@ -30838,7 +30847,7 @@
 		"aliases": "|ua|uatvукринформ|ukrinformua|uatvhd|uahd|утр|",
 		"basealias": "uatv",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/uu/ua_tv_ua.png",
+		"logo_url": "/logos/ua-tv.png",
 		"name": "UATV",
 		"group": "common"
 	},
@@ -38647,10 +38656,10 @@
 	},
 	{
 		"_id": 20273,
-		"aliases": "",
+		"aliases": "|quiztvua|",
 		"basealias": "quiz",
-		"country": "us",
-		"logo_url": "https://dl.dropboxusercontent.com/s/uzu3v7vjnyytlro/quiz.png",
+		"country": "ua",
+		"logo_url": "/logos/quiz-tv-ua.png",
 		"name": "Quiz TV",
 		"group": "entertainment"
 	},
@@ -43777,10 +43786,10 @@
 	},
 	{
 		"_id": 20971,
-		"aliases": "|вiнтаж|вінтаж|винтажтв|vintageua|вiнтажтв|",
+		"aliases": "|вiнтаж|вінтаж|винтажтв|вiнтажтв|",
 		"basealias": "винтаж",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/vintage_tv_ua.png",
+		"logo_url": "/logos/vintazh-tv.png",
 		"name": "Винтаж",
 		"group": "common"
 	},
@@ -48118,7 +48127,7 @@
 		"aliases": "|правдатутhd|",
 		"basealias": "правдатут",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/x6lpntkig37qzhb/pravda.png",
+		"logo_url": "/logos/pravda-tut.png",
 		"name": "ПравдаТУТ",
 		"group": "common"
 	},
@@ -48712,7 +48721,7 @@
 		"aliases": "|стркhdсочи|стркhd|43стрксочиhd|43стрксочи|ctpkhd|сочи|сочиhd|",
 		"basealias": "стрк",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/kvisj48j4fp060x/strk.png",
+		"logo_url": "/logos/strk.png",
 		"name": "СТРК",
 		"group": "entertainment"
 	},
@@ -55846,10 +55855,10 @@
 	},
 	{
 		"_id": 51914,
-		"aliases": "|canal+dokumenthd|canal+discovery|canal+discoveryhd|",
+		"aliases": "|canal+dokumenthd|",
 		"basealias": "canal+dokument",
 		"country": "pl",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-dokument-pl.png",
+		"logo_url": "/logos/canal-plus-dokument.png",
 		"name": "Canal + Dokument",
 		"group": "common"
 	},
@@ -56487,7 +56496,7 @@
 		"_id": 51992,
 		"aliases": "|eurosport2ne|eurosport2northeastbundesliga|",
 		"basealias": "eurosport2northeast",
-		"country": 30,
+		"country": "de",
 		"logo_url": "/logos/eurosport-2.png",
 		"name": "Eurosport 2 North-East",
 		"group": "sport"
@@ -56496,7 +56505,7 @@
 		"_id": 51993,
 		"aliases": "|eurosport1deutschland|eurosport1germanyhd|eurosport1hdgermany|eurosport1deutschlandhd|eurosport1hdde|",
 		"basealias": "eurosport1de",
-		"country": 30,
+		"country": "de",
 		"logo_url": "https://dl.dropboxusercontent.com/s/64bvn0pueb7jn4c/eurospo1.png",
 		"name": "Eurosport 1 Germany",
 		"group": "sport"
@@ -56505,7 +56514,7 @@
 		"_id": 51994,
 		"aliases": "|eurosport2deutschland|eurosport2germanyhd|eurosport2hdgermany|eurosport2deutschlandhd|eurosport2hdde|",
 		"basealias": "eurosport2de",
-		"country": 30,
+		"country": "de",
 		"logo_url": "https://dl.dropboxusercontent.com/s/bsxnb61d987y66l/eurospo2.png",
 		"name": "Eurosport 2 Germany",
 		"group": "sport"
@@ -56568,7 +56577,7 @@
 		"_id": 52001,
 		"aliases": "|eurosport2sverigehd|eurosport2sweden|",
 		"basealias": "eurosport2sverige",
-		"country": 30,
+		"country": "sw",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png",
 		"name": "Eurosport 2 Sverige",
 		"group": "sport"
@@ -56577,7 +56586,7 @@
 		"_id": 52002,
 		"aliases": "|eurosport2nd|eurosport2nederlandhd|eurosport2belgie|eurosport2belgië|eurosport2belgiehd|eurosport2belgiëhd|",
 		"basealias": "eurosport2nederland",
-		"country": 30,
+		"country": "nd",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png",
 		"name": "Eurosport 2 Nederland",
 		"group": "sport"
@@ -59817,8 +59826,8 @@
 		"_id": 52416,
 		"aliases": "|bbcearthcanada|bbcearthnordic|",
 		"basealias": "bbcearth",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/bbc_earth_uk.png",
+		"country": "gb",
+		"logo_url": "/logos/bbc-earth.png",
 		"name": "BBC Earth",
 		"group": "knowledge"
 	},
@@ -59851,10 +59860,10 @@
 	},
 	{
 		"_id": 52420,
-		"aliases": "|bbcearthpolskahd|bbcearthhd|bbcearthromania|bbcearthhdpolska|",
+		"aliases": "|bbcearthpolskahd|bbcearthhd|bbcearthromania|bbcearthhdpolska|bbcearthfhdpl|",
 		"basealias": "bbcearthpolska",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/bbc_earth_uk.png",
+		"country": "pl",
+		"logo_url": "/logos/bbc-earth.png",
 		"name": "BBC Earth Polska",
 		"group": "knowledge"
 	},
@@ -86563,7 +86572,7 @@
 	},
 	{
 		"_id": 55517,
-		"aliases": "|5starshd|5starsil|sport5stars|sport5starsil|sport5hdil|sport5hd|5спортhd|спорт5hd|yessport5hd|5sporthd|",
+		"aliases": "|5starshd|5starsil|sport5stars|sport5starsil|sport5hdil|sport5hd|5спортhd|спорт5hd|yessport5hd|5sporthd|starsil|",
 		"basealias": "5stars",
 		"country": "il",
 		"logo_url": "/logos/israel-05-sport-hd.png",
@@ -86683,7 +86692,7 @@
 		"aliases": "|natgeowildisrael|nationalgeographicwildisrael|natgeowildilhd|natgeowildilhd|natgeowildisraelhd|nationalgeographicwildisraelhd|natgeowildhdil|",
 		"basealias": "natgeowildil",
 		"country": "il",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png",
+		"logo_url": "/logos/nat-geo-wild.png",
 		"name": "Nat Geo Wild IL",
 		"group": "knowledge"
 	},
@@ -89656,5 +89665,86 @@
 		"logo_url": "/logos/megogo-futbol-15.png",
 		"name": "Megogo Футбол 15",
 		"group": "sport"
+	},
+	{
+		"_id": 100341,
+		"aliases": "",
+		"basealias": "eurosport1il",
+		"country": "il",
+		"logo_url": "/logos/eurosport.png",
+		"name": "Eurosport 1 IL",
+		"group": "sport"
+	},
+	{
+		"_id": 100342,
+		"aliases": "",
+		"basealias": "eurosport2il",
+		"country": "il",
+		"logo_url": "/logos/eurosport-2.png",
+		"name": "Eurosport 2 IL",
+		"group": "sport"
+	},
+	{
+		"_id": 100343,
+		"aliases": "|eurosport1ilhd|",
+		"basealias": "eurosport1hdil",
+		"country": "il",
+		"logo_url": "/logos/eurosport-hd.png",
+		"name": "Eurosport 1 IL HD",
+		"group": "sport"
+	},
+	{
+		"_id": 100344,
+		"aliases": "|eurosport2ilhd|",
+		"basealias": "eurosport2hdil",
+		"country": "il",
+		"logo_url": "/logos/eurosport-2-hd.png",
+		"name": "Eurosport 2 IL HD",
+		"group": "sport"
+	},
+	{
+		"_id": 100345,
+		"aliases": "|независимыеhd|",
+		"basealias": "независимые",
+		"country": "ru",
+		"logo_url": "/logos/nezavisimye.png",
+		"name": "Независимые",
+		"group": "common"
+	},
+	{
+		"_id": 100346,
+		"aliases": "|udarhd|",
+		"basealias": "udar",
+		"country": "ru",
+		"logo_url": "/logos/udar.png",
+		"name": "UDAR",
+		"group": "sport"
+	},
+	{
+		"_id": 100347,
+		"aliases": "|mtvmusicil|mtvmusicisrael|",
+		"basealias": "mtvmusicil",
+		"country": "il",
+		"logo_url": "/logos/mtv-music.png",
+		"name": "MTV Music IL",
+		"group": "music"
+	},
+	{
+		"_id": 100348,
+		"aliases": "|тераua|",
+		"basealias": "тера",
+		"country": "ua",
+		"logo_url": "/logos/terra-ua.png",
+		"name": "Терра UA",
+		"group": "knowledge"
+	},
+	{
+		"_id": 100349,
+		"aliases": "|lifetimeilhd|lifetimehdil|lifetimeisrael|lifetimehdisrael|",
+		"basealias": "lifetimeil",
+		"country": "il",
+		"logo_url": "/logos/lifetime.png",
+		"name": "Lifetime IL",
+		"group": "israel"
 	}
 ]
