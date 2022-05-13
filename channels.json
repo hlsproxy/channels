@@ -19147,7 +19147,7 @@
 		"aliases": "|motortrendроссияhd|motortrendrussia|motortrendru|motortrendhdru|",
 		"basealias": "motortrendроссия",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/mm/motor-trend-it.png",
+		"logo_url": "/logos/motor-trend.png",
 		"name": "MotorTrend (Россия)",
 		"group": "men"
 	},
@@ -89746,5 +89746,14 @@
 		"logo_url": "/logos/lifetime.png",
 		"name": "Lifetime IL",
 		"group": "israel"
+	},
+	{
+		"_id": 100350,
+		"aliases": "|qsporthd|",
+		"basealias": "qsport",
+		"country": "ru",
+		"logo_url": "/logos/qsport.png",
+		"name": "QSport",
+		"group": "sport"
 	}
 ]
