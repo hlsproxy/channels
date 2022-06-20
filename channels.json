@@ -850,7 +850,7 @@
 		"aliases": "|hustlerblue|",
 		"basealias": "bluehustlerроссия",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/6bphr9o9x59d64g/bluhustler.jpg",
+		"logo_url": "/logos/blue-hustler.png",
 		"name": "Blue Hustler 24",
 		"group": "adult"
 	},
@@ -5728,7 +5728,7 @@
 		"aliases": "|horizont|horizonttv|сварожичи|сварожичиhd|сварожичиua|горизонтtv|svarogichi|",
 		"basealias": "горизонт",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/5akgyqastc4jqas/svaroj.png",
+		"logo_url": "/logos/horizont-ua.png",
 		"name": "Горизонт ТВ",
 		"group": "regional"
 	},
@@ -5737,7 +5737,7 @@
 		"aliases": "|подсекайtv|подсекайtvhd|подсекайhd|подсекайтвhd|",
 		"basealias": "подсекай",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/nnb5oeb0lsfxmku/podsek.png",
+		"logo_url": "/logos/podsekay.png",
 		"name": "Подсекай ТВ",
 		"group": "men"
 	},
@@ -5746,7 +5746,7 @@
 		"aliases": "|телеканалритм|ритмтв|ритмtv|тркритм|",
 		"basealias": "ритм",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/p2aox28h35adcb9/ritm.jpg",
+		"logo_url": "/logos/rhythm-tv-ua.png",
 		"name": "Ритм ТВ (Рівне)",
 		"group": "common"
 	},
@@ -6207,7 +6207,7 @@
 		"country": "ua",
 		"logo_url": "https://dl.dropboxusercontent.com/s/59mat3391ihmhxg/uaternop.png",
 		"name": "UA: Тернопіль",
-		"group": "common"
+		"group": "regional"
 	},
 	{
 		"_id": 703,
@@ -71112,7 +71112,7 @@
 		"_id": 53748,
 		"aliases": "|rugbytv|rugbyge|",
 		"basealias": "rugby",
-		"country": 30,
+		"country": "ge",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/rr/rugby_tv_ge.png",
 		"name": "Rugby TV (GE)",
 		"group": "sport"
@@ -71121,8 +71121,8 @@
 		"_id": 53749,
 		"aliases": "|1йгородскойкривойрог|первыйгородскойкривийріг|первыйкриворожский|",
 		"basealias": "первыйгородскойкривойрог",
-		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/p8w75ysd6k4mqzk/1-gor.jpg",
+		"country": "ua",
+		"logo_url": "/logos/perviy-gorodskoy.png",
 		"name": "Первый городской (Кривой Рог)",
 		"group": "regional"
 	},
@@ -71139,7 +71139,7 @@
 		"_id": 53751,
 		"aliases": "|slagr|slagrtv|tvšlágr|šlágr|",
 		"basealias": "slágr",
-		"country": 30,
+		"country": "cz",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ss/slagr_tv_cz.png",
 		"name": "Slágr TV",
 		"group": "music"
@@ -71148,7 +71148,7 @@
 		"_id": 53752,
 		"aliases": "|pktvge|pk|",
 		"basealias": "pktv",
-		"country": 30,
+		"country": "ge",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/pp/pktv-ge.png",
 		"name": "PKTV (PresKavkasiaTV)",
 		"group": "regional"
@@ -71157,9 +71157,9 @@
 		"_id": 53753,
 		"aliases": "|tvpulsi|pulsitv|pulsige|",
 		"basealias": "pulsi",
-		"country": 30,
+		"country": "ge",
 		"logo_url": "https://dl.dropboxusercontent.com/s/mfl6lkpce434tkm/pulsi.jpg",
-		"name": "Pulsi TV (GE)",
+		"name": "Pulsi TV",
 		"group": "regional"
 	},
 	{
@@ -71175,18 +71175,18 @@
 		"_id": 53755,
 		"aliases": "|hitvgeorgia|",
 		"basealias": "hi",
-		"country": 30,
+		"country": "ge",
 		"logo_url": "https://dl.dropboxusercontent.com/s/5rixyx28wjmd7vs/hi.jpg",
-		"name": "Hi TV (GE)",
+		"name": "Hi TV",
 		"group": "entertainment"
 	},
 	{
 		"_id": 53756,
 		"aliases": "|diatv|diageorgia|",
 		"basealias": "dia",
-		"country": 30,
+		"country": "ge",
 		"logo_url": "https://dl.dropboxusercontent.com/s/194yu994f9z14ml/dia.png",
-		"name": "Dia TV (GE)",
+		"name": "Dia TV",
 		"group": "regional"
 	},
 	{
@@ -71202,7 +71202,7 @@
 		"_id": 53758,
 		"aliases": "",
 		"basealias": "tiflis",
-		"country": 30,
+		"country": "ge",
 		"logo_url": "https://dl.dropboxusercontent.com/s/3q7xe256evaopje/tiflis.jpg",
 		"name": "Tiflis TV",
 		"group": "regional"
@@ -71211,10 +71211,10 @@
 		"_id": 53759,
 		"aliases": "",
 		"basealias": "sdasu",
-		"country": 30,
+		"country": "ge",
 		"logo_url": "https://dl.dropboxusercontent.com/s/klqdsghibwrn8ex/sdasu.png",
 		"name": "Sdasu TV",
-		"group": "notfound"
+		"group": "regional"
 	},
 	{
 		"_id": 53760,
@@ -71229,7 +71229,7 @@
 		"_id": 53761,
 		"aliases": "|cisartkelatv|cisartkelahd|",
 		"basealias": "cisartkela",
-		"country": 30,
+		"country": "ge",
 		"logo_url": "https://dl.dropboxusercontent.com/s/zcbolmsz1y2kxmw/cis-la.jpg",
 		"name": "Cisartkela TV (Радуга ТВ)",
 		"group": "regional"
@@ -80104,7 +80104,7 @@
 		"aliases": "|первыйuhd|первыйultrahd|первый4k|",
 		"basealias": "первыйканал4k",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/gw043vew0neqfx9/1k4k.png",
+		"logo_url": "/logos/perviy-4k.png",
 		"name": "Первый канал 4K (Ultra HD)",
 		"group": "common"
 	},
@@ -82687,9 +82687,9 @@
 		"aliases": "|megogolivehd|mlive|",
 		"basealias": "megogolive",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/94pg9jqgjpsn5rv/megogo.png",
+		"logo_url": "/logos/megogo-live.png",
 		"name": "Megogo Live",
-		"group": "notfound"
+		"group": "music"
 	},
 	{
 		"_id": 55080,
@@ -83368,10 +83368,10 @@
 	},
 	{
 		"_id": 55156,
-		"aliases": "|тернопiль1|тернополь1|тернопiль1hd|тернополь1hd|",
+		"aliases": "|тернопіль|тернопiль1|тернополь1|тернопiль1hd|тернополь1hd|",
 		"basealias": "тернопіль1",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/y0wc31jg7t6xigk/ternop1.png",
+		"logo_url": "/logos/ternopol1.png",
 		"name": "Тернопіль 1",
 		"group": "regional"
 	},
@@ -86694,7 +86694,7 @@
 		"country": "il",
 		"logo_url": "/logos/nat-geo-wild.png",
 		"name": "Nat Geo Wild IL",
-		"group": "knowledge"
+		"group": "israel"
 	},
 	{
 		"_id": 100000,
@@ -89755,5 +89755,23 @@
 		"logo_url": "/logos/qsport.png",
 		"name": "QSport",
 		"group": "sport"
+	},
+	{
+		"_id": 100351,
+		"aliases": "|xsportplushd|xsport+|xsport+hd|",
+		"basealias": "xsportplus",
+		"country": "ua",
+		"logo_url": "/logos/x-sport-plus-ua.png",
+		"name": "XSport Plus",
+		"group": "sport"
+	},
+	{
+		"_id": 100352,
+		"aliases": "|нашеретроhd|",
+		"basealias": "нашеретро",
+		"country": "ua",
+		"logo_url": "/logos/nashe-retro-hd.png",
+		"name": "Наше РЕТРО",
+		"group": "music"
 	}
 ]
