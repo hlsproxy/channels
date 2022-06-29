@@ -481,7 +481,7 @@
 		"aliases": "|первыйкрымский|крым1|гтрккрым|1крым|1крымhd|1крымский|крым1hd|первыйкрымскийhd|гтрккрымhd|трккрымhd|",
 		"basealias": "трккрым",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/0fkanypk3lm116i/1krim.png",
+		"logo_url": "/logos/krym.png",
 		"name": "Крым",
 		"group": "regional"
 	},
@@ -501,6 +501,15 @@
 		"country": "ru",
 		"logo_url": "/logos/bridge-tv-hits.png",
 		"name": "Bridge TV Hits",
+		"group": "music"
+	},
+	{
+		"_id": 58,
+		"aliases": "|bridgefresh|bridgetvfresh|bridgefreshhd|freshtv|",
+		"basealias": "bridgefresh",
+		"country": "ru",
+		"logo_url": "/logos/bridge-tv-fresh.png",
+		"name": "Bridge TV Fresh",
 		"group": "music"
 	},
 	{
@@ -900,6 +909,15 @@
 		"group": "knowledge"
 	},
 	{
+		"_id": 104,
+		"aliases": "|bridgeшлягер|bridgetvшлягер|bridgeшлягерhd|шлягерtv|",
+		"basealias": "bridgeshlager",
+		"country": "ru",
+		"logo_url": "/logos/bridge-tv-shlager.png",
+		"name": "Bridge TV Шлягер",
+		"group": "music"
+	},
+	{
 		"_id": 105,
 		"aliases": "|luxehd|люкс|люксhd|luxethdv|gotoluxe|gotoluxetv|",
 		"basealias": "luxe",
@@ -931,7 +949,7 @@
 		"aliases": "|максi|нашмакси|нашмаксі|нашмаксіhd|макси|максitv|максiтв|maxxitv|maxxiтв|",
 		"basealias": "maxxi",
 		"country": "ua",
-		"logo_url": "",
+		"logo_url": "/logos/nash-ua.png",
 		"name": "Максi-ТВ (НАШ)",
 		"group": "entertainment"
 	},
@@ -2002,7 +2020,7 @@
 		"aliases": "",
 		"basealias": "волга",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/ilw9p4xawvq892z/volga.png",
+		"logo_url": "/logos/volga.png",
 		"name": "Волга",
 		"group": "regional"
 	},
@@ -2479,7 +2497,7 @@
 		"aliases": "|башкирскоеспутниковоетелевидение|bst|бстhd|bashkir|башкир|башкиртв|bashkirtv|башкирскоеспутниковое|bashkirskoesputnikovoe|",
 		"basealias": "бст",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/nhc8428dwsabeux/bst.png",
+		"logo_url": "/logos/bst-ru.png",
 		"name": "БСТ (Башкирское Спутниковое ТВ)",
 		"group": "regional"
 	},
@@ -3199,7 +3217,7 @@
 		"aliases": "|1городскойодесса|1йгородскойодесса|первыйгородскойhd|первыйгородскойhdодесса|",
 		"basealias": "первыйгородскойодесса",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/0e5ca1c2nlf7y5e/1odessa.jpg",
+		"logo_url": "/logos/perviy-gorodskoy-odessa.png",
 		"name": "Первый городской (Одесса)",
 		"group": "regional"
 	},
@@ -3901,7 +3919,7 @@
 		"aliases": "|київ|трккиiв|трккиев|kyiv|трккиїв|tvkyiv|",
 		"basealias": "киев",
 		"country": "ua",
-		"logo_url": "",
+		"logo_url": "/logos/kiev.png",
 		"name": "Киев ТВ",
 		"group": "regional"
 	},
@@ -3961,7 +3979,7 @@
 	},
 	{
 		"_id": 451,
-		"aliases": "|24|новини24|24новини|24украина|24украинаhd|24украiна|24ukraina|24україна|24каналhd|24новости|телеканал24|телеканалновин24|новости24|новости24украина|телеканалновостей24|news24hdua|news24ua|news24uahd|24newsukraine|24newsukrainehd|",
+		"aliases": "|24|новини24|24новини|24украина|24украинаhd|24украiна|24ukraina|24україна|24каналhd|4каналhdua|24новости|телеканал24|телеканалновин24|новости24|новости24украина|телеканалновостей24|news24hdua|news24ua|news24uahd|24newsukraine|24newsukrainehd|",
 		"basealias": "24ua",
 		"country": "ua",
 		"logo_url": "/logos/24-kanal-ua.png",
@@ -4522,7 +4540,7 @@
 		"aliases": "|крым24тв|крым24hd|24krim|",
 		"basealias": "крым24",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/uqnlt9xvjvggr18/cr24.jpg",
+		"logo_url": "/logos/krym24.png",
 		"name": "Крым 24",
 		"group": "regional"
 	},
@@ -4630,7 +4648,7 @@
 		"aliases": "|отвгаличина|галичинаотб|галичина|",
 		"basealias": "отбгаличина",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/oa6oawa3mdugui6/galichina.jpg",
+		"logo_url": "/logos/halichina-ua.png",
 		"name": "ОТБ Галичина",
 		"group": "regional"
 	},
@@ -5296,7 +5314,7 @@
 		"aliases": "|першийзахидний|першийзахiдний|першийзаходний|львівтб|львовтв|первыйзападный|первыйзахидный|",
 		"basealias": "першийзахідний",
 		"country": "ua",
-		"logo_url": "",
+		"logo_url": "/logos/perviy-zapadniy-ua.png",
 		"name": "Перший Західний",
 		"group": "regional"
 	},
@@ -5662,9 +5680,9 @@
 	},
 	{
 		"_id": 642,
-		"aliases": "|первыйгородской|1йгородскойказань|",
+		"aliases": "|первыйгородскойказань|1йгородскойказань|",
 		"basealias": "первыйгородскойказань",
-		"country": "ua",
+		"country": "ru",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/pp/perviy-gorodskoy-kanal-ru.png",
 		"name": "Первый городской (Казань)",
 		"group": "regional"
@@ -5701,7 +5719,7 @@
 		"aliases": "|южнаяволнатв|южнаяволнаhd|южнаяволнаhdтв|южнаяволнаодесса|тркюжнаяволна|тркюжнаяволнаодесса|тркюжнаяволнаhd|",
 		"basealias": "южнаяволна",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/3rbnmbe1k5wx9kv/uzn.png",
+		"logo_url": "/logos/yuzhnaya-volna-ua.png",
 		"name": "Южная Волна",
 		"group": "regional"
 	},
@@ -5872,7 +5890,7 @@
 		"aliases": "|karavan|каравантв|",
 		"basealias": "караван",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/kk/karavan_tv_ua.png",
+		"logo_url": "/logos/karavan-ua.png",
 		"name": "Караван TV",
 		"group": "regional"
 	},
@@ -6151,7 +6169,7 @@
 		"aliases": "|тркалекс|алексзапорiжжя|алексзапорїжжя|алексзапоріжжя|",
 		"basealias": "алекс",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/is3o8z218nnspjp/alex.jpg",
+		"logo_url": "/logos/alex-ua.png",
 		"name": "Алекс ТВ",
 		"group": "regional"
 	},
@@ -6628,7 +6646,7 @@
 		"aliases": "|bbbtvhd|bbbhd|bambarbia|bambarbiatv|bambarbiahd|",
 		"basealias": "bbb",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/lfx3igb1bb1zmy7/bbb.png",
+		"logo_url": "/logos/bbb-ua.png",
 		"name": "BBB TV",
 		"group": "regional"
 	},
@@ -14908,7 +14926,7 @@
 		"aliases": "|связистhd|",
 		"basealias": "связист",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/jc9mp48ei32xbef/svjazist.png",
+		"logo_url": "/logos/svyazist.png",
 		"name": "Связист ТВ",
 		"group": "regional"
 	},
@@ -18049,7 +18067,7 @@
 		"aliases": "|поглядhd|поглядкиївщина|",
 		"basealias": "погляд",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/2aejo85eulirti0/poglyad.jpg",
+		"logo_url": "/logos/poglad-ua.png",
 		"name": "Погляд",
 		"group": "regional"
 	},
@@ -24664,7 +24682,7 @@
 		"aliases": "|ск1hd|",
 		"basealias": "ск1",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/j2i7sufrhwbexcj/sk1.gif",
+		"logo_url": "/logos/sk1-ua.png",
 		"name": "СК1 (Житомир)",
 		"group": "regional"
 	},
@@ -24682,7 +24700,7 @@
 		"aliases": "|твачернівці|",
 		"basealias": "тва",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/2kea9v6iq4rql8x/tva.gif",
+		"logo_url": "/logos/tva-ua.png",
 		"name": "ТВА (Черновцы)",
 		"group": "regional"
 	},
@@ -26644,7 +26662,7 @@
 		"aliases": "|черноморскаятелекомпания|черноморская|тркчерноморская|черноморськ|blackseatv|черноморскоетв|blacksea|черноморское|черноморскаятрккрым|черноморскаятв|чорноморська|чорноморськатрк|",
 		"basealias": "черноморскаятрк",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/cc/chernomorskaya_tv_ua.png",
+		"logo_url": "/logos/chernomorskaya-trk.png",
 		"name": "Черноморская ТРК",
 		"group": "regional"
 	},
@@ -27195,16 +27213,16 @@
 		"country": "ua",
 		"logo_url": "https://dl.dropboxusercontent.com/s/0kz6y058qvfisoc/oum.jpg",
 		"name": "OUM TV",
-		"group": "notfound"
+		"group": "regional"
 	},
 	{
 		"_id": 8009,
-		"aliases": "|4каналкиев|4киев|4киевhd|4|четвертыйукраина|четвёртыйua|киiв4|4ua|4uahd|4hdua|4hdукраина|4киiв|4украинаhd|4україна|rtiвильнилюди|rtiвiльнiлюди|rti|rtihd|4ukraine|4каналукраиныrti|",
+		"aliases": "|4каналкиев|4киев|4киевhd|4|четвертыйукраина|четвёртыйua|киiв4|4ua|4uahd|4hdua|4hdукраина|4киiв|4украинаhd|4україна|rtiвильнилюди|rtiвiльнiлюди|rti|rtihd|4ukraine|4каналукраиныrti|4каналукраїнські|",
 		"basealias": "4каналукраина",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/05y8ggshao0ht84/4ua.png",
+		"logo_url": "/logos/4kanal-ua.png",
 		"name": "4 канал Украина",
-		"group": "news"
+		"group": "regional"
 	},
 	{
 		"_id": 8010,
@@ -27409,7 +27427,7 @@
 		"aliases": "|трккруг|трккругодесса|krug|",
 		"basealias": "круг",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/4qfs8xh16v0weqs/krug.png",
+		"logo_url": "/logos/trk-krug-ua.png",
 		"name": "Круг (Одесса)",
 		"group": "regional"
 	},
@@ -27874,10 +27892,10 @@
 	},
 	{
 		"_id": 8089,
-		"aliases": "|тв5|тв5запорожье|tv5украина|",
+		"aliases": "|тв5|тв5запорожье|tv5украина|tv5українські|",
 		"basealias": "tv5запорожье",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/b3l6yy0ieyfc6ay/tv5z.jpg",
+		"logo_url": "/logos/tv5-ua.png",
 		"name": "TV5 (Запорожье)",
 		"group": "regional"
 	},
@@ -28003,7 +28021,7 @@
 		"aliases": "|черновицкийпроминь|черновицкийпроминьhd|чернівецькийпроміньhd|чернiвецькийпромiнь|чернивецкийпроминь|чернивецкийпроминьhd|",
 		"basealias": "чернівецькийпромінь",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/rpq9k3gcoztnp1r/cherniv.png",
+		"logo_url": "/logos/chenovicky-promin.png",
 		"name": "Чернівецький промінь",
 		"group": "regional"
 	},
@@ -28354,7 +28372,7 @@
 		"aliases": "|телеканалнта|нтанезалежнетелевізійнеагентство|второйканал|независимоетелевизионноеагентство|нтальвовhd|",
 		"basealias": "нта",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/bh76eplfsw5c3bh/nta.jpg",
+		"logo_url": "/logos/nta-ua.png",
 		"name": "НТА",
 		"group": "regional"
 	},
@@ -33418,10 +33436,10 @@
 	},
 	{
 		"_id": 9179,
-		"aliases": "|7одесса|7одессаhd|7hdодесса|7украина|7hdукраина|7каналhd|7каналhdодесса|",
+		"aliases": "|7одесса|7одессаhd|7hdодесса|7украина|7hdукраина|7каналhd|7каналhdодесса|7каналукраїнські|",
 		"basealias": "7каналодесса",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/num/7_telekanal_ua.png",
+		"logo_url": "/logos/7kanal-ua.png",
 		"name": "7 канал (Одесса)",
 		"group": "regional"
 	},
@@ -33475,7 +33493,7 @@
 		"aliases": "|телевсесвiт|телевсесвiтhd|телевсесвитhd|televsesvit|телевсесвіт|телевсесвітhd|телемир|",
 		"basealias": "телевсесвит",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/izgmha9emf3nbre/televse.png",
+		"logo_url": "/logos/tvs-ua.png",
 		"name": "Телевсесвит",
 		"group": "regional"
 	},
@@ -47523,10 +47541,10 @@
 		"_id": 50345,
 		"aliases": "",
 		"basealias": "hala",
-		"country": 31,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/hh/hala_tv.png",
+		"country": "il",
+		"logo_url": "/logos/israel-hala.png",
 		"name": "Hala TV",
-		"group": "regional"
+		"group": "israel"
 	},
 	{
 		"_id": 50347,
@@ -63724,9 +63742,9 @@
 		"aliases": "|hot8hd|hot8il|hot8hdil|",
 		"basealias": "hot8",
 		"country": "il",
-		"logo_url": "https://dl.dropboxusercontent.com/s/on7ogg3htrpxlmd/hot8.jpg",
+		"logo_url": "/logos/israel-hot-8.png",
 		"name": "HOT 8",
-		"group": "regional"
+		"group": "israel"
 	},
 	{
 		"_id": 52891,
@@ -67296,7 +67314,7 @@
 		"_id": 53315,
 		"aliases": "|a+mexico|azteca+|aztecamas|a+méxico|",
 		"basealias": "a+",
-		"country": 30,
+		"country": "mx",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/aa/azteca_mx_mas.png",
 		"name": "A+ (Azteca Mas Mexico)",
 		"group": "regional"
@@ -76081,7 +76099,7 @@
 		"aliases": "|дtv|донеччина|донеччинаtv|donechchyna|donechchynatv|донеччинаhd|",
 		"basealias": "донеччинатб",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/paiirsbondu9jdi/dtv.jpg",
+		"logo_url": "/logos/donechina-ua.png",
 		"name": "Донеччина ТБ",
 		"group": "regional"
 	},
@@ -78985,12 +79003,12 @@
 	},
 	{
 		"_id": 54650,
-		"aliases": "",
+		"aliases": "|wizil|",
 		"basealias": "wiz",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/nxu0pwqmobw47b9/wiz.png",
+		"country": "il",
+		"logo_url": "/logos/israel-wiz.png",
 		"name": "WiZ TV",
-		"group": "regional"
+		"group": "israel"
 	},
 	{
 		"_id": 54651,
@@ -89773,5 +89791,23 @@
 		"logo_url": "/logos/nashe-retro-hd.png",
 		"name": "Наше РЕТРО",
 		"group": "music"
+	},
+	{
+		"_id": 100353,
+		"aliases": "|redlipshd|",
+		"basealias": "redlips",
+		"country": "ru",
+		"logo_url": "/logos/redlips.png",
+		"name": "Red Lips",
+		"group": "adult"
+	},
+	{
+		"_id": 100354,
+		"aliases": "|aplusisrael|a+il|a+israel|a+hd|a+hdil|",
+		"basealias": "aplus",
+		"country": "il",
+		"logo_url": "/logos/israel-aplus.png",
+		"name": "A+ (IL)",
+		"group": "israel"
 	}
 ]
