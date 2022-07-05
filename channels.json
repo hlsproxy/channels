@@ -1561,7 +1561,7 @@
 		"aliases": "",
 		"basealias": "teen",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/teen_tv_ru.png",
+		"logo_url": "/logos/teen-tv.png",
 		"name": "Teen TV",
 		"group": "adult"
 	},
@@ -2056,7 +2056,7 @@
 		"aliases": "|глас|гластв|glas|тркглас|",
 		"basealias": "телеканалглас",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/zad6qvr8ortmd5g/glas.png",
+		"logo_url": "/logos/glas.png",
 		"name": "Телеканал Глас",
 		"group": "religious"
 	},
@@ -3019,7 +3019,7 @@
 		"aliases": "|надіяhd|надия|телеканалнадія|надiя|теленадія|надїя|",
 		"basealias": "надія",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/telekanal_nadiya_ua.png",
+		"logo_url": "/logos/nadia-ua.png",
 		"name": "Надія",
 		"group": "religious"
 	},
@@ -3343,7 +3343,7 @@
 		"aliases": "|rada|радаукраина|радаua|",
 		"basealias": "рада",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/id8l2ueauc465vc/rada.png",
+		"logo_url": "/logos/rada-ua.png",
 		"name": "РАДА",
 		"group": "news"
 	},
@@ -3793,7 +3793,7 @@
 		"aliases": "|тбнроссия|телебалтньюс|tbnrussia|телевидениебезнасилия|тбнтелевидениебезнасилия|tbnrossiya|тбнhd|",
 		"basealias": "тбн",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/qagspr88j2la64j/tbn.png",
+		"logo_url": "/logos/tbn.png",
 		"name": "ТБН",
 		"group": "religious"
 	},
@@ -5800,7 +5800,7 @@
 		"aliases": "|rabinovich|рабинович|newsnetworkukraine|newsnetworktv|newsnetworkua|newsnetworkукраина|",
 		"basealias": "newsnetwork",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/rr/rabinovich-tv-ua.png",
+		"logo_url": "/logos/news-network-ua.png",
 		"name": "Rabinovich TV",
 		"group": "news"
 	},
@@ -7060,7 +7060,7 @@
 		"aliases": "|охахhd|oxaxhd|oxax|",
 		"basealias": "охах",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/y4ld2sza504ralw/oh-ah.jpg",
+		"logo_url": "/logos/ohh-ahh.png",
 		"name": "ОХ-АХ",
 		"group": "adult"
 	},
@@ -11281,7 +11281,7 @@
 		"aliases": "",
 		"basealias": "xpanded",
 		"country": "gb",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/xx/xpanded_tv_uk.png",
+		"logo_url": "/logos/xpanded.png",
 		"name": "Xpanded TV",
 		"group": "adult"
 	},
@@ -12162,7 +12162,7 @@
 		"_id": 1653,
 		"aliases": "|melodyalbania|",
 		"basealias": "melodyal",
-		"country": 30,
+		"country": "al",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/mm/melody-tv-al.png",
 		"name": "Melody TV (AL)",
 		"group": "music"
@@ -13387,9 +13387,9 @@
 		"aliases": "|салямhd|",
 		"basealias": "салям",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/0n3w36s3htn2lln/salam.png",
+		"logo_url": "/logos/salam.png",
 		"name": "Салям",
-		"group": "films"
+		"group": "regional"
 	},
 	{
 		"_id": 1790,
@@ -24450,7 +24450,7 @@
 		"country": "jp",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/cc/cherry_bomb_jp.png",
 		"name": "Cherry Bomb",
-		"group": "notfound"
+		"group": "adult"
 	},
 	{
 		"_id": 6023,
@@ -24835,7 +24835,7 @@
 		"aliases": "|медiаiнформ|медіаінформ|медиаинформодесса|mediaiнформ|mediainform|",
 		"basealias": "медиаинформ",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/eelmx50p7l7gub4/mediainf.jpg",
+		"logo_url": "/logos/media-inform.png",
 		"name": "Медиа Информ",
 		"group": "news"
 	},
@@ -25384,7 +25384,7 @@
 		"aliases": "",
 		"basealias": "venus",
 		"country": "jp",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/venus_jp.png",
+		"logo_url": "/logos/venus-hd.png",
 		"name": "Venus",
 		"group": "adult"
 	},
@@ -26713,10 +26713,10 @@
 	},
 	{
 		"_id": 7153,
-		"aliases": "",
+		"aliases": "|passietv|",
 		"basealias": "passiexxx",
 		"country": "cn",
-		"logo_url": "https://dl.dropboxusercontent.com/s/g6kgyucnkj08wq5/PassieXXX.jpg",
+		"logo_url": "/logos/passie-xxx.png",
 		"name": "Passie XXX",
 		"group": "adult"
 	},
@@ -29568,8 +29568,8 @@
 		"_id": 8299,
 		"aliases": "|showtvhd|showhdtv|showtr|showhd|showhdtr|",
 		"basealias": "show",
-		"country": "in",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png",
+		"country": "tr",
+		"logo_url": "/logos/show-tv-tk.png",
 		"name": "Show TV",
 		"group": "films"
 	},
@@ -29611,12 +29611,12 @@
 	},
 	{
 		"_id": 8305,
-		"aliases": "|startvturk|startr|starcanli|starhdtr|",
+		"aliases": "|startvturk|startr|starcanli|starhdtr|startvhd|",
 		"basealias": "starturkey",
 		"country": "tr",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png",
+		"logo_url": "/logos/star-tv-tr.png",
 		"name": "Star TV Turkey",
-		"group": "common"
+		"group": "films"
 	},
 	{
 		"_id": 8306,
@@ -33258,8 +33258,8 @@
 		"_id": 9153,
 		"aliases": "|playboyenespañol|playboyespanol|playboyenespanol|playboyla|playboybrasil|playboytvbrasil|playboytvbrazil|playboylatinmerica|",
 		"basealias": "playboylatinamerica",
-		"country": 18,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/pp/playboy_tv_en_espanol.png",
+		"country": "es",
+		"logo_url": "/logos/playboy-la.png",
 		"name": "Playboy TV en Español (Latin America)",
 		"group": "adult"
 	},
@@ -33601,7 +33601,7 @@
 		"aliases": "",
 		"basealias": "sexyhot",
 		"country": 18,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ss/sexyhot.png",
+		"logo_url": "/logos/sexy-hot.png",
 		"name": "Sexy Hot",
 		"group": "adult"
 	},
@@ -34557,7 +34557,7 @@
 		"country": 18,
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_br.png",
 		"name": "Trans TV Brasil",
-		"group": "notfound"
+		"group": "adult"
 	},
 	{
 		"_id": 9348,
@@ -36229,7 +36229,7 @@
 		"aliases": "|dorcelxxxhd|dorcelclub|",
 		"basealias": "dorcelxxx",
 		"country": "fr",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/dd/dorcel_tv_fr_xxx.png",
+		"logo_url": "/logos/dorcel-club.png",
 		"name": "Dorcel XXX",
 		"group": "adult"
 	},
@@ -37666,12 +37666,12 @@
 	},
 	{
 		"_id": 20123,
-		"aliases": "",
+		"aliases": "|bagu|",
 		"basealias": "bangu",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/bang_u_us.png",
+		"logo_url": "/logos/bangu.png",
 		"name": "Bang U",
-		"group": "notfound"
+		"group": "adult"
 	},
 	{
 		"_id": 20125,
@@ -42034,7 +42034,7 @@
 		"aliases": "|playboyplus|playboymonthlyoffer|",
 		"basealias": "playboyppv",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/pp/playboy_ppv.png",
+		"logo_url": "/logos/playboy.png",
 		"name": "Playboy PPV",
 		"group": "adult"
 	},
@@ -42211,10 +42211,10 @@
 	},
 	{
 		"_id": 20754,
-		"aliases": "|+18realitykings|realitykingshd|як|яk|",
+		"aliases": "|+18realitykings|realitykingshd|як|яk|welivetogether|rktv|",
 		"basealias": "realitykings",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/rr/reality_kings_tv.png",
+		"logo_url": "/logos/reality-kings.png",
 		"name": "Reality Kings TV",
 		"group": "adult"
 	},
@@ -46201,7 +46201,7 @@
 		"aliases": "|erox|+18eroxhd|",
 		"basealias": "eroxhd",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ee/erox_box_hd.png",
+		"logo_url": "/logos/erox-hd.png",
 		"name": "Erox HD",
 		"group": "adult"
 	},
@@ -46900,10 +46900,10 @@
 	},
 	{
 		"_id": 50247,
-		"aliases": "",
+		"aliases": "|extremeil|",
 		"basealias": "extreme",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_extreme_channel.png",
+		"country": "il",
+		"logo_url": "/logos/israel-extreme.png",
 		"name": "Extreme",
 		"group": "sport"
 	},
@@ -46921,7 +46921,7 @@
 		"aliases": "|3ангела|3angelsru|3abnrussian|триангелаhd|",
 		"basealias": "триангела",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tri_angela_ru.png",
+		"logo_url": "/logos/tri-angela.png",
 		"name": "Три Ангела",
 		"group": "religious"
 	},
@@ -46938,7 +46938,7 @@
 		"_id": 50251,
 		"aliases": "|fast|fastfunbox|fastandfunbox|fastandfunboxhd|fastnfunbox|fastnfunboxhd|fastanfunboxhd|",
 		"basealias": "fastfunboxhd",
-		"country": 30,
+		"country": "ww",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ff/fast_and_fun_box_hd.png",
 		"name": "Fast & FunBox HD",
 		"group": "entertainment"
@@ -47595,10 +47595,10 @@
 		"_id": 50363,
 		"aliases": "|channel99|arutz99|",
 		"basealias": "knesset",
-		"country": 31,
-		"logo_url": "https://dl.dropboxusercontent.com/s/t3obcj3ec1pm3j8/knesset.png",
+		"country": "il",
+		"logo_url": "/logos/israel-knesset.png",
 		"name": "Knesset Channel",
-		"group": "news"
+		"group": "israel"
 	},
 	{
 		"_id": 50364,
@@ -48217,7 +48217,7 @@
 		"aliases": "|otvmusic|otvmusicукраина|otvmusicua|otvукраина|",
 		"basealias": "otv",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/oo/otv_music_ua.png",
+		"logo_url": "/logos/o-tv.png",
 		"name": "OTV",
 		"group": "music"
 	},
@@ -48637,7 +48637,7 @@
 	},
 	{
 		"_id": 51008,
-		"aliases": "|sestosenso|sextoxsenso|sestosensoitalia|sext6sento|sstosnso|",
+		"aliases": "|sestosenso|sextoxsenso|sestosensoitalia|sext6sento|sstosnso|sext6senso|",
 		"basealias": "sextosenso",
 		"country": 30,
 		"logo_url": "/logos/sextosenso.png",
@@ -48756,8 +48756,8 @@
 		"_id": 51039,
 		"aliases": "|cent6cento|cntoxcnto|",
 		"basealias": "centoxcento",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/cc/cento_x_cento_tv_it.png",
+		"country": "ww",
+		"logo_url": "/logos/cento-x-cento.png",
 		"name": "CentoXCento TV",
 		"group": "adult"
 	},
@@ -55903,7 +55903,7 @@
 		"aliases": "|canal+serialehd|canal+serialefhdpl|canal+serialepolska|",
 		"basealias": "canal+seriale",
 		"country": "pl",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/cc/canalplus_pl_seriale.png",
+		"logo_url": "/logos/canale-plus-seriale.png",
 		"name": "Canal + Seriale",
 		"group": "films"
 	},
@@ -66423,8 +66423,8 @@
 		"_id": 53212,
 		"aliases": "|evlangl|evlangltv|evilangelhd|",
 		"basealias": "evilangel",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ee/evil_angel_tv_it.png",
+		"country": "ww",
+		"logo_url": "/logos/evil-angel.png",
 		"name": "Evil Angel TV",
 		"group": "adult"
 	},
@@ -66450,8 +66450,8 @@
 		"_id": 53216,
 		"aliases": "|dusk|dusktv|",
 		"basealias": "duskeurope",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/dd/dusk_nl_europe.png",
+		"country": "ww",
+		"logo_url": "/logos/dusk.png",
 		"name": "Dusk TV Europe",
 		"group": "adult"
 	},
@@ -66459,7 +66459,7 @@
 		"_id": 53217,
 		"aliases": "",
 		"basealias": "foxpl",
-		"country": 30,
+		"country": "pl",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png",
 		"name": "Fox Polska",
 		"group": "films"
@@ -71320,9 +71320,9 @@
 		"aliases": "|тіс|тис|тисодесса|тiсодесса|тісодесса|",
 		"basealias": "тiс",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/tcfz0dtd0cfc4d3/tis.png",
+		"logo_url": "/logos/tis-tv-ua.png",
 		"name": "ТIС - Телевізійна Інформаційна Служба",
-		"group": "films"
+		"group": "regional"
 	},
 	{
 		"_id": 53770,
@@ -71367,15 +71367,6 @@
 		"country": 30,
 		"logo_url": "https://dl.dropboxusercontent.com/s/vrom5g7rff55r5m/drporn.jpg",
 		"name": "Dream Porn",
-		"group": "adult"
-	},
-	{
-		"_id": 53775,
-		"aliases": "|fap2hd|fap2|fap3|fap4|fapamateur|fapanal|fapbbw|fapcompilation|fapgay|faplegalporno|faplesbian|fapolder|fapparody|fappissing|fapshemale|fapteaching|fapteens|faptrans|faphd|fapuhd|fapuhd4k|fapgey|",
-		"basealias": "fap",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/xba9ux44fn98j8e/fap.png",
-		"name": "FAP TV",
 		"group": "adult"
 	},
 	{
@@ -71878,7 +71869,7 @@
 		"aliases": "|huzur|huzurtv|хузурhd|",
 		"basealias": "хузур",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/rrv3v3l89bq94r3/huzur.png",
+		"logo_url": "/logos/huzur.png",
 		"name": "Хузур ТВ",
 		"group": "religious"
 	},
@@ -73245,7 +73236,7 @@
 		"_id": 53996,
 		"aliases": "|bcuмультзал|",
 		"basealias": "bcuмультзалhd",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/q5veebdemdi0xiq/boxkids.png",
 		"name": "BCU Мультзал HD",
 		"group": "kids"
@@ -74235,8 +74226,8 @@
 		"_id": 54108,
 		"aliases": "",
 		"basealias": "x1",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_x.png",
+		"country": "ww",
+		"logo_url": "/logos/x1.png",
 		"name": "X1 (AL)",
 		"group": "adult"
 	},
@@ -75924,15 +75915,6 @@
 		"group": "music"
 	},
 	{
-		"_id": 54300,
-		"aliases": "|pinkerotic1|pinkerotic2|pinkerotic3|pinkerotic4|pinkerotic5|pinkerotic6pinkerotic7|pinkerotic8|",
-		"basealias": "pinkerotic",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/qkn5ijn7rhauh6h/pinkero.png",
-		"name": "Pink Erotic",
-		"group": "adult"
-	},
-	{
 		"_id": 54301,
 		"aliases": "",
 		"basealias": "pinkkuvar",
@@ -76575,10 +76557,10 @@
 		"_id": 54372,
 		"aliases": "|vivideu|",
 		"basealias": "vivideurope",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/vivid_tv_europe_us.png",
+		"country": "ww",
+		"logo_url": "/logos/vivid-tv-europe.png",
 		"name": "Vivid TV Europe",
-		"group": "entertainment"
+		"group": "adult"
 	},
 	{
 		"_id": 54373,
@@ -76587,7 +76569,7 @@
 		"country": 30,
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/vivid_tv_ca_eng.png",
 		"name": "Vivid TV Canada (Français-English)",
-		"group": "entertainment"
+		"group": "adult"
 	},
 	{
 		"_id": 54374,
@@ -79302,8 +79284,8 @@
 		"_id": 54685,
 		"aliases": "|leogold|leohd|leogoldhd|",
 		"basealias": "leo",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ll/leo_tv.png",
+		"country": "ww",
+		"logo_url": "/logos/leo-tv.png",
 		"name": "Leo TV",
 		"group": "adult"
 	},
@@ -82867,7 +82849,7 @@
 		"aliases": "|36i6|366hd|",
 		"basealias": "366",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/nz4wre0aphw82lx/366.png",
+		"logo_url": "/logos/36-6.png",
 		"name": "36,6 TV",
 		"group": "knowledge"
 	},
@@ -83614,7 +83596,7 @@
 		"aliases": "|nlo1hd|nlotv1hd|нло1hd|",
 		"basealias": "nlo1",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/nnj03n39g4xar25/nlo1.png",
+		"logo_url": "/logos/nlo-tv-1-ua.png",
 		"name": "NLO TV 1",
 		"group": "knowledge"
 	},
@@ -83623,7 +83605,7 @@
 		"aliases": "|nlo2hd|nlotv2hd|нло2hd|",
 		"basealias": "nlo2",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/eero4yjx6ud3rmn/nlo2.png",
+		"logo_url": "/logos/nlo-tv-2-ua.png",
 		"name": "NLO TV 2",
 		"group": "knowledge"
 	},
@@ -83632,7 +83614,7 @@
 		"aliases": "|ukraine1hd|ukraine1int|украина1hd|",
 		"basealias": "ukraine1",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/8z27096k6pfnhcu/ukr1.png",
+		"logo_url": "/logos/ukraine-1.png",
 		"name": "Ukraine 1",
 		"group": "common"
 	},
@@ -89794,7 +89776,7 @@
 	},
 	{
 		"_id": 100353,
-		"aliases": "|redlipshd|",
+		"aliases": "|redlipshd|bangerz|",
 		"basealias": "redlips",
 		"country": "ru",
 		"logo_url": "/logos/redlips.png",
@@ -89809,5 +89791,1337 @@
 		"logo_url": "/logos/israel-aplus.png",
 		"name": "A+ (IL)",
 		"group": "israel"
+	},
+	{
+		"_id": 100355,
+		"aliases": "",
+		"basealias": "a3bikini",
+		"country": "us",
+		"logo_url": "/logos/a3-bikini.png",
+		"name": "A3 Bikini",
+		"group": "adult"
+	},
+	{
+		"_id": 100356,
+		"aliases": "|clubseventeen|",
+		"basealias": "club17",
+		"country": "us",
+		"logo_url": "/logos/club-17.png",
+		"name": "Club 17",
+		"group": "adult"
+	},
+	{
+		"_id": 100357,
+		"aliases": "",
+		"basealias": "madsexparty",
+		"country": "us",
+		"logo_url": "/logos/mad-sex-party.png",
+		"name": "Mad Sex Party",
+		"group": "adult"
+	},
+	{
+		"_id": 100358,
+		"aliases": "",
+		"basealias": "fastboyz",
+		"country": "us",
+		"logo_url": "/logos/fast-boyz.png",
+		"name": "Fast Boyz",
+		"group": "adult"
+	},
+	{
+		"_id": 100360,
+		"aliases": "",
+		"basealias": "transangels",
+		"country": "us",
+		"logo_url": "/logos/trans-angels.png",
+		"name": "Trans Angels",
+		"group": "adult"
+	},
+	{
+		"_id": 100361,
+		"aliases": "|pinkerotic1|pinkerotica|pinkerotica1|erotic|",
+		"basealias": "pinkerotic",
+		"country": "ww",
+		"logo_url": "/logos/pink-erotic01.png",
+		"name": "Pink Erotic",
+		"group": "adult"
+	},
+	{
+		"_id": 100362,
+		"aliases": "|pinkerotic2|pinkerotica2|erotic2|",
+		"basealias": "pinkerotic2",
+		"country": "ww",
+		"logo_url": "/logos/pink-erotic02.png",
+		"name": "Pink Erotic 2",
+		"group": "adult"
+	},
+	{
+		"_id": 100363,
+		"aliases": "|pinkerotica3|erotic3|",
+		"basealias": "pinkerotic3",
+		"country": "ww",
+		"logo_url": "/logos/pink-erotic03.png",
+		"name": "Pink Erotic 3",
+		"group": "adult"
+	},
+	{
+		"_id": 100364,
+		"aliases": "|pinkerotica4|erotic4|",
+		"basealias": "pinkerotic4",
+		"country": "ww",
+		"logo_url": "/logos/pink-erotic04.png",
+		"name": "Pink Erotic 4",
+		"group": "adult"
+	},
+	{
+		"_id": 100365,
+		"aliases": "|pinkerotica5|erotic5|",
+		"basealias": "pinkerotic5",
+		"country": "ww",
+		"logo_url": "/logos/pink-erotic05.png",
+		"name": "Pink Erotic 5",
+		"group": "adult"
+	},
+	{
+		"_id": 100366,
+		"aliases": "|pinkerotica6|erotic6|",
+		"basealias": "pinkerotic6",
+		"country": "ww",
+		"logo_url": "/logos/pink-erotic06.png",
+		"name": "Pink Erotic 6",
+		"group": "adult"
+	},
+	{
+		"_id": 100367,
+		"aliases": "|pinkerotica7|erotic7|",
+		"basealias": "pinkerotic7",
+		"country": "ww",
+		"logo_url": "/logos/pink-erotic07.png",
+		"name": "Pink Erotic 7",
+		"group": "adult"
+	},
+	{
+		"_id": 100368,
+		"aliases": "|pinkerotica8|erotic8|",
+		"basealias": "pinkerotic8",
+		"country": "ww",
+		"logo_url": "/logos/pink-erotic08.png",
+		"name": "Pink Erotic 8",
+		"group": "adult"
+	},
+	{
+		"_id": 100369,
+		"aliases": "",
+		"basealias": "transpremium",
+		"country": "ww",
+		"logo_url": "/logos/trans-premium.png",
+		"name": "Trans Premium",
+		"group": "adult"
+	},
+	{
+		"_id": 100370,
+		"aliases": "",
+		"basealias": "publicagent",
+		"country": "ww",
+		"logo_url": "/logos/public-agent.png",
+		"name": "Public Agent",
+		"group": "adult"
+	},
+	{
+		"_id": 100371,
+		"aliases": "",
+		"basealias": "adulttime",
+		"country": "ww",
+		"logo_url": "/logos/adult-time.png",
+		"name": "Adult Time",
+		"group": "adult"
+	},
+	{
+		"_id": 100372,
+		"aliases": "|faphd|fapuhd|",
+		"basealias": "fap",
+		"country": "ww",
+		"logo_url": "/logos/fap01.png",
+		"name": "FAP TV",
+		"group": "adult"
+	},
+	{
+		"_id": 100373,
+		"aliases": "|fap2hd|fap2uhd|",
+		"basealias": "fap2",
+		"country": "ww",
+		"logo_url": "/logos/fap02.png",
+		"name": "FAP TV 2",
+		"group": "adult"
+	},
+	{
+		"_id": 100374,
+		"aliases": "|fap3hd|fap3uhd|",
+		"basealias": "fap3",
+		"country": "ww",
+		"logo_url": "/logos/fap03.png",
+		"name": "FAP TV 3",
+		"group": "adult"
+	},
+	{
+		"_id": 100375,
+		"aliases": "|fap4hd|fap4uhd|",
+		"basealias": "fap4",
+		"country": "ww",
+		"logo_url": "/logos/fap04.png",
+		"name": "FAP TV 4",
+		"group": "adult"
+	},
+	{
+		"_id": 100376,
+		"aliases": "|fapanalhd|fapanaluhd|",
+		"basealias": "fapanal",
+		"country": "ww",
+		"logo_url": "/logos/fap-anal.png",
+		"name": "FAP TV Anal",
+		"group": "adult"
+	},
+	{
+		"_id": 100377,
+		"aliases": "|fapbbwhd|fapbbwuhd|",
+		"basealias": "fapbbw",
+		"country": "ww",
+		"logo_url": "/logos/fap-bbw.png",
+		"name": "FAP TV BBW",
+		"group": "adult"
+	},
+	{
+		"_id": 100378,
+		"aliases": "|fapcompilationhd|fapcompilationuhd|",
+		"basealias": "fapcompilation",
+		"country": "ww",
+		"logo_url": "/logos/fap-compilation.png",
+		"name": "FAP TV Compilation",
+		"group": "adult"
+	},
+	{
+		"_id": 100379,
+		"aliases": "|faplesbianhd|faplesbianuhd|",
+		"basealias": "faplesbian",
+		"country": "ww",
+		"logo_url": "/logos/fap-lesbian.png",
+		"name": "FAP TV Lesbian",
+		"group": "adult"
+	},
+	{
+		"_id": 100380,
+		"aliases": "|fapparodyhd|fapparodyuhd|",
+		"basealias": "fapparody",
+		"country": "ww",
+		"logo_url": "/logos/fap-parody.png",
+		"name": "FAP TV Parody",
+		"group": "adult"
+	},
+	{
+		"_id": 100381,
+		"aliases": "|fapteenshd|fapteensuhd|fapamateur|fapgay|faplegalporno|fapolder|fappissing|fapshemale|fapteaching|faptrans|fapuhd4k|fapgey|",
+		"basealias": "fapteens",
+		"country": "ww",
+		"logo_url": "/logos/fap-teens.png",
+		"name": "FAP TV Teens",
+		"group": "adult"
+	},
+	{
+		"_id": 100383,
+		"aliases": "|analizedhd|",
+		"basealias": "analized",
+		"country": "ww",
+		"logo_url": "/logos/analized.png",
+		"name": "Analized.com",
+		"group": "adult"
+	},
+	{
+		"_id": 100384,
+		"aliases": "",
+		"basealias": "ast",
+		"country": "ww",
+		"logo_url": "/logos/ast-tv.png",
+		"name": "AST TV",
+		"group": "adult"
+	},
+	{
+		"_id": 100385,
+		"aliases": "|monstersofcock|",
+		"basealias": "bangbros",
+		"country": "ww",
+		"logo_url": "/logos/bang-bros.png",
+		"name": "Bang Bros",
+		"group": "adult"
+	},
+	{
+		"_id": 100386,
+		"aliases": "",
+		"basealias": "bang",
+		"country": "ww",
+		"logo_url": "/logos/bang.png",
+		"name": "Bang!",
+		"group": "adult"
+	},
+	{
+		"_id": 100387,
+		"aliases": "",
+		"basealias": "digitalplayground",
+		"country": "ww",
+		"logo_url": "/logos/digital-playground.png",
+		"name": "Digital Playground",
+		"group": "adult"
+	},
+	{
+		"_id": 100388,
+		"aliases": "|blackedhd|",
+		"basealias": "blacked",
+		"country": "ww",
+		"logo_url": "/logos/blacked-com.png",
+		"name": "Blacked.com",
+		"group": "adult"
+	},
+	{
+		"_id": 100389,
+		"aliases": "",
+		"basealias": "cumlouder",
+		"country": "ww",
+		"logo_url": "/logos/cum-louder.png",
+		"name": "Cum Louder",
+		"group": "adult"
+	},
+	{
+		"_id": 100390,
+		"aliases": "",
+		"basealias": "hotwifepremium",
+		"country": "ww",
+		"logo_url": "/logos/hotwife-premium.png",
+		"name": "Hot Wife Premium",
+		"group": "adult"
+	},
+	{
+		"_id": 100391,
+		"aliases": "|tushy|",
+		"basealias": "tushycom",
+		"country": "ww",
+		"logo_url": "/logos/tushy-tv.png",
+		"name": "Tushy TV",
+		"group": "adult"
+	},
+	{
+		"_id": 100392,
+		"aliases": "",
+		"basealias": "bcucharm",
+		"country": "ru",
+		"logo_url": "/logos/bcu-charm.png",
+		"name": "BCU Charm",
+		"group": "movies"
+	},
+	{
+		"_id": 100393,
+		"aliases": "",
+		"basealias": "bcucharmhd",
+		"country": "ru",
+		"logo_url": "/logos/bcu-charm-hd.png",
+		"name": "BCU Charm HD",
+		"group": "movies"
+	},
+	{
+		"_id": 100394,
+		"aliases": "",
+		"basealias": "kinoshkaadult",
+		"country": "ru",
+		"logo_url": "/logos/kinoshka.png",
+		"name": "Kinoshka Adult HD",
+		"group": "adult"
+	},
+	{
+		"_id": 100395,
+		"aliases": "|libertyerotika|libertyerotikahd|",
+		"basealias": "libertyerotica",
+		"country": "ru",
+		"logo_url": "/logos/liberty-erotica.png",
+		"name": "Liberty Erotica HD",
+		"group": "adult"
+	},
+	{
+		"_id": 100396,
+		"aliases": "",
+		"basealias": "yossotvsexy",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv-sexy.png",
+		"name": "Yosso TV Sexy",
+		"group": "adult"
+	},
+	{
+		"_id": 100397,
+		"aliases": "|xxxlovesberry|",
+		"basealias": "lovesberry",
+		"country": "ru",
+		"logo_url": "/logos/loves-berry.png",
+		"name": "Love's Berry",
+		"group": "adult"
+	},
+	{
+		"_id": 100398,
+		"aliases": "",
+		"basealias": "gaypremium",
+		"country": "ru",
+		"logo_url": "/logos/gay-tv.png",
+		"name": "Gay Premium",
+		"group": "adult"
+	},
+	{
+		"_id": 100399,
+		"aliases": "",
+		"basealias": "gloryholelove",
+		"country": "ru",
+		"logo_url": "/logos/glory-hole.png",
+		"name": "Glory Hole Love",
+		"group": "adult"
+	},
+	{
+		"_id": 100400,
+		"aliases": "",
+		"basealias": "roccotv724",
+		"country": "ru",
+		"logo_url": "/logos/rocco-tv.png",
+		"name": "Rocco TV 7/24",
+		"group": "adult"
+	},
+	{
+		"_id": 100401,
+		"aliases": "|dirtyhobby|",
+		"basealias": "mydirtyhobby",
+		"country": "ru",
+		"logo_url": "/logos/my-dirty-hobby.png",
+		"name": "My Dirty Hobby",
+		"group": "adult"
+	},
+	{
+		"_id": 100402,
+		"aliases": "|slhot1hd|",
+		"basealias": "slhot1",
+		"country": "ru",
+		"logo_url": "/logos/sl-hot-hd.png",
+		"name": "SL Hot 1",
+		"group": "adult"
+	},
+	{
+		"_id": 100403,
+		"aliases": "|slhot2hd|",
+		"basealias": "slhot2",
+		"country": "ru",
+		"logo_url": "/logos/sl-hot-hd.png",
+		"name": "SL Hot 2",
+		"group": "adult"
+	},
+	{
+		"_id": 100404,
+		"aliases": "|slhot3hd|",
+		"basealias": "slhot3",
+		"country": "ru",
+		"logo_url": "/logos/sl-hot-hd.png",
+		"name": "SL Hot 3",
+		"group": "adult"
+	},
+	{
+		"_id": 100405,
+		"aliases": "|slhot4hd|",
+		"basealias": "slhot4",
+		"country": "ru",
+		"logo_url": "/logos/sl-hot-hd.png",
+		"name": "SL Hot 4",
+		"group": "adult"
+	},
+	{
+		"_id": 100406,
+		"aliases": "|slhot5hd|",
+		"basealias": "slhot5",
+		"country": "ru",
+		"logo_url": "/logos/sl-hot-hd.png",
+		"name": "SL Hot 5",
+		"group": "adult"
+	},
+	{
+		"_id": 100407,
+		"aliases": "|slhot6hd|",
+		"basealias": "slhot6",
+		"country": "ru",
+		"logo_url": "/logos/sl-hot-hd.png",
+		"name": "SL Hot 6",
+		"group": "adult"
+	},
+	{
+		"_id": 100408,
+		"aliases": "|slhot7hd|",
+		"basealias": "slhot7",
+		"country": "ru",
+		"logo_url": "/logos/sl-hot-hd.png",
+		"name": "SL Hot 7",
+		"group": "adult"
+	},
+	{
+		"_id": 100409,
+		"aliases": "|slhot8hd|",
+		"basealias": "slhot8",
+		"country": "ru",
+		"logo_url": "/logos/sl-hot-hd.png",
+		"name": "SL Hot 8",
+		"group": "adult"
+	},
+	{
+		"_id": 100410,
+		"aliases": "|slhot9hd|",
+		"basealias": "slhot9",
+		"country": "ru",
+		"logo_url": "/logos/sl-hot-hd.png",
+		"name": "SL Hot 9",
+		"group": "adult"
+	},
+	{
+		"_id": 100411,
+		"aliases": "|slerotichd|",
+		"basealias": "slerotic",
+		"country": "ru",
+		"logo_url": "/logos/sl-hot-hd.png",
+		"name": "SL Erotic",
+		"group": "adult"
+	},
+	{
+		"_id": 100420,
+		"aliases": "|adultbigass|bigassadult|bigassadulttv|",
+		"basealias": "adulttvbigass",
+		"country": "ru",
+		"logo_url": "/logos/adult-tv-big-ass.png",
+		"name": "Adult TV Big Ass",
+		"group": "adult"
+	},
+	{
+		"_id": 100421,
+		"aliases": "|adultbigtits|bigtitsadult|bigtitsadulttv|",
+		"basealias": "adulttvbigtits",
+		"country": "ru",
+		"logo_url": "/logos/adult-tv-big-tits.png",
+		"name": "Adult TV Big Tits",
+		"group": "adult"
+	},
+	{
+		"_id": 100422,
+		"aliases": "|adultblonde|blondeadult|blondeadulttv|",
+		"basealias": "adulttvblonde",
+		"country": "ru",
+		"logo_url": "/logos/adult-tv-blonde.png",
+		"name": "Adult TV Blonde",
+		"group": "adult"
+	},
+	{
+		"_id": 100423,
+		"aliases": "|adultbrunette|brunetteadult|brunetteadulttv|",
+		"basealias": "adulttvbrunette",
+		"country": "ru",
+		"logo_url": "/logos/adult-tv-brunette.png",
+		"name": "Adult TV Brunette",
+		"group": "adult"
+	},
+	{
+		"_id": 100424,
+		"aliases": "|adultcompilation|compilationadult|compilationadulttv|",
+		"basealias": "adulttvcompilation",
+		"country": "ru",
+		"logo_url": "/logos/adult-tv-compilation.png",
+		"name": "Adult TV Compilation",
+		"group": "adult"
+	},
+	{
+		"_id": 100425,
+		"aliases": "|adultgangbang|gangbangadult|gangbangadulttv|",
+		"basealias": "adulttvgangbang",
+		"country": "ru",
+		"logo_url": "/logos/adult-tv-gangbang.png",
+		"name": "Adult TV gangbang",
+		"group": "adult"
+	},
+	{
+		"_id": 100426,
+		"aliases": "|adultlivecams|livecamsadult|livecamsadulttv|",
+		"basealias": "adulttvlivecams",
+		"country": "ru",
+		"logo_url": "/logos/adult-tv-live-cams.png",
+		"name": "Adult TV Live Cams",
+		"group": "adult"
+	},
+	{
+		"_id": 100427,
+		"aliases": "|adultpov|povadult|povadulttv|povtv|",
+		"basealias": "adulttvpov",
+		"country": "ru",
+		"logo_url": "/logos/adult-tv-pov.png",
+		"name": "Adult TV POV",
+		"group": "adult"
+	},
+	{
+		"_id": 100428,
+		"aliases": "|adultrough|roughadult|roughadulttv|roughtv|",
+		"basealias": "adulttvrough",
+		"country": "ru",
+		"logo_url": "/logos/adult-tv-rough.png",
+		"name": "Adult TV Rough",
+		"group": "adult"
+	},
+	{
+		"_id": 100429,
+		"aliases": "|adultrussian|russianadult|russianadulttv|russiantv|",
+		"basealias": "adulttvrussian",
+		"country": "ru",
+		"logo_url": "/logos/adult-tv-russian.png",
+		"name": "Adult TV Russian",
+		"group": "adult"
+	},
+	{
+		"_id": 100430,
+		"aliases": "|adultgay|gayadult|gayadulttv|",
+		"basealias": "adulttvgay",
+		"country": "ru",
+		"logo_url": "/logos/adult-tv-gay.png",
+		"name": "Adult TV Gay",
+		"group": "adult"
+	},
+	{
+		"_id": 100440,
+		"aliases": "|redlatina|latinared|latinaredtv|",
+		"basealias": "redtvlatina",
+		"country": "us",
+		"logo_url": "/logos/latina-red.png",
+		"name": "Red TV Latina",
+		"group": "adult"
+	},
+	{
+		"_id": 100441,
+		"aliases": "|redanal|analred|analredtv|",
+		"basealias": "redtvanal",
+		"country": "ww",
+		"logo_url": "/logos/red-tv.png",
+		"name": "Red TV Anal",
+		"group": "adult"
+	},
+	{
+		"_id": 100442,
+		"aliases": "|redbigdick|bigdickred|bigdickredtv|",
+		"basealias": "redtvbigdick",
+		"country": "ww",
+		"logo_url": "/logos/red-tv-big-dick.png",
+		"name": "Red TV Big Dick",
+		"group": "adult"
+	},
+	{
+		"_id": 100443,
+		"aliases": "|redblowjob|blowjobred|blowjobredtv|",
+		"basealias": "redtvblowjob",
+		"country": "ww",
+		"logo_url": "/logos/red-tv-blowjob.png",
+		"name": "Red TV Blowjob",
+		"group": "adult"
+	},
+	{
+		"_id": 100444,
+		"aliases": "|redcuckold|cuckoldred|cuckoldredtv|",
+		"basealias": "redtvcuckold",
+		"country": "ww",
+		"logo_url": "/logos/red-tv-cuckold.png",
+		"name": "Red TV Cuckold",
+		"group": "adult"
+	},
+	{
+		"_id": 100445,
+		"aliases": "|redfetish|fetishred|fetishredtv|",
+		"basealias": "redtvfetish",
+		"country": "ww",
+		"logo_url": "/logos/red-tv-fetish.png",
+		"name": "Red TV Fetish",
+		"group": "adult"
+	},
+	{
+		"_id": 100446,
+		"aliases": "|redhardcore|hardcorered|hardcoreredtv|",
+		"basealias": "redtvhardcore",
+		"country": "ww",
+		"logo_url": "/logos/red-tv-hardcore.png",
+		"name": "Red TV Hardcore",
+		"group": "adult"
+	},
+	{
+		"_id": 100447,
+		"aliases": "|redinterracial|interracialred|interracialredtv|",
+		"basealias": "redtvinterracial",
+		"country": "ww",
+		"logo_url": "/logos/red-tv-interracial.png",
+		"name": "Red TV Interracial",
+		"group": "adult"
+	},
+	{
+		"_id": 100448,
+		"aliases": "|redlesbian|lesbianred|lesbianredtv|",
+		"basealias": "redtvlesbian",
+		"country": "ww",
+		"logo_url": "/logos/red-tv-lesbian.png",
+		"name": "Red TV Lesbian",
+		"group": "adult"
+	},
+	{
+		"_id": 100449,
+		"aliases": "|redmilf|milfred|milfredtv|milftv|",
+		"basealias": "redtvmilf",
+		"country": "ww",
+		"logo_url": "/logos/red-tv-milf.png",
+		"name": "Red TV MILF",
+		"group": "adult"
+	},
+	{
+		"_id": 100450,
+		"aliases": "|redpornstar|pornstarred|pornstarredtv|pornstartv|",
+		"basealias": "redtvpornstar",
+		"country": "ww",
+		"logo_url": "/logos/red-tv-pornstar.png",
+		"name": "Red TV Pornstar",
+		"group": "adult"
+	},
+	{
+		"_id": 100451,
+		"aliases": "|redthreesome|threesomered|threesomeredtv|threesometv|",
+		"basealias": "redtvthreesome",
+		"country": "ww",
+		"logo_url": "/logos/red-tv-threesome.png",
+		"name": "Red TV Threesome",
+		"group": "adult"
+	},
+	{
+		"_id": 100460,
+		"aliases": "",
+		"basealias": "cherrypimps",
+		"country": "ww",
+		"logo_url": "/logos/cherry-pimps.png",
+		"name": "Cherry Pimps",
+		"group": "adult"
+	},
+	{
+		"_id": 100461,
+		"aliases": "",
+		"basealias": "cum4kcom",
+		"country": "ww",
+		"logo_url": "/logos/cum4k-com.png",
+		"name": "Cum4K",
+		"group": "adult"
+	},
+	{
+		"_id": 100462,
+		"aliases": "",
+		"basealias": "daughterswap",
+		"country": "ww",
+		"logo_url": "/logos/daughter-swap.png",
+		"name": "Daughter Swap",
+		"group": "adult"
+	},
+	{
+		"_id": 100463,
+		"aliases": "",
+		"basealias": "ddfbusty",
+		"country": "de",
+		"logo_url": "/logos/ddf-network.png",
+		"name": "DDF Busty",
+		"group": "adult"
+	},
+	{
+		"_id": 100464,
+		"aliases": "|handsonhardcore|",
+		"basealias": "ddfnetwork",
+		"country": "de",
+		"logo_url": "/logos/ddf-network.png",
+		"name": "DDF Network",
+		"group": "adult"
+	},
+	{
+		"_id": 100465,
+		"aliases": "",
+		"basealias": "naughtyamerica",
+		"country": "us",
+		"logo_url": "/logos/naughty-america.png",
+		"name": "Naughty America",
+		"group": "adult"
+	},
+	{
+		"_id": 100466,
+		"aliases": "",
+		"basealias": "vixen",
+		"country": "ww",
+		"logo_url": "/logos/vixen.png",
+		"name": "Vixen",
+		"group": "adult"
+	},
+	{
+		"_id": 100467,
+		"aliases": "",
+		"basealias": "hotxxl",
+		"country": "ww",
+		"logo_url": "/logos/hot-xxl-hd.png",
+		"name": "Hot XXL",
+		"group": "adult"
+	},
+	{
+		"_id": 100470,
+		"aliases": "",
+		"basealias": "xymax",
+		"country": "ww",
+		"logo_url": "/logos/xy-max.png",
+		"name": "XY Max",
+		"group": "adult"
+	},
+	{
+		"_id": 100471,
+		"aliases": "",
+		"basealias": "xymix",
+		"country": "ww",
+		"logo_url": "/logos/xy-mix.png",
+		"name": "XY Mix",
+		"group": "adult"
+	},
+	{
+		"_id": 100472,
+		"aliases": "",
+		"basealias": "xyplus",
+		"country": "ww",
+		"logo_url": "/logos/xy-plus.png",
+		"name": "XY Plus",
+		"group": "adult"
+	},
+	{
+		"_id": 100473,
+		"aliases": "",
+		"basealias": "kinoxxx",
+		"country": "ww",
+		"logo_url": "/logos/kino-xxx.png",
+		"name": "Kino XXX",
+		"group": "adult"
+	},
+	{
+		"_id": 100474,
+		"aliases": "",
+		"basealias": "hotpleasure",
+		"country": "ww",
+		"logo_url": "/logos/hot-pleasure.png",
+		"name": "Hot Pleasure",
+		"group": "adult"
+	},
+	{
+		"_id": 100475,
+		"aliases": "",
+		"basealias": "hitzefrei",
+		"country": "ww",
+		"logo_url": "/logos/hitzefrei.png",
+		"name": "Hitzefrei",
+		"group": "adult"
+	},
+	{
+		"_id": 100476,
+		"aliases": "",
+		"basealias": "faketaxi",
+		"country": "ww",
+		"logo_url": "/logos/faketaxi.png",
+		"name": "Fake Taxi",
+		"group": "adult"
+	},
+	{
+		"_id": 100477,
+		"aliases": "",
+		"basealias": "lethalhardcore",
+		"country": "ww",
+		"logo_url": "/logos/lethal-hardcore.png",
+		"name": "Lethal Hardcore",
+		"group": "adult"
+	},
+	{
+		"_id": 100478,
+		"aliases": "",
+		"basealias": "lustcinema",
+		"country": "ww",
+		"logo_url": "/logos/lust-cinema.png",
+		"name": "Lust Cinema",
+		"group": "adult"
+	},
+	{
+		"_id": 100479,
+		"aliases": "|tiny4kcom|",
+		"basealias": "tiny4k",
+		"country": "ww",
+		"logo_url": "/logos/tiny4k.png",
+		"name": "Tiny 4K",
+		"group": "adult"
+	},
+	{
+		"_id": 100480,
+		"aliases": "",
+		"basealias": "trueamateurs",
+		"country": "ww",
+		"logo_url": "/logos/true-amateurs.png",
+		"name": "True Amateurs",
+		"group": "adult"
+	},
+	{
+		"_id": 100481,
+		"aliases": "",
+		"basealias": "wicked",
+		"country": "ww",
+		"logo_url": "/logos/wicked.png",
+		"name": "Wicked",
+		"group": "adult"
+	},
+	{
+		"_id": 100490,
+		"aliases": "",
+		"basealias": "alba1",
+		"country": "ww",
+		"logo_url": "/logos/alba-1-hd.png",
+		"name": "Alba 1 HD",
+		"group": "adult"
+	},
+	{
+		"_id": 100491,
+		"aliases": "",
+		"basealias": "alba2",
+		"country": "ww",
+		"logo_url": "/logos/alba-2-hd.png",
+		"name": "Alba 2 HD",
+		"group": "adult"
+	},
+	{
+		"_id": 100492,
+		"aliases": "",
+		"basealias": "alba3",
+		"country": "ww",
+		"logo_url": "/logos/alba-3.png",
+		"name": "Alba 3",
+		"group": "adult"
+	},
+	{
+		"_id": 100493,
+		"aliases": "",
+		"basealias": "alba4",
+		"country": "ww",
+		"logo_url": "/logos/alba-4.png",
+		"name": "Alba 4",
+		"group": "adult"
+	},
+	{
+		"_id": 100494,
+		"aliases": "",
+		"basealias": "alba5",
+		"country": "ww",
+		"logo_url": "/logos/alba-5.png",
+		"name": "Alba 5",
+		"group": "adult"
+	},
+	{
+		"_id": 100500,
+		"aliases": "",
+		"basealias": "meidenvanholland",
+		"country": "ww",
+		"logo_url": "/logos/maiden-van-holland.png",
+		"name": "Maiden Van Holland",
+		"group": "adult"
+	},
+	{
+		"_id": 100501,
+		"aliases": "",
+		"basealias": "purebabes",
+		"country": "us",
+		"logo_url": "/logos/pure-babes.png",
+		"name": "Pure Babes",
+		"group": "adult"
+	},
+	{
+		"_id": 100502,
+		"aliases": "|freex|",
+		"basealias": "freextv",
+		"country": "us",
+		"logo_url": "/logos/free-x-tv.png",
+		"name": "Free X TV",
+		"group": "adult"
+	},
+	{
+		"_id": 100503,
+		"aliases": "",
+		"basealias": "evolvedfights",
+		"country": "us",
+		"logo_url": "/logos/evolved-fights.png",
+		"name": "Evolved Fights",
+		"group": "adult"
+	},
+	{
+		"_id": 100504,
+		"aliases": "|nubilestv|nubilestvhd|",
+		"basealias": "nubilesnet",
+		"country": "us",
+		"logo_url": "/logos/nubiles-net.png",
+		"name": "Nubiles",
+		"group": "adult"
+	},
+	{
+		"_id": 100505,
+		"aliases": "",
+		"basealias": "tushyraw",
+		"country": "us",
+		"logo_url": "/logos/tushy-raw.png",
+		"name": "Tushy Raw",
+		"group": "adult"
+	},
+	{
+		"_id": 100506,
+		"aliases": "",
+		"basealias": "littleasians",
+		"country": "us",
+		"logo_url": "/logos/little-asians.png",
+		"name": "Little Asians",
+		"group": "adult"
+	},
+	{
+		"_id": 100507,
+		"aliases": "",
+		"basealias": "metart",
+		"country": "us",
+		"logo_url": "/logos/metart.png",
+		"name": "Metart",
+		"group": "adult"
+	},
+	{
+		"_id": 100508,
+		"aliases": "|+18realitykingsprime|realitykingsprimehd|rkprime|",
+		"basealias": "realitykingsprime",
+		"country": "us",
+		"logo_url": "/logos/reality-kings.png",
+		"name": "Reality Kings Prime",
+		"group": "adult"
+	},
+	{
+		"_id": 100509,
+		"aliases": "|xmo|",
+		"basealias": "xmenonly",
+		"country": "us",
+		"logo_url": "/logos/x-men-only.png",
+		"name": "X Men Only",
+		"group": "adult"
+	},
+	{
+		"_id": 100510,
+		"aliases": "",
+		"basealias": "lesbea",
+		"country": "us",
+		"logo_url": "/logos/lesbea.png",
+		"name": "Lesbea",
+		"group": "adult"
+	},
+	{
+		"_id": 100511,
+		"aliases": "",
+		"basealias": "balkanerotic",
+		"country": "us",
+		"logo_url": "/logos/balkan-erotic.png",
+		"name": "Balkan Erotic",
+		"group": "adult"
+	},
+	{
+		"_id": 100512,
+		"aliases": "",
+		"basealias": "japanhdv",
+		"country": "us",
+		"logo_url": "/logos/japan-hdv.png",
+		"name": "Japan HDV",
+		"group": "adult"
+	},
+	{
+		"_id": 100513,
+		"aliases": "",
+		"basealias": "sexwithmuslims",
+		"country": "us",
+		"logo_url": "/logos/sex-with-muslims.png",
+		"name": "Sex with Muslims",
+		"group": "adult"
+	},
+	{
+		"_id": 100514,
+		"aliases": "",
+		"basealias": "femjoy",
+		"country": "us",
+		"logo_url": "/logos/femjoy.png",
+		"name": "Femjoy",
+		"group": "adult"
+	},
+	{
+		"_id": 100515,
+		"aliases": "",
+		"basealias": "sinematica",
+		"country": "us",
+		"logo_url": "/logos/sinematica.png",
+		"name": "Sinematica",
+		"group": "adult"
+	},
+	{
+		"_id": 100516,
+		"aliases": "",
+		"basealias": "whiteboxxx",
+		"country": "us",
+		"logo_url": "/logos/whiteboxxx.png",
+		"name": "Whiteboxxx",
+		"group": "adult"
+	},
+	{
+		"_id": 100517,
+		"aliases": "",
+		"basealias": "gangbangcreampie",
+		"country": "us",
+		"logo_url": "/logos/gangbang-creampie.png",
+		"name": "Gangbang Creampie",
+		"group": "adult"
+	},
+	{
+		"_id": 100520,
+		"aliases": "",
+		"basealias": "turkcealtaziliyeni",
+		"country": "tr",
+		"logo_url": "",
+		"name": "Turkce Altazili Yeni",
+		"group": "adult"
+	},
+	{
+		"_id": 100521,
+		"aliases": "",
+		"basealias": "turkcealtaziliyeni1",
+		"country": "tr",
+		"logo_url": "",
+		"name": "Turkce Altazili Yeni 1",
+		"group": "adult"
+	},
+	{
+		"_id": 100522,
+		"aliases": "",
+		"basealias": "turkcealtaziliyeni2",
+		"country": "tr",
+		"logo_url": "",
+		"name": "Turkce Altazili Yeni 2",
+		"group": "adult"
+	},
+	{
+		"_id": 100523,
+		"aliases": "",
+		"basealias": "turkcealtaziliyeni3",
+		"country": "tr",
+		"logo_url": "",
+		"name": "Turkce Altazili Yeni 3",
+		"group": "adult"
+	},
+	{
+		"_id": 100524,
+		"aliases": "",
+		"basealias": "turkcealtaziliyeni4",
+		"country": "tr",
+		"logo_url": "",
+		"name": "Turkce Altazili Yeni 4",
+		"group": "adult"
+	},
+	{
+		"_id": 100530,
+		"aliases": "",
+		"basealias": "sexart",
+		"country": "ww",
+		"logo_url": "/logos/sex-art.png",
+		"name": "SexArt",
+		"group": "adult"
+	},
+	{
+		"_id": 100531,
+		"aliases": "",
+		"basealias": "daywithapornstar",
+		"country": "ww",
+		"logo_url": "/logos/day-of-pornstar.png",
+		"name": "Day with a Pornstar",
+		"group": "adult"
+	},
+	{
+		"_id": 100532,
+		"aliases": "",
+		"basealias": "hardx",
+		"country": "ww",
+		"logo_url": "/logos/hard-x.png",
+		"name": "Hard X",
+		"group": "adult"
+	},
+	{
+		"_id": 100533,
+		"aliases": "|holedcom|",
+		"basealias": "holed",
+		"country": "ww",
+		"logo_url": "/logos/holed-com.png",
+		"name": "Holed",
+		"group": "adult"
+	},
+	{
+		"_id": 100534,
+		"aliases": "|hotmean|",
+		"basealias": "hotandmean",
+		"country": "ww",
+		"logo_url": "/logos/hot-and-mean.png",
+		"name": "Hot & Mean",
+		"group": "adult"
+	},
+	{
+		"_id": 100535,
+		"aliases": "|mylftv|",
+		"basealias": "mylfcom",
+		"country": "ww",
+		"logo_url": "/logos/mylf-com.png",
+		"name": "Mylf.com",
+		"group": "adult"
+	},
+	{
+		"_id": 100536,
+		"aliases": "|mvhhard|",
+		"basealias": "meidenvanhollandhard",
+		"country": "ww",
+		"logo_url": "/logos/maiden-van-holland.png",
+		"name": "Maiden Van Holland Hard",
+		"group": "adult"
+	},
+	{
+		"_id": 100537,
+		"aliases": "",
+		"basealias": "erocomtv",
+		"country": "ww",
+		"logo_url": "/logos/erocom-tv.png",
+		"name": "Erocom TV",
+		"group": "adult"
+	},
+	{
+		"_id": 100538,
+		"aliases": "",
+		"basealias": "quadro",
+		"country": "ww",
+		"logo_url": "/logos/quadro.png",
+		"name": "Quadro",
+		"group": "common"
+	},
+	{
+		"_id": 100539,
+		"aliases": "",
+		"basealias": "vfkino",
+		"country": "ru",
+		"logo_url": "/logos/vf-kino.png",
+		"name": "VF Кино",
+		"group": "films"
+	},
+	{
+		"_id": 100540,
+		"aliases": "",
+		"basealias": "vfserial",
+		"country": "ru",
+		"logo_url": "/logos/vf-serial.png",
+		"name": "VF Сериал",
+		"group": "films"
+	},
+	{
+		"_id": 100541,
+		"aliases": "|yosso4k|",
+		"basealias": "yosso",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv.png",
+		"name": "Yosso TV",
+		"group": "films"
+	},
+	{
+		"_id": 100542,
+		"aliases": "",
+		"basealias": "boxmusic",
+		"country": "ru",
+		"logo_url": "/logos/box-music.png",
+		"name": "BOX Music",
+		"group": "music"
+	},
+	{
+		"_id": 100544,
+		"aliases": "",
+		"basealias": "boxmusic4k",
+		"country": "ru",
+		"logo_url": "/logos/box-music-4k.png",
+		"name": "BOX Music 4K",
+		"group": "music"
+	},
+	{
+		"_id": 100545,
+		"aliases": "",
+		"basealias": "boxrelax4k",
+		"country": "ru",
+		"logo_url": "/logos/box-relax-4k.png",
+		"name": "BOX Relax 4K",
+		"group": "music"
+	},
+	{
+		"_id": 100550,
+		"aliases": "",
+		"basealias": "skyhighmix",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "Sky High Mix",
+		"group": "films"
+	},
+	{
+		"_id": 100551,
+		"aliases": "|libertyтуркфильм|",
+		"basealias": "libertyturkfilm",
+		"country": "ru",
+		"logo_url": "/logos/liberty-turkfilm.png",
+		"name": "Liberty Turk Film",
+		"group": "films"
+	},
+	{
+		"_id": 100552,
+		"aliases": "|libertyсказки|",
+		"basealias": "libertyskazki",
+		"country": "ru",
+		"logo_url": "/logos/liberty-skazki.png",
+		"name": "Liberty Skazki",
+		"group": "films"
+	},
+	{
+		"_id": 100553,
+		"aliases": "|libertyнаука|",
+		"basealias": "libertyscience",
+		"country": "ru",
+		"logo_url": "/logos/liberty-science.png",
+		"name": "Liberty Science",
+		"group": "films"
+	},
+	{
+		"_id": 100554,
+		"aliases": "|libertyмим|",
+		"basealias": "libertymim",
+		"country": "ru",
+		"logo_url": "/logos/liberty-mim.png",
+		"name": "Liberty MiM",
+		"group": "films"
+	},
+	{
+		"_id": 100555,
+		"aliases": "",
+		"basealias": "libertsouz",
+		"country": "ru",
+		"logo_url": "/logos/liberty-souz.png",
+		"name": "Liberty Союз",
+		"group": "films"
+	},
+	{
+		"_id": 100556,
+		"aliases": "",
+		"basealias": "libertlegenda",
+		"country": "ru",
+		"logo_url": "/logos/liberty-legenda.png",
+		"name": "Liberty Легенда",
+		"group": "films"
 	}
 ]
