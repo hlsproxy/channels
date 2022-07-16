@@ -3001,7 +3001,7 @@
 		"aliases": "|oneuhd|onebyultrahd|one4k|первыймузыкальныйuhd|первыймузыкальныйuhdby|firstmusicuhd|",
 		"basealias": "onebyuhd",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/pp/perviy_muzykalnyi_telekanal_hd.png",
+		"logo_url": "/logos/1mus-ru.png",
 		"name": "1 Музыкальный UHD",
 		"group": "music"
 	},
@@ -8947,7 +8947,7 @@
 	},
 	{
 		"_id": 1138,
-		"aliases": "|discoveryinternational|discoveryil|",
+		"aliases": "|discoveryinternational|",
 		"basealias": "discoveryint",
 		"country": "gb",
 		"logo_url": "/logos/discovery-channel.png",
@@ -11047,17 +11047,17 @@
 		"aliases": "|travelasiapacific|travelhdasia|travelindia|",
 		"basealias": "travelasia",
 		"country": "gb",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/travel_channel_asia.png",
+		"logo_url": "/logos/travel-channel.png",
 		"name": "Travel Channel Asia",
 		"group": "knowledge"
 	},
 	{
 		"_id": 1452,
-		"aliases": "|traveleurope|travelевропа|traveleu|travelbg|travelhdbg|traveleuropehd|travelевропаhd|traveldeutschland|travelde|",
+		"aliases": "|traveleurope|travelевропа|traveleu|travelbg|travelhdbg|traveleuropehd|travelевропаhd|traveldeutschland|travelde|travelchanneleurope|",
 		"basealias": "travelcee",
 		"country": "gb",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/travel_channel_us.png",
-		"name": "Travel Channel CEE",
+		"logo_url": "/logos/travel-channel.png",
+		"name": "Travel Channel Europe",
 		"group": "knowledge"
 	},
 	{
@@ -13332,8 +13332,8 @@
 		"_id": 1783,
 		"aliases": "|onerushd|первыймузыкальныйruhdby|первыймузыкальныйruhd|первыймузыкальныйроссияhd|1музыкальныйроссияhd|",
 		"basealias": "onebyроссияhd",
-		"country": "by",
-		"logo_url": "https://dl.dropboxusercontent.com/s/qjmkcc91gcj08wn/onebyrus.png",
+		"country": "ru",
+		"logo_url": "/logos/1mus-ru.png",
 		"name": "One.by Россия HD",
 		"group": "music"
 	},
@@ -21406,8 +21406,8 @@
 		"aliases": "|nasahd|nasa4k|",
 		"basealias": "nasauhd",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/nn/nasa_tv_us_uhd.png",
-		"name": "NASA TV UHD",
+		"logo_url": "/logos/nasa-tv-hd.png",
+		"name": "NASA TV HD",
 		"group": "knowledge"
 	},
 	{
@@ -28281,8 +28281,8 @@
 		"_id": 8136,
 		"aliases": "|oneby|первыймузыкальный|первыймузыкальныйby|1музыкальныйбеларусь|1музыкальныйoneby|",
 		"basealias": "1музыкальный",
-		"country": "by",
-		"logo_url": "https://dl.dropboxusercontent.com/s/safyl4e6h82uhsx/oneby.png",
+		"country": "ru",
+		"logo_url": "/logos/oneby.png",
 		"name": "1 Музыкальный",
 		"group": "music"
 	},
@@ -36283,7 +36283,7 @@
 		"aliases": "|первыймузыкальныйhd|первыймузыкальныйbyhd|первыймузыкальныйhdby|firstmusichd|onehdby|",
 		"basealias": "onebyhd",
 		"country": "by",
-		"logo_url": "/logos/oneby.png",
+		"logo_url": "/logos/1mus-ru.png",
 		"name": "1 Музыкальный HD",
 		"group": "music"
 	},
@@ -38407,7 +38407,7 @@
 		"aliases": "|discoveryhdus|",
 		"basealias": "discoveryhdusa",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/dd/discovery_us_hd.png",
+		"logo_url": "/logos/discovery-channel-hd.png",
 		"name": "Discovery Channel HD USA",
 		"group": "knowledge"
 	},
@@ -41377,7 +41377,7 @@
 		"aliases": "|наса|nasamedia|nasapublic|",
 		"basealias": "nasa",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/nn/nasa_tv_us.png",
+		"logo_url": "/logos/nasa-tv.png",
 		"name": "NASA TV",
 		"group": "knowledge"
 	},
@@ -46905,7 +46905,7 @@
 		"country": "il",
 		"logo_url": "/logos/israel-extreme.png",
 		"name": "Extreme",
-		"group": "sport"
+		"group": "israel"
 	},
 	{
 		"_id": 50248,
@@ -47487,8 +47487,8 @@
 		"_id": 50324,
 		"aliases": "|moozdancetv|moozdancehd|",
 		"basealias": "moozdance",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/mm/mooz_dance_ro.png",
+		"country": "ru",
+		"logo_url": "/logos/mooz-dance.png",
 		"name": "Mooz Dance",
 		"group": "music"
 	},
@@ -48063,10 +48063,10 @@
 		"_id": 50466,
 		"aliases": "|goodlifeil|",
 		"basealias": "goodlife",
-		"country": 30,
+		"country": "il",
 		"logo_url": "/logos/good-life-il.png",
 		"name": "Good Life Channel",
-		"group": "common"
+		"group": "israel"
 	},
 	{
 		"_id": 50467,
@@ -48151,10 +48151,10 @@
 	},
 	{
 		"_id": 50486,
-		"aliases": "|первыймузыкальныйроссия|первыймузыкальныйruby|1музыкальныйроссия|",
+		"aliases": "|первыймузыкальныйроссия|первыймузыкальныйruby|1музыкальныйроссия|onebyrussia|",
 		"basealias": "onebyроссия",
-		"country": "by",
-		"logo_url": "https://dl.dropboxusercontent.com/s/qjmkcc91gcj08wn/onebyrus.png",
+		"country": "ru",
+		"logo_url": "/logos/1mus-ru.png",
 		"name": "One.by Россия",
 		"group": "music"
 	},
@@ -80203,7 +80203,7 @@
 		"aliases": "|pulse|pulsedancemusic|pulsehd|vivatvrussia|vivarussiahd|vivatvrussiahd|vivaроссия|",
 		"basealias": "vivarussia",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/cgnwfshvb64ezh2/viva.png",
+		"logo_url": "/logos/viva-ru.png",
 		"name": "Pulse TV",
 		"group": "music"
 	},
@@ -87472,7 +87472,7 @@
 	},
 	{
 		"_id": 100093,
-		"aliases": "|discoveryinternationalhd|discoveryilhd|discoveryhdil|",
+		"aliases": "|discoveryinternationalhd|",
 		"basealias": "discoveryinthd",
 		"country": "gb",
 		"logo_url": "/logos/discovery-channel-hd.png",
@@ -89511,7 +89511,7 @@
 		"country": "il",
 		"logo_url": "/logos/national-geographic.png",
 		"name": "National Geographic IL",
-		"group": "knowledge"
+		"group": "israel"
 	},
 	{
 		"_id": 100324,
@@ -90886,7 +90886,7 @@
 		"aliases": "",
 		"basealias": "turkcealtaziliyeni",
 		"country": "tr",
-		"logo_url": "",
+		"logo_url": "/logos/turkcealtaziliyeni.png",
 		"name": "Turkce Altazili Yeni",
 		"group": "adult"
 	},
@@ -90895,7 +90895,7 @@
 		"aliases": "",
 		"basealias": "turkcealtaziliyeni1",
 		"country": "tr",
-		"logo_url": "",
+		"logo_url": "/logos/turkcealtaziliyeni.png",
 		"name": "Turkce Altazili Yeni 1",
 		"group": "adult"
 	},
@@ -90904,7 +90904,7 @@
 		"aliases": "",
 		"basealias": "turkcealtaziliyeni2",
 		"country": "tr",
-		"logo_url": "",
+		"logo_url": "/logos/turkcealtaziliyeni.png",
 		"name": "Turkce Altazili Yeni 2",
 		"group": "adult"
 	},
@@ -90913,7 +90913,7 @@
 		"aliases": "",
 		"basealias": "turkcealtaziliyeni3",
 		"country": "tr",
-		"logo_url": "",
+		"logo_url": "/logos/turkcealtaziliyeni.png",
 		"name": "Turkce Altazili Yeni 3",
 		"group": "adult"
 	},
@@ -90922,7 +90922,7 @@
 		"aliases": "",
 		"basealias": "turkcealtaziliyeni4",
 		"country": "tr",
-		"logo_url": "",
+		"logo_url": "/logos/turkcealtaziliyeni.png",
 		"name": "Turkce Altazili Yeni 4",
 		"group": "adult"
 	},
@@ -90973,7 +90973,7 @@
 	},
 	{
 		"_id": 100535,
-		"aliases": "|mylftv|",
+		"aliases": "|mylftv|gotmylf|",
 		"basealias": "mylfcom",
 		"country": "ww",
 		"logo_url": "/logos/mylf-com.png",
@@ -91123,5 +91123,77 @@
 		"logo_url": "/logos/liberty-legenda.png",
 		"name": "Liberty Легенда",
 		"group": "films"
+	},
+	{
+		"_id": 100557,
+		"aliases": "",
+		"basealias": "startworld",
+		"country": "ru",
+		"logo_url": "/logos/start-world.png",
+		"name": "Start World",
+		"group": "films"
+	},
+	{
+		"_id": 100558,
+		"aliases": "",
+		"basealias": "startair",
+		"country": "ru",
+		"logo_url": "/logos/start-air.png",
+		"name": "Start Air",
+		"group": "films"
+	},
+	{
+		"_id": 100559,
+		"aliases": "",
+		"basealias": "planb",
+		"country": "ru",
+		"logo_url": "/logos/plan-b.png",
+		"name": "Plan B",
+		"group": "films"
+	},
+	{
+		"_id": 100560,
+		"aliases": "",
+		"basealias": "englishclass",
+		"country": "ru",
+		"logo_url": "/logos/english-class.png",
+		"name": "English Class",
+		"group": "knowledge"
+	},
+	{
+		"_id": 100561,
+		"aliases": "",
+		"basealias": "classicmusic",
+		"country": "ru",
+		"logo_url": "/logos/classic-music.png",
+		"name": "Classic Music",
+		"group": "music"
+	},
+	{
+		"_id": 100562,
+		"aliases": "",
+		"basealias": "travelchannelil",
+		"country": "il",
+		"logo_url": "/logos/israel-travel.png",
+		"name": "Travel Channel IL",
+		"group": "israel"
+	},
+	{
+		"_id": 100563,
+		"aliases": "",
+		"basealias": "discoverychannelil",
+		"country": "il",
+		"logo_url": "/logos/discovery-channel.png",
+		"name": "Discovery Channel IL",
+		"group": "israel"
+	},
+	{
+		"_id": 1005643,
+		"aliases": "|discoveryhdil|",
+		"basealias": "discoverychannelhdil",
+		"country": "il",
+		"logo_url": "/logos/discovery-channel-hd.png",
+		"name": "Discovery Channel HD IL",
+		"group": "israel"
 	}
 ]
