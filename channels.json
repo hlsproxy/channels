@@ -2421,21 +2421,21 @@
 		"group": "regional"
 	},
 	{
-		"_id": 275,
-		"aliases": "|khlhd|телеканалкхлhd|кхлfhd|",
-		"basealias": "кхлhd",
-		"country": "ru",
-		"logo_url": "/logos/khl-hd.png",
-		"name": "КХЛ HD",
-		"group": "sport"
-	},
-	{
 		"_id": 274,
 		"aliases": "|khl|телеканалкхл|",
 		"basealias": "кхл",
 		"country": "ru",
 		"logo_url": "/logos/khl-tv.png",
 		"name": "КХЛ-ТВ",
+		"group": "sport"
+	},
+	{
+		"_id": 275,
+		"aliases": "|khlhd|телеканалкхлhd|кхлfhd|",
+		"basealias": "кхлhd",
+		"country": "ru",
+		"logo_url": "/logos/khl-hd.png",
+		"name": "КХЛ HD",
 		"group": "sport"
 	},
 	{
@@ -91195,5 +91195,14 @@
 		"logo_url": "/logos/discovery-channel-hd.png",
 		"name": "Discovery Channel HD IL",
 		"group": "israel"
+	},
+	{
+		"_id": 1005644,
+		"aliases": "|khlprime|khlпрайм|",
+		"basealias": "кхлпрайм",
+		"country": "ru",
+		"logo_url": "/logos/khl-prime.png",
+		"name": "КХЛ Prime",
+		"group": "sport"
 	}
 ]
