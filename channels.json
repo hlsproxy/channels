@@ -658,7 +658,7 @@
 	},
 	{
 		"_id": 75,
-		"aliases": "|extremeemea|extremesportschl|extremesport|extremesportshd|extremesporthd|extrime|",
+		"aliases": "|extremeemea|extremesportschl|extremesport|extremesportshd|extremesporthd|extrime|extremesportschannel|",
 		"basealias": "extremesports",
 		"country": "ru",
 		"logo_url": "/logos/extreme-sports.png",
@@ -1540,9 +1540,9 @@
 	},
 	{
 		"_id": 175,
-		"aliases": "|vippremiereукраинаhd|vippremiereua|vippremierehdукраина|vippremierehdua|vippremiere|",
+		"aliases": "|vippremiereукраинаhd|vippremiereua|vippremierehdукраина|vippremierehdua|vippremiere|vippremierehd|",
 		"basealias": "vippremiereукраина",
-		"country": "ua",
+		"country": "ru",
 		"logo_url": "/logos/vip-premiere.png",
 		"name": "ViP Premiere",
 		"group": "films"
@@ -1948,7 +1948,7 @@
 		"aliases": "|беларусь5спорт|беларусь5hd|беларусьспорт|belarus5|5беларусь|беларусь5by|беларусь5hdby|",
 		"basealias": "беларусь5",
 		"country": "by",
-		"logo_url": "https://dl.dropboxusercontent.com/s/mt33vxkac22akoc/belarus5.png",
+		"logo_url": "/logos/belarus5.png",
 		"name": "Беларусь 5",
 		"group": "sport"
 	},
@@ -3874,7 +3874,7 @@
 		"aliases": "",
 		"basealias": "тнтроссия",
 		"country": "ru",
-		"logo_url": "/logos/tnt.png",
+		"logo_url": "/logos/tnt-ru.png",
 		"name": "ТНТ",
 		"group": "entertainment"
 	},
@@ -4006,7 +4006,7 @@
 	},
 	{
 		"_id": 454,
-		"aliases": "|teletravel|",
+		"aliases": "",
 		"basealias": "телепутешествия",
 		"country": "ru",
 		"logo_url": "/logos/teleputeshestvia.png",
@@ -4015,7 +4015,7 @@
 	},
 	{
 		"_id": 455,
-		"aliases": "|teletravelhd|телепутешествияhd|приключения|",
+		"aliases": "|приключения|teletravel|",
 		"basealias": "приключенияhd",
 		"country": "ru",
 		"logo_url": "/logos/prikluchenia-hd.png",
@@ -4999,7 +4999,7 @@
 		"aliases": "|тiм|tim|тім|timtv|тiмтв|тiмtv|тiмприлуки|тимприлуки|тімприлуки|",
 		"basealias": "тим",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/5zmbvpeymsq2rr5/tim.jpg",
+		"logo_url": "/logos/timtv.png",
 		"name": "ТИМ ТВ",
 		"group": "regional"
 	},
@@ -5953,7 +5953,7 @@
 		"aliases": "|backus|backushd|backustvhd|",
 		"basealias": "backustv",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/6cmv3betcrzs729/backus.png",
+		"logo_url": "/logos/backus-tv.png",
 		"name": "BackusTV",
 		"group": "films"
 	},
@@ -7285,7 +7285,7 @@
 		"aliases": "|тнтfhd|",
 		"basealias": "тнтhd",
 		"country": "ru",
-		"logo_url": "/logos/tnt-hd.png",
+		"logo_url": "/logos/tnt-hd-ru.png",
 		"name": "ТНТ HD",
 		"group": "entertainment"
 	},
@@ -7611,7 +7611,7 @@
 		"country": "de",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ww/wmz_tv_de.png",
 		"name": "WMZ TV",
-		"group": "notfound"
+		"group": "regional"
 	},
 	{
 		"_id": 858,
@@ -7620,7 +7620,7 @@
 		"country": "de",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ww/wobbler_tv.png",
 		"name": "Wobbler",
-		"group": "notfound"
+		"group": "regional"
 	},
 	{
 		"_id": 859,
@@ -9130,7 +9130,7 @@
 		"aliases": "|extremesportspolska|extremesportshdpolska|extremesportsnl|",
 		"basealias": "extremesportsuk",
 		"country": "gb",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.png",
+		"logo_url": "/logos/extreme-sports.png",
 		"name": "Extreme Sports Channel UK",
 		"group": "sport"
 	},
@@ -10732,7 +10732,7 @@
 		"aliases": "|skysportsf1hd|",
 		"basealias": "skysportsf1",
 		"country": "gb",
-		"logo_url": "https://dl.dropboxusercontent.com/s/l8uac20f6fc2uhl/sspsf1.png",
+		"logo_url": "/logos/sky-sports-f1-hd.png",
 		"name": "Sky Sports F1 (UK)",
 		"group": "sport"
 	},
@@ -11533,7 +11533,7 @@
 		"aliases": "|tracesports|tracesport|traceurbansportstars|",
 		"basealias": "tracesportstars",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/trace_fr_sport_stars.png",
+		"logo_url": "/logos/trace-sport-stars.png",
 		"name": "Trace Sport Stars",
 		"group": "entertainment"
 	},
@@ -12189,7 +12189,7 @@
 		"_id": 1656,
 		"aliases": "|путешествияприключения|путешествия+приключенияhd|путешествияприключенияhd|",
 		"basealias": "путешествия+приключения",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/ty3qo1knery21zw/put-prik.png",
 		"name": "Путешествия+Приключения",
 		"group": "knowledge"
@@ -12621,8 +12621,8 @@
 		"_id": 1704,
 		"aliases": "|polsatsportpremium3hd|polsatsportpremiumppv3|polsatsportpremium3ppv|",
 		"basealias": "polsatsportpremium3",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/ux3hoa2l7byl1wg/pols-pr3.png",
+		"country": "pl",
+		"logo_url": "/logos/polsat-sport-premium-3.png",
 		"name": "Polsat Sport Premium 3",
 		"group": "sport"
 	},
@@ -12630,8 +12630,8 @@
 		"_id": 1705,
 		"aliases": "|polsatsportpremium4hd|polsatsportpremiumppv4|polsatsportpremium4ppv|",
 		"basealias": "polsatsportpremium4",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/a3sceydt7qs9npk/pols-pr4.png",
+		"country": "pl",
+		"logo_url": "/logos/polsat-sport-premium-4.png",
 		"name": "Polsat Sport Premium 4",
 		"group": "sport"
 	},
@@ -12639,8 +12639,8 @@
 		"_id": 1706,
 		"aliases": "|polsatsportpremium5hd|polsatsportpremiumppv5|polsatsportpremium5ppv|",
 		"basealias": "polsatsportpremium5",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/8iopvc265m7o38f/pols-pr5.png",
+		"country": "pl",
+		"logo_url": "/logos/polsat-sport-premium-5.png",
 		"name": "Polsat Sport Premium 5",
 		"group": "sport"
 	},
@@ -12648,8 +12648,8 @@
 		"_id": 1707,
 		"aliases": "|polsatsportpremium6hd|polsatsportpremiumppv6|polsatsportpremium6ppv|",
 		"basealias": "polsatsportpremium6",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/k09mura4lql8a9q/pols-pr6.png",
+		"country": "pl",
+		"logo_url": "/logos/polsat-sport-premium-6.png",
 		"name": "Polsat Sport Premium 6",
 		"group": "sport"
 	},
@@ -13162,7 +13162,7 @@
 		"aliases": "|movieseason|киносезонhd|movieseasonhd|",
 		"basealias": "киносезон",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/6we3ot94db7yv2j/kinosezon.png",
+		"logo_url": "/logos/kinosezon.png",
 		"name": "КиноСезон",
 		"group": "films"
 	},
@@ -13321,10 +13321,10 @@
 	},
 	{
 		"_id": 1782,
-		"aliases": "|adjarasporttv|adjarasporthd|adjarasport2|",
+		"aliases": "|adjarasporttv|adjarasporthd|adjarasporttv1|adjarasport1hd|",
 		"basealias": "adjarasport",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/vlnrrspuaqb4ddq/adjsport.png",
+		"country": "ge",
+		"logo_url": "/logos/adjarasport.png",
 		"name": "AdjaraSport",
 		"group": "sport"
 	},
@@ -15025,7 +15025,7 @@
 		"aliases": "|bcuromantic|",
 		"basealias": "bcuromantichd",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/vofb7we2yhahiyu/bcu-rom.png",
+		"logo_url": "/logos/bcu-romantic-hd.png",
 		"name": "BCU Romantic HD",
 		"group": "films"
 	},
@@ -18463,7 +18463,7 @@
 		"aliases": "|bcuсватыhd|",
 		"basealias": "bcuсваты",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/eydnejmhqwuz7s3/bcu-svat.png",
+		"logo_url": "/logos/bcu-svaty-hd.png",
 		"name": "BCU Сваты",
 		"group": "films"
 	},
@@ -18472,7 +18472,7 @@
 		"aliases": "|bcurussianhd|",
 		"basealias": "bcurussian",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/vhv8bj689z6e6f4/bcu-russ.png",
+		"logo_url": "/logos/bcu-russian-hd.png",
 		"name": "BCU Russian",
 		"group": "films"
 	},
@@ -18490,7 +18490,7 @@
 		"aliases": "|bcuкинозаказhd|",
 		"basealias": "bcuкинозаказ",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/lglpcn6ycef0h5k/bcu-kinozak.png",
+		"logo_url": "/logos/bcu-kinozakaz-hd.png",
 		"name": "BCU Кинозаказ",
 		"group": "films"
 	},
@@ -18499,7 +18499,7 @@
 		"aliases": "|bcuhistoryhd|",
 		"basealias": "bcuhistory",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/9ag6rc4uez9tj8f/bcu-hist.png",
+		"logo_url": "/logos/bcu-history-hd.png",
 		"name": "BCU History",
 		"group": "knowledge"
 	},
@@ -19048,7 +19048,7 @@
 		"aliases": "|4evercinemahd|",
 		"basealias": "4evercinema",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/vahpxb9vuhqhub6/4evercinema.png",
+		"logo_url": "/logos/4ever-cinema.png",
 		"name": "4ever Cinema",
 		"group": "films"
 	},
@@ -20488,7 +20488,7 @@
 		"aliases": "|filmuadramahd|",
 		"basealias": "filmuadrama",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ff/film_ua_drama.png",
+		"logo_url": "/logos/filmua-drama.png",
 		"name": "FilmUA Drama",
 		"group": "films"
 	},
@@ -20497,7 +20497,7 @@
 		"aliases": "|extremesportsfr|extremesportfr|",
 		"basealias": "extremesportsfrance",
 		"country": "fr",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_fr.png",
+		"logo_url": "/logos/extreme-sports.png",
 		"name": "Extreme Sports Channel France",
 		"group": "sport"
 	},
@@ -27904,7 +27904,7 @@
 		"aliases": "|tv3sportsd|tvplaysports|viasatsportbaltics|tvplaysport|tv3sporthd|tv3sportbaltics|tv3sporthdbaltics|tv3sport1hd|tvplaysportshd|tvplayспорт|viaplaysports|viasatsportbalticshd|viasatsportbaltichd|tvplaysporthd|tvplayспортhd|",
 		"basealias": "viasatsportbaltic",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tv-3-sport-lv.png",
+		"logo_url": "/logos/tv3-sport.png",
 		"name": "TV3 Sport",
 		"group": "sport"
 	},
@@ -29875,7 +29875,7 @@
 		"aliases": "|тв3минск|3беларусь|tv3беларусь|",
 		"basealias": "тв3беларусь",
 		"country": "by",
-		"logo_url": "https://dl.dropboxusercontent.com/s/owcbfcef2cic529/tv3by.png",
+		"logo_url": "/logos/tv3-belarus.png",
 		"name": "ТВ-3 (Беларусь)",
 		"group": "films"
 	},
@@ -31405,7 +31405,7 @@
 		"aliases": "|setantaказахстанhd|setantaqazaqstanhd|сетантаказахстан|setantasportsказахстан|setantasportказахстан|setantaказакстан|setantasportsказакстан|setantasportказакстан|setantasportskz|setantasportsказахстанhd|setantasportказахстанhd|setantasportskzhd|setantasportkzhd|",
 		"basealias": "setantaказахстан",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/sdp4rexn78mxkxs/setantakz.png",
+		"logo_url": "/logos/setanta-qazaqstan.png",
 		"name": "Setanta Qazaqstan",
 		"group": "sport"
 	},
@@ -35110,7 +35110,7 @@
 	},
 	{
 		"_id": 10071,
-		"aliases": "|прнк|первыйрнк|1рнк|1phk|первыйроссийскийнациональный|прнкhd|первыйроссийскийнациональныйhd|",
+		"aliases": "|прнк|первыйрнк|1рнк|1phk|первыйроссийскийнациональный|прнкhd|первыйроссийскийнациональныйhd|первыйссср|",
 		"basealias": "первыйроссийскийнациональныйканал",
 		"country": "ru",
 		"logo_url": "/logos/prnk-ru.png",
@@ -36049,7 +36049,7 @@
 		"aliases": "|filmzoneлатвия|filmzonehd|filmzoneлитва|filmzoneэстония|filmzoneestonia|filmzonehdee|filmzoneee|",
 		"basealias": "filmzone",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/gychxfsallejsol/Filmzone.jpg",
+		"logo_url": "/logos/filmzone.png",
 		"name": "Filmzone (Baltic)",
 		"group": "films"
 	},
@@ -41512,7 +41512,7 @@
 		"aliases": "|nhlcanada|",
 		"basealias": "nhlnetworkcanada",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/nn/nhl_network_ca.png",
+		"logo_url": "/logos/nhl-network.png",
 		"name": "NHL Network Canada",
 		"group": "sport"
 	},
@@ -41521,7 +41521,7 @@
 		"aliases": "|nhl|nhlhd|nhlnetwork|nhlnetworkhd|nhlnetworkalternate|",
 		"basealias": "nhlnetworkusa",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/nn/nhl-network-us.png",
+		"logo_url": "/logos/nhl-network.png",
 		"name": "NHL Network USA",
 		"group": "sport"
 	},
@@ -44149,7 +44149,7 @@
 		"aliases": "|vividred|vividus|vividusa|",
 		"basealias": "vivid",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/vivid_tv_us.png",
+		"logo_url": "/logos/vivid-red.png",
 		"name": "Vivid TV",
 		"group": "adult"
 	},
@@ -44527,7 +44527,7 @@
 		"aliases": "|cmorehockey|",
 		"basealias": "cmorehockeyhd",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/cc/c_more_se_hockey_hd.png",
+		"logo_url": "/logos/cmore-hockey.png",
 		"name": "C More Hockey HD",
 		"group": "sport"
 	},
@@ -46092,8 +46092,8 @@
 		"_id": 50026,
 		"aliases": "|fightbox|fightboxhdpolska|fightboxpolska|",
 		"basealias": "fightboxhd",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ff/fight_box_hd.png",
+		"country": "pl",
+		"logo_url": "/logos/fight-box-hd.png",
 		"name": "Fight Box HD",
 		"group": "sport"
 	},
@@ -48351,8 +48351,8 @@
 		"_id": 50546,
 		"aliases": "",
 		"basealias": "tsn1",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tsn_1_ca.png",
+		"country": "ca",
+		"logo_url": "/logos/tsn-1.png",
 		"name": "TSN 1",
 		"group": "sport"
 	},
@@ -48360,8 +48360,8 @@
 		"_id": 50547,
 		"aliases": "",
 		"basealias": "tsn2",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tsn_2_ca.png",
+		"country": "ca",
+		"logo_url": "/logos/tsn-2.png",
 		"name": "TSN 2",
 		"group": "sport"
 	},
@@ -48369,8 +48369,8 @@
 		"_id": 50548,
 		"aliases": "",
 		"basealias": "tsn3",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tsn_3_ca.png",
+		"country": "ca",
+		"logo_url": "/logos/tsn-3.png",
 		"name": "TSN 3",
 		"group": "sport"
 	},
@@ -48378,8 +48378,8 @@
 		"_id": 50549,
 		"aliases": "",
 		"basealias": "tsn4",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tsn_4_ca.png",
+		"country": "ca",
+		"logo_url": "/logos/tsn-4.png",
 		"name": "TSN 4",
 		"group": "sport"
 	},
@@ -48387,8 +48387,8 @@
 		"_id": 50550,
 		"aliases": "",
 		"basealias": "tsn5",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tsn_5_ca.png",
+		"country": "ca",
+		"logo_url": "/logos/tsn-5.png",
 		"name": "TSN 5",
 		"group": "sport"
 	},
@@ -48871,10 +48871,10 @@
 	},
 	{
 		"_id": 51066,
-		"aliases": "|cinemacosmos|cinematv|cinemaтв|cinemahdcosmos|cinemahdcosmostv|космос|",
+		"aliases": "|cinemacosmos|cinematv|cinemaтв|cinemahdcosmos|cinemahdcosmostv|космос|cinemaкосмоств|космоств|",
 		"basealias": "cinemaкосмос",
 		"country": "by",
-		"logo_url": "https://dl.dropboxusercontent.com/s/fsdwu3n7vsm8f8l/cinema-cos.jpg",
+		"logo_url": "/logos/kosmos-tv.png",
 		"name": "Cinema (Космос ТВ)",
 		"group": "films"
 	},
@@ -53848,10 +53848,10 @@
 	},
 	{
 		"_id": 51670,
-		"aliases": "|espn|espn1|espnhdus|espnhd|espn1hd|espnamerica|espnpacificrim|espnalternate|espnuk|",
+		"aliases": "|espn|espn1|espnamerica|espnpacificrim|espnalternate|",
 		"basealias": "espnus",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ee/espn_tv_us.png",
+		"logo_url": "/logos/espn.png",
 		"name": "ESPN US",
 		"group": "sport"
 	},
@@ -58512,8 +58512,8 @@
 		"_id": 52252,
 		"aliases": "|tntus|tnteast|tntwest|",
 		"basealias": "tnt",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tnt_us.png",
+		"country": "us",
+		"logo_url": "/logos/tnt.png",
 		"name": "TNT",
 		"group": "films"
 	},
@@ -58557,8 +58557,8 @@
 		"_id": 52257,
 		"aliases": "",
 		"basealias": "tnthd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/jegydedrpuaqq03/tnthd.png",
+		"country": "us",
+		"logo_url": "/logos/tnt-hd.png",
 		"name": "TNT HD",
 		"group": "films"
 	},
@@ -65784,8 +65784,8 @@
 		"_id": 53139,
 		"aliases": "|barça|barçatv|fcbarcelona|fcb|",
 		"basealias": "barca",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/2bi9oy89srb4skx/barca.png",
+		"country": "es",
+		"logo_url": "/logos/fc-barcelona.png",
 		"name": "Barca TV",
 		"group": "sport"
 	},
@@ -75432,17 +75432,17 @@
 		"_id": 54244,
 		"aliases": "|tv1oberosterreich|btvaustria|btvsvg|btvextra|",
 		"basealias": "tv1oberösterreich",
-		"country": 30,
+		"country": "at",
 		"logo_url": "https://dl.dropboxusercontent.com/s/ne0ayu3glf5anyh/tv1ober.png",
 		"name": "TV1 Oberösterreich",
-		"group": "notfound"
+		"group": "regional"
 	},
 	{
 		"_id": 54245,
 		"aliases": "|epicdramahd|",
 		"basealias": "epicdrama",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/9cpe592qqlsuesc/epicdrama.jpg",
+		"country": "ww",
+		"logo_url": "/logos/epic-drama.png",
 		"name": "Epic Drama",
 		"group": "films"
 	},
@@ -75667,7 +75667,7 @@
 		"aliases": "|paramountcomedyукраинаhd|paramountcomedyukr|paramountcomedyukraine|paramountcomedyua|",
 		"basealias": "paramountcomedyукраина",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/pp/paramount_comedy_ru.png",
+		"logo_url": "/logos/paramount-comedy.png",
 		"name": "Paramount Comedy Украина",
 		"group": "films"
 	},
@@ -77655,7 +77655,7 @@
 		"_id": 54499,
 		"aliases": "|bazmoc|bazmocatv|բազմոց|диван|базмоц|",
 		"basealias": "atvbazmoc",
-		"country": 30,
+		"country": "am",
 		"logo_url": "https://dl.dropboxusercontent.com/s/njiz4np6mxcucda/bazmoc.png",
 		"name": "ATV Bazmoc TV (AM)",
 		"group": "notfound"
@@ -77664,8 +77664,8 @@
 		"_id": 54500,
 		"aliases": "|atvfilmzonehd|filmzoneatv|ֆիլմզոն|atvfilmzon|atvфильмзон|ֆիլմզոնatv|ֆՒլմզոն|atvfilmzonhd|ֆւլմզոն|",
 		"basealias": "atvfilmzone",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/8k826y5wk9dgqlh/filmzon.png",
+		"country": "am",
+		"logo_url": "/logos/atv-filmzone.png",
 		"name": "ATV Filmzone (AM)",
 		"group": "films"
 	},
@@ -79113,8 +79113,8 @@
 		"_id": 54666,
 		"aliases": "|tracesportshd|tracesporthd|traceurbansportstarshd|tracesportstarsfhd|tracesportsstarsfhd|tracesportsstarshd|",
 		"basealias": "tracesportstarshd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/8bjzonbxrwkw84o/tr-sports.png",
+		"country": "us",
+		"logo_url": "/logos/trace-sport-stars.png",
 		"name": "Trace Sport Stars HD",
 		"group": "sport"
 	},
@@ -79435,19 +79435,19 @@
 	},
 	{
 		"_id": 54704,
-		"aliases": "|polsatsport2|polsatsportpremium1hd|polsatsportpremium1superhd|",
+		"aliases": "|polsatsport1|polsatsportpremium1hd|polsatsportpremium1superhd|",
 		"basealias": "polsatsportpremium1",
 		"country": "pl",
-		"logo_url": "https://dl.dropboxusercontent.com/s/yuv8juoukytnnhz/pols-pr1.png",
+		"logo_url": "/logos/polsat-sport-premium-1.png",
 		"name": "Polsat Sport Premium 1",
 		"group": "sport"
 	},
 	{
 		"_id": 54705,
-		"aliases": "|polsatsport3|polsatsportpremium2hd|polsatsportpremium2superhd|",
+		"aliases": "|polsatsport2|polsatsportpremium2hd|polsatsportpremium2superhd|",
 		"basealias": "polsatsportpremium2",
 		"country": "pl",
-		"logo_url": "https://dl.dropboxusercontent.com/s/co7fmvg7w60zw0i/pols-pr2.png",
+		"logo_url": "/logos/polsat-sport-premium-2.png",
 		"name": "Polsat Sport Premium 2",
 		"group": "sport"
 	},
@@ -80182,11 +80182,11 @@
 	},
 	{
 		"_id": 54791,
-		"aliases": "|tv1000premium|tv3filmhd|tv1000premiumhd|tv1000premiumhdbaltic|tv1000premiumsdbaltic|tv1000premiumbaltichd|viasattv1000premium|viasattv1000premiumhd|tv1000premiumscandinavia|",
+		"aliases": "|tv1000premium|tv1000premiumhd|tv1000premiumhdbaltic|tv1000premiumsdbaltic|tv1000premiumbaltichd|viasattv1000premium|viasattv1000premiumhd|tv1000premiumscandinavia|",
 		"basealias": "tv1000premiumbaltic",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tv-3-film-lv.png",
-		"name": "TV3 Film",
+		"country": "ww",
+		"logo_url": "/logos/tv1000.png",
+		"name": "TV1000 premium",
 		"group": "films"
 	},
 	{
@@ -81894,8 +81894,8 @@
 		"_id": 54990,
 		"aliases": "|bcufilmystic|filmystichd|filmaxhd|filmystic|filmax|filmaxtv|filmaxtvhd|filmysticbcu|",
 		"basealias": "bcufilmystichd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/4s6r8bzgnittv9o/filmax.png",
+		"country": "ru",
+		"logo_url": "/logos/bcu-filmystic-hd.png",
 		"name": "BCU FilMystic HD",
 		"group": "films"
 	},
@@ -82731,8 +82731,8 @@
 		"_id": 55084,
 		"aliases": "|daznbar1hd|dazn1bar|dazn1germany|dazn1hd|dazn1austria|dazn1switzerland|dazn1barhd|dazn1hdbar|dazn1deutschlandhd|dazn1germanyhd|",
 		"basealias": "dazn1deutschland",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/xbfz5davmffc46d/dazn1.png",
+		"country": "de",
+		"logo_url": "/logos/dazn-1.png",
 		"name": "DAZN 1 Deutschland",
 		"group": "sport"
 	},
@@ -82758,8 +82758,8 @@
 		"_id": 55087,
 		"aliases": "|daznbar2hd|dazn2bar|dazn2germany|dazn2hd|dazn2deutschlandhd|dazn2germanyhd|dazn2barhd|dazn2hdbar|",
 		"basealias": "dazn2deutschland",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/qvis2pkqg0i4a66/dazn2.png",
+		"country": "de",
+		"logo_url": "/logos/dazn-2.png",
 		"name": "DAZN 2 Deutschland",
 		"group": "sport"
 	},
@@ -82783,10 +82783,10 @@
 	},
 	{
 		"_id": 55090,
-		"aliases": "|bolthdроссия|bolthdru|болтhdроссия|boltruhd|boltроссияhd|болтроссияhd|",
+		"aliases": "|boltru|",
 		"basealias": "boltроссия",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/9onb26dv67lpkds/bolt.png",
+		"logo_url": "/logos/bolt-ru.png",
 		"name": "BOLT Россия",
 		"group": "films"
 	},
@@ -82801,10 +82801,10 @@
 	},
 	{
 		"_id": 55092,
-		"aliases": "|starfamilyhdроссия|starfamilysdроссия|starfamilyроссияhd|starfamilyроссияsd|",
+		"aliases": "|starfamilysdроссия|starfamilyроссияsd|starfamilyrussia|",
 		"basealias": "starfamilyроссия",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/efxbr2i9z6bpjhr/starfam.png",
+		"logo_url": "/logos/star-family.png",
 		"name": "Star Family Россия",
 		"group": "entertainment"
 	},
@@ -86025,8 +86025,8 @@
 		"_id": 55456,
 		"aliases": "|bcucomedy|",
 		"basealias": "bcucomedyhd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/2508nwg5vzelkaw/bcu-comedy.png",
+		"country": "ru",
+		"logo_url": "/logos/bcu-comedy-hd.png",
 		"name": "BCU Comedy HD",
 		"group": "films"
 	},
@@ -86034,8 +86034,8 @@
 		"_id": 55457,
 		"aliases": "|bcufantastic|",
 		"basealias": "bcufantastichd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/hw6lwgpsydpjol1/bcu-fant.png",
+		"country": "ru",
+		"logo_url": "/logos/bcu-fantastic-hd.png",
 		"name": "BCU Fantastic HD",
 		"group": "films"
 	},
@@ -86043,8 +86043,8 @@
 		"_id": 55458,
 		"aliases": "|bcukinorating|",
 		"basealias": "bcukinoratinghd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/q978bltpfqqp5ba/bcu-kinorat.png",
+		"country": "ru",
+		"logo_url": "/logos/bcu-kinorating-hd.png",
 		"name": "BCU Kinorating HD",
 		"group": "films"
 	},
@@ -86052,8 +86052,8 @@
 		"_id": 55459,
 		"aliases": "|bcumarveldc|bcumarveldchd|",
 		"basealias": "bcumarvelhd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/ka04hgoj1zn72b3/bcu-marv.png",
+		"country": "ru",
+		"logo_url": "/logos/bcu-marvel-hd.png",
 		"name": "BCU Marvel HD",
 		"group": "films"
 	},
@@ -86070,8 +86070,8 @@
 		"_id": 55461,
 		"aliases": "|bcuvhs|boxvhs|",
 		"basealias": "bcuvhshd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/09aosw0h5cx9je9/bcu-vhs.png",
+		"country": "ru",
+		"logo_url": "/logos/bcu-vhs-hd.png",
 		"name": "BCU VHS HD",
 		"group": "films"
 	},
@@ -86089,7 +86089,7 @@
 		"aliases": "|bcuмультсериалhd|",
 		"basealias": "bcuмультсериал",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/m54a9kl10w4sdmr/bcu-multser.png",
+		"logo_url": "/logos/bcu-multserial-hd.png",
 		"name": "BCU Мультсериал",
 		"group": "kids"
 	},
@@ -86097,8 +86097,8 @@
 		"_id": 55464,
 		"aliases": "|bcucatastrophe|",
 		"basealias": "bcucatastrophehd",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/zgfpnwcduh1qt6u/bcu-cata.png",
+		"country": "ru",
+		"logo_url": "/logos/bcu-catastrophe-hd.png",
 		"name": "BCU Catastrophe HD",
 		"group": "films"
 	},
@@ -86106,8 +86106,8 @@
 		"_id": 55465,
 		"aliases": "|bcuactionhd|",
 		"basealias": "bcuaction",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/zdg3a6omrt16f6s/bcu-act.png",
+		"country": "ru",
+		"logo_url": "/logos/bcu-action-hd.png",
 		"name": "BCU Action",
 		"group": "films"
 	},
@@ -86124,7 +86124,7 @@
 		"_id": 55467,
 		"aliases": "|kinobroadcast1hd|",
 		"basealias": "kinobroadcast1",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/i4zet14dlrin56e/kinobr1.png",
 		"name": "KinoBroadcast 1",
 		"group": "films"
@@ -86133,7 +86133,7 @@
 		"_id": 55468,
 		"aliases": "|kinobroadcast2hd|",
 		"basealias": "kinobroadcast2",
-		"country": 30,
+		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/efmjpx9hmg0tngf/kinobr2.png",
 		"name": "KinoBroadcast 2",
 		"group": "films"
@@ -86142,7 +86142,7 @@
 		"_id": 55469,
 		"aliases": "|discoveryscienceuk|discoverysciencehdus|discoveryscienceeast|discoverysciencewest|",
 		"basealias": "discoveryscienceus",
-		"country": 30,
+		"country": "us",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-science-france-us-fr.png",
 		"name": "Discovery Science US",
 		"group": "knowledge"
@@ -86656,7 +86656,7 @@
 		"aliases": "|bcukids|bcukidshd|",
 		"basealias": "bcukids",
 		"country": "ru",
-		"logo_url": "",
+		"logo_url": "/logos/bcu-kids-hd.png",
 		"name": "BCU Kids HD",
 		"group": "films"
 	},
@@ -86665,7 +86665,7 @@
 		"aliases": "|bcukids+|bcukids+hd|",
 		"basealias": "bcukids+",
 		"country": "ru",
-		"logo_url": "",
+		"logo_url": "/logos/bcu-kids-plus-hd.png",
 		"name": "BCU Kids+ HD",
 		"group": "films"
 	},
@@ -86674,7 +86674,7 @@
 		"aliases": "|bcucinema+|bcuboxcinema+|bcuboxcinema+hd|boxcinema+bcu|",
 		"basealias": "bcucinema+hd",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/4zv6qidover3inm/boxcinema.png",
+		"logo_url": "/logos/bcu-cinema-plus-hd.png",
 		"name": "BCU Cinema+ HD",
 		"group": "films"
 	},
@@ -86695,6 +86695,69 @@
 		"logo_url": "/logos/nat-geo-wild.png",
 		"name": "Nat Geo Wild IL",
 		"group": "israel"
+	},
+	{
+		"_id": 55531,
+		"aliases": "|bcucosmohd|bcuкосмо|bcuкосмоhd|",
+		"basealias": "bcucosmo",
+		"country": "ru",
+		"logo_url": "/logos/bcu-cosmo-hd.png",
+		"name": "BCU Cosmo HD",
+		"group": "films"
+	},
+	{
+		"_id": 55532,
+		"aliases": "|bcucriminalhd|",
+		"basealias": "bcucriminal",
+		"country": "ru",
+		"logo_url": "/logos/bcu-criminal-hd.png",
+		"name": "BCU Criminal HD",
+		"group": "films"
+	},
+	{
+		"_id": 55533,
+		"aliases": "|bcuruserialhd|",
+		"basealias": "bcuruserial",
+		"country": "ru",
+		"logo_url": "/logos/bcu-ruserial-hd.png",
+		"name": "BCU RuSerial HD",
+		"group": "films"
+	},
+	{
+		"_id": 55534,
+		"aliases": "|bcurealityhd|",
+		"basealias": "bcureality",
+		"country": "ru",
+		"logo_url": "/logos/bcu-reality-hd.png",
+		"name": "BCU Reality HD",
+		"group": "films"
+	},
+	{
+		"_id": 55535,
+		"aliases": "|bcusurvivalhd|",
+		"basealias": "bcusurvival",
+		"country": "ru",
+		"logo_url": "/logos/bcu-survival-hd.png",
+		"name": "BCU Survival HD",
+		"group": "films"
+	},
+	{
+		"_id": 55536,
+		"aliases": "|bcutrumotionhd|",
+		"basealias": "bcutrumotion",
+		"country": "ru",
+		"logo_url": "/logos/bcu-trumotion-hd.png",
+		"name": "BCU TruMotion HD",
+		"group": "films"
+	},
+	{
+		"_id": 55537,
+		"aliases": "",
+		"basealias": "bcuultra4k",
+		"country": "ru",
+		"logo_url": "/logos/bcu-ultra-4k.png",
+		"name": "BCU Ultra 4K",
+		"group": "films"
 	},
 	{
 		"_id": 100000,
@@ -87762,8 +87825,8 @@
 		"_id": 100126,
 		"aliases": "",
 		"basealias": "vipcomedycee",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/vip-comedy-se.png",
+		"country": "ru",
+		"logo_url": "/logos/vip-comedy.png",
 		"name": "ViP Comedy CEE",
 		"group": "films"
 	},
@@ -87771,8 +87834,8 @@
 		"_id": 100127,
 		"aliases": "",
 		"basealias": "vipmegahitcee",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/vip-megahit-se.png",
+		"country": "ru",
+		"logo_url": "/logos/vip-megahit.png",
 		"name": "ViP Megahit CEE",
 		"group": "films"
 	},
@@ -88257,8 +88320,8 @@
 		"_id": 100181,
 		"aliases": "",
 		"basealias": "vippremierecee",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/vip-premiere-se.png",
+		"country": "ua",
+		"logo_url": "/logos/vip-premiere.png",
 		"name": "ViP Premire CEE",
 		"group": "films"
 	},
@@ -88870,7 +88933,7 @@
 		"aliases": "",
 		"basealias": "tv1000cee",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/viasat_tv1000_east.png",
+		"logo_url": "/logos/tv1000.png",
 		"name": "TV1000 CEE",
 		"group": "films"
 	},
@@ -88878,7 +88941,7 @@
 		"_id": 100251,
 		"aliases": "",
 		"basealias": "volksmusik",
-		"country": 31,
+		"country": "de",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/volksmusik-tv-de.png",
 		"name": "Volksmusik TV",
 		"group": "music"
@@ -89713,7 +89776,7 @@
 	},
 	{
 		"_id": 100346,
-		"aliases": "|udarhd|",
+		"aliases": "|udarhd|удар|ударhd|",
 		"basealias": "udar",
 		"country": "ru",
 		"logo_url": "/logos/udar.png",
@@ -91203,6 +91266,258 @@
 		"country": "ru",
 		"logo_url": "/logos/khl-prime.png",
 		"name": "КХЛ Prime",
+		"group": "sport"
+	},
+	{
+		"_id": 1005645,
+		"aliases": "",
+		"basealias": "телепутешествияhd",
+		"country": "ru",
+		"logo_url": "/logos/teleputeshestvia-hd.png",
+		"name": "Телепутешествия HD",
+		"group": "knowledge"
+	},
+	{
+		"_id": 1005700,
+		"aliases": "|yossoadrenaline|",
+		"basealias": "yossotvadrenaline",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv.png",
+		"name": "Yosso TV Adrenaline",
+		"group": "movies"
+	},
+	{
+		"_id": 1005701,
+		"aliases": "|yossothriller|",
+		"basealias": "yossotvthriller",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv-thriller.png",
+		"name": "Yosso TV Thriller",
+		"group": "movies"
+	},
+	{
+		"_id": 1005702,
+		"aliases": "|yossoadventure|",
+		"basealias": "yossotvadventure",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv-adventure.png",
+		"name": "Yosso TV Adventure",
+		"group": "movies"
+	},
+	{
+		"_id": 1005703,
+		"aliases": "|yossokids|",
+		"basealias": "yossotvkids",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv.png",
+		"name": "Yosso TV Kids",
+		"group": "kids"
+	},
+	{
+		"_id": 1005704,
+		"aliases": "|yossomusichits|",
+		"basealias": "yossotvmusichits",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv-music-hits.png",
+		"name": "Yosso TV Music Hits",
+		"group": "music"
+	},
+	{
+		"_id": 1005705,
+		"aliases": "|yossovhs|",
+		"basealias": "yossotvvhs",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv-vhs.png",
+		"name": "Yosso TV VHS",
+		"group": "movies"
+	},
+	{
+		"_id": 1005706,
+		"aliases": "|yossooblivion|",
+		"basealias": "yossotvoblivion",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv-oblivion.png",
+		"name": "Yosso TV Oblivion",
+		"group": "movies"
+	},
+	{
+		"_id": 1005707,
+		"aliases": "|yossooтрагичное|",
+		"basealias": "yossotvтрагичное",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv-tragic.png",
+		"name": "Yosso TV Трагичное",
+		"group": "movies"
+	},
+	{
+		"_id": 1005708,
+		"aliases": "|yossooзабавное|",
+		"basealias": "yossotvзабавное",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv-zabavnoe.png",
+		"name": "Yosso TV Забавное",
+		"group": "movies"
+	},
+	{
+		"_id": 1005709,
+		"aliases": "|yossoobest|",
+		"basealias": "yossotvbest",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv-best.png",
+		"name": "Yosso TV Best",
+		"group": "movies"
+	},
+	{
+		"_id": 1005710,
+		"aliases": "|yossooковбойское|",
+		"basealias": "yossotvковбойское",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv-cowboy.png",
+		"name": "Yosso TV Ковбойское",
+		"group": "movies"
+	},
+	{
+		"_id": 1005711,
+		"aliases": "|yossooрусскиефильмы|",
+		"basealias": "yossotvрусскиефильмы",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv.png",
+		"name": "Yosso TV Русские фильмы",
+		"group": "movies"
+	},
+	{
+		"_id": 1005712,
+		"aliases": "|yossooсоюзмульт|",
+		"basealias": "yossotсоюзмульт",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv.png",
+		"name": "Yosso TV Союзмульт",
+		"group": "movies"
+	},
+	{
+		"_id": 1005713,
+		"aliases": "|yossooсоветскиефильмы|",
+		"basealias": "yossotсоветскиефильмы",
+		"country": "ru",
+		"logo_url": "/logos/yosso-tv.png",
+		"name": "Yosso TV Советские фильмы",
+		"group": "movies"
+	},
+	{
+		"_id": 1005714,
+		"aliases": "|backusmusic|backusmusichd|backustvmusichd|",
+		"basealias": "backustvmusic",
+		"country": "ru",
+		"logo_url": "/logos/backus-tv.png",
+		"name": "Backus TV Music",
+		"group": "music"
+	},
+	{
+		"_id": 1005715,
+		"aliases": "|backusdark|backusdarkhd|backustvdarkhd|",
+		"basealias": "backustvdark",
+		"country": "ru",
+		"logo_url": "/logos/backus-tv-dark.png",
+		"name": "Backus TV Dark",
+		"group": "films"
+	},
+	{
+		"_id": 1005716,
+		"aliases": "|backusoriginal|backusoriginalhd|backustvoriginalhd|",
+		"basealias": "backustvoriginal",
+		"country": "ru",
+		"logo_url": "/logos/backus-tv-original.png",
+		"name": "Backus TV Original",
+		"group": "films"
+	},
+	{
+		"_id": 1005717,
+		"aliases": "",
+		"basealias": "duo3",
+		"country": "ru",
+		"logo_url": "/logos/duo3.png",
+		"name": "Duo 3",
+		"group": "films"
+	},
+	{
+		"_id": 1005718,
+		"aliases": "|bolthdроссия|bolthdru|болтhdроссия|boltruhd|boltроссияhd|болтроссияhd|",
+		"basealias": "boltроссияhd",
+		"country": "ru",
+		"logo_url": "/logos/bolt-hd-ru.png",
+		"name": "BOLT Россия HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005719,
+		"aliases": "|timelessdizichannelhd|",
+		"basealias": "timelessdizichannel",
+		"country": "ru",
+		"logo_url": "/logos/timeless-dizi-channel.png",
+		"name": "Timeless Dizi Channel",
+		"group": "films"
+	},
+	{
+		"_id": 1005720,
+		"aliases": "|starfamilyhdроссия|starfamilyроссияhd|starfamilyrussiahd|",
+		"basealias": "starfamilyроссияhd",
+		"country": "ru",
+		"logo_url": "/logos/star-family-hd.png",
+		"name": "Star Family Россия HD",
+		"group": "entertainment"
+	},
+	{
+		"_id": 1005721,
+		"aliases": "|adjarasporttv2|adjarasport2hd|adjarasporttv2|",
+		"basealias": "adjarasport2",
+		"country": "ge",
+		"logo_url": "/logos/adjarasport.png",
+		"name": "AdjaraSport 2",
+		"group": "sport"
+	},
+	{
+		"_id": 1005722,
+		"aliases": "|espnhd|espn1hd|espnamericahd|espnpacificrimhd|espnalternatehd|",
+		"basealias": "espnushd",
+		"country": "us",
+		"logo_url": "/logos/espn-hd.png",
+		"name": "ESPN US HD",
+		"group": "sport"
+	},
+	{
+		"_id": 1005723,
+		"aliases": "|твц+tv|",
+		"basealias": "твц+тв",
+		"country": "ru",
+		"logo_url": "/logos/tvc-plus-tv.png",
+		"name": "ТВЦ +ТВ",
+		"group": "common"
+	},
+	{
+		"_id": 1005724,
+		"aliases": "|3film|",
+		"basealias": "tv3film",
+		"country": "ww",
+		"logo_url": "/logos/tv3-film.png",
+		"name": "TV3 Film",
+		"group": "films"
+	},
+	{
+		"_id": 1005725,
+		"aliases": "|3filmhd|",
+		"basealias": "tv3filmhd",
+		"country": "ww",
+		"logo_url": "/logos/tv3-film-hd.png",
+		"name": "TV3 Film HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005726,
+		"aliases": "|sportlivehd|",
+		"basealias": "sportlive",
+		"country": "ww",
+		"logo_url": "/logos/sport-live.png",
+		"name": "Sport Live",
 		"group": "sport"
 	}
 ]
