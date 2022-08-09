@@ -1903,7 +1903,7 @@
 		"aliases": "|музтвбеларусь|музбеларусь|белмуз|",
 		"basealias": "белмузтв",
 		"country": "by",
-		"logo_url": "https://dl.dropboxusercontent.com/s/rmy1xev1mbehcfr/belmuz.png",
+		"logo_url": "/logos/belmuztv.png",
 		"name": "БелМузТВ (Беларусь)",
 		"group": "music"
 	},
@@ -2011,9 +2011,9 @@
 		"aliases": "|втвhd|втвбеларусь|вашетелевидение|",
 		"basealias": "втв",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/kn1631c1w4x8b6f/vtv.png",
+		"logo_url": "/logos/vtv-by.png",
 		"name": "ВТВ (Первый музыкальный)",
-		"group": "common"
+		"group": "entertainment"
 	},
 	{
 		"_id": 229,
@@ -3271,7 +3271,7 @@
 		"aliases": "|першийділовий|першийдiловий|першийделовой|1деловой|1діловий|pervydelovoy|peshiydiloviy|першийдiловийтелеканал|першийділовийтелеканал|",
 		"basealias": "первыйделовой",
 		"country": "ua",
-		"logo_url": "",
+		"logo_url": "/logos/perviy-delovoy.png",
 		"name": "Первый деловой",
 		"group": "news"
 	},
@@ -4207,7 +4207,7 @@
 		"aliases": "|fauna|faunaua|фаунаhd|",
 		"basealias": "фауна",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ff/fauna_ua.png",
+		"logo_url": "/logos/fauna.png",
 		"name": "Фауна",
 		"group": "knowledge"
 	},
@@ -4285,12 +4285,12 @@
 	},
 	{
 		"_id": 486,
-		"aliases": "|100процентов|",
+		"aliases": "|100процентов|100newsодесса|",
 		"basealias": "100news",
 		"country": "ua",
-		"logo_url": "",
+		"logo_url": "/logos/100news-ua.png",
 		"name": "100% News",
-		"group": "knowledge"
+		"group": "regional"
 	},
 	{
 		"_id": 487,
@@ -4729,7 +4729,7 @@
 		"aliases": "|тркрудана|тврудана|руданатв|руданаhd|тркруданаhd|",
 		"basealias": "рудана",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/nzplz0du9oolk3l/rudana.png",
+		"logo_url": "/logos/ua-rudana.png",
 		"name": "Рудана (Кривой рог)",
 		"group": "news"
 	},
@@ -4792,7 +4792,7 @@
 		"aliases": "|дача|дачатв|телеканалдача|телеканалдачаукраина|дачаукраина|дачаua|",
 		"basealias": "дачаhd",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/dd/dacha_tv_ua.png",
+		"logo_url": "/logos/dacha.png",
 		"name": "Дача HD",
 		"group": "knowledge"
 	},
@@ -5179,7 +5179,7 @@
 		"aliases": "|epoquetv|epoquehd|эпоха|эпохаhd|epoquе|epoquеhd|",
 		"basealias": "epoque",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ee/epoque_tv_ua.png",
+		"logo_url": "/logos/epoque.png",
 		"name": "Epoque",
 		"group": "knowledge"
 	},
@@ -5422,7 +5422,7 @@
 		"aliases": "|культураua|культураукр|",
 		"basealias": "культураукраина",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/wajn282rzah6k1l/ua-k.png",
+		"logo_url": "/logos/ua-kultura.png",
 		"name": "UA: Культура",
 		"group": "knowledge"
 	},
@@ -9553,7 +9553,7 @@
 		"aliases": "|itv1|itvuk|",
 		"basealias": "itv",
 		"country": "gb",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ii/itv_uk.png",
+		"logo_url": "/logos/itv.png",
 		"name": "ITV",
 		"group": "news"
 	},
@@ -17545,7 +17545,7 @@
 		"aliases": "|мультсезонhd|animaseason|",
 		"basealias": "мультсезон",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/57i1xjgdvbbidfc/multsezon.png",
+		"logo_url": "/logos/multsezon.png",
 		"name": "МультСезон",
 		"group": "kids"
 	},
@@ -17554,7 +17554,7 @@
 		"aliases": "|детскоекиноhd|kidsmovie|",
 		"basealias": "детскоекино",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/pw19jsyj92p5wjw/detskino.png",
+		"logo_url": "/logos/detskoe-kino.png",
 		"name": "Детское кино",
 		"group": "kids"
 	},
@@ -18283,7 +18283,7 @@
 		"aliases": "|звездный|зорянийhd|",
 		"basealias": "зоряний",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/bnfditn8uapsudk/zoryani.png",
+		"logo_url": "/logos/zoryaniy.png",
 		"name": "Зоряний",
 		"group": "knowledge"
 	},
@@ -20767,7 +20767,7 @@
 		"aliases": "|m6musichits|m6hits|m6musicblack|m6musicclub|",
 		"basealias": "m6music",
 		"country": "fr",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/mm/m6_music_fr.png",
+		"logo_url": "/logos/m6-music.png",
 		"name": "M6 Music",
 		"group": "music"
 	},
@@ -23314,7 +23314,7 @@
 		"aliases": "|белсатhd|belsat|белсатby|belsathd|belsattv|",
 		"basealias": "белсат",
 		"country": "by",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/belsat_tv.png",
+		"logo_url": "/logos/belsat-tv.png",
 		"name": "Белсат",
 		"group": "news"
 	},
@@ -24121,10 +24121,10 @@
 	},
 	{
 		"_id": 5136,
-		"aliases": "|tvpinfohd|",
+		"aliases": "",
 		"basealias": "tvpinfo",
 		"country": "pl",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tvp_info.png",
+		"logo_url": "/logos/tvp-info.png",
 		"name": "TVP Info",
 		"group": "news"
 	},
@@ -24214,7 +24214,7 @@
 		"aliases": "|viasatexplorepolska|viasatexplorepolsathd|polsatviasatexplorehd|polsatviasatexplore|",
 		"basealias": "viasatexplorepolsat",
 		"country": "pl",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/viasat_explore_pl.png",
+		"logo_url": "/logos/viasat-explore.png",
 		"name": "Viasat Explore Polsat",
 		"group": "knowledge"
 	},
@@ -24223,7 +24223,7 @@
 		"aliases": "|viasathistorypolska|viasathistorypolsathd|polsatviasathistoryhd|polsatviasathistory|",
 		"basealias": "viasathistorypolsat",
 		"country": "pl",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/viasat_history_pl.png",
+		"logo_url": "/logos/viasat-history.png",
 		"name": "Viasat History Polsat",
 		"group": "knowledge"
 	},
@@ -26527,7 +26527,7 @@
 		"aliases": "|ont|onttv|общественноенезависимоетелевидение|общественноенезависимое|publicindependent|",
 		"basealias": "онтодесса",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/oo/ont_ua.png",
+		"logo_url": "/logos/ont-odessa.png",
 		"name": "ОНТ Одесса (Общественное Независимое ТВ)",
 		"group": "common"
 	},
@@ -28183,7 +28183,7 @@
 		"aliases": "|реноме|renome|renome+|реноме+|renomeодесса|",
 		"basealias": "реномеодесса",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/rr/renome_ua.png",
+		"logo_url": "/logos/ua-renome.png",
 		"name": "Реноме (Одесса)",
 		"group": "entertainment"
 	},
@@ -28309,7 +28309,7 @@
 		"aliases": "|xitemusic|xitemusichd|xite2hd|xite2|xitehd|xite1hd|xite3hd|xite4hd|xite5hd|xite6hd|",
 		"basealias": "xite",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/xx/xite-nl.png",
+		"logo_url": "/logos/xite.png",
 		"name": "XITE",
 		"group": "music"
 	},
@@ -29489,7 +29489,7 @@
 		"basealias": "kbcnews",
 		"country": "in",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/kk/kbc_news.png",
-		"name": "KBC News",
+		"name": "KBC-News",
 		"group": "news"
 	},
 	{
@@ -29497,7 +29497,7 @@
 		"aliases": "|historyviasat|historyviasaten|viasathistorybaltic|viasathistorybaltics|viasathistoryприбалтика|",
 		"basealias": "viasathistorycee",
 		"country": "fr",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/viasat_history.png",
+		"logo_url": "/logos/viasat-history.png",
 		"name": "Viasat History CEE",
 		"group": "knowledge"
 	},
@@ -29542,7 +29542,7 @@
 		"aliases": "|viasatexplorespice|viasatexplorercee|viasatexploreceehd|viasatexplorebg|viasatexploreceespice|viasatexplorerspice|viasatexplorerceespice|viasatexplorerbg|viasatexploreeast|viasatexplorеnordic|",
 		"basealias": "viasatexplorecee",
 		"country": "pl",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/vv/viasat_explore.png",
+		"logo_url": "/logos/viasat-explore.png",
 		"name": "Viasat Explore CEE",
 		"group": "knowledge"
 	},
@@ -29890,7 +29890,7 @@
 	},
 	{
 		"_id": 8339,
-		"aliases": "|360самара|360самаратерра|терра360самара|терра360|трктерра|рентерра|рентвтерра|терра|",
+		"aliases": "|360самара|360самаратерра|терра360самара|терра360|трктерра|рентерра|рентвтерра|",
 		"basealias": "террасамара",
 		"country": "ru",
 		"logo_url": "https://dl.dropboxusercontent.com/s/06d1x25p2pnpmhu/terr.png",
@@ -30844,10 +30844,10 @@
 	},
 	{
 		"_id": 8454,
-		"aliases": "|сміла|смiла|антенна|антена|плюсчеркассы|смила|смілаhd|смiлаhd|антенаплюсчеркаси|antenna|antennahd|antennaua|",
+		"aliases": "|сміла|смiла|антенна|антена|плюсчеркассы|смила|смілаhd|смiлаhd|антенаплюсчеркаси|antenna|antennahd|antennaua|смілатв|смілатвhd|",
 		"basealias": "антенаплюс",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/aa/antenna-ua.png",
+		"logo_url": "/logos/smila-tv.png",
 		"name": "Сміла (Антена Черкассы)",
 		"group": "regional"
 	},
@@ -33826,7 +33826,7 @@
 		"aliases": "|ств|ствбеларусь|ствhd|ствhdby|ствбеларусьhd|столичноетв|столичноетелевидение|столичное|стврентв|стврен|ств+рен|ренств|ств+рентв|",
 		"basealias": "ствbl",
 		"country": "by",
-		"logo_url": "https://dl.dropboxusercontent.com/s/bwjaorex05ajwbu/stvby.png",
+		"logo_url": "/logos/stv-by.png",
 		"name": "СТВ (Столичное ТВ. Беларусь)",
 		"group": "common"
 	},
@@ -35488,10 +35488,10 @@
 	},
 	{
 		"_id": 10153,
-		"aliases": "|вiта|віта|вiтатб|",
+		"aliases": "|вiта|віта|вiтатб|вiтавінниця|вітавінниця|",
 		"basealias": "вита",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/4s6cokymld2m32u/vita.png",
+		"logo_url": "/logos/vita-tv.png",
 		"name": "Вита",
 		"group": "news"
 	},
@@ -37245,8 +37245,8 @@
 		"_id": 20066,
 		"aliases": "|aljazeeraarabe|aljazeeraarabic|aljazeerahdarab|",
 		"basealias": "aljazeera",
-		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/corp/aa/al_jazeera_qa.png",
+		"country": "ae",
+		"logo_url": "/logos/aljazeera.png",
 		"name": "AlJazeera",
 		"group": "news"
 	},
@@ -39001,7 +39001,7 @@
 		"aliases": "|portalfoxmixhd|portalfoxmixradio|",
 		"basealias": "portalfoxmix",
 		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/nj72j6nwnklzj7m/foxmix.jpg",
+		"logo_url": "/logos/portal-foxmix-tv.png",
 		"name": "Portal FoxMix TV",
 		"group": "music"
 	},
@@ -41053,7 +41053,7 @@
 		"aliases": "|foodmanclubhd|",
 		"basealias": "foodmanclub",
 		"country": "us",
-		"logo_url": "https://dl.dropboxusercontent.com/s/1hoj8agw4l1oi8p/foodman.jpg",
+		"logo_url": "/logos/foodman-club.png",
 		"name": "Foodman.club",
 		"group": "knowledge"
 	},
@@ -42274,7 +42274,7 @@
 	},
 	{
 		"_id": 20761,
-		"aliases": "|rockromania|rockitrocks|rockfmromania|",
+		"aliases": "|rockromania|rockitrocks|rockfmromania|rockhd|",
 		"basealias": "rockro",
 		"country": 30,
 		"logo_url": "/logos/rock-tv-romania.png",
@@ -48727,11 +48727,11 @@
 	},
 	{
 		"_id": 51036,
-		"aliases": "|retro|retrocz|",
+		"aliases": "|retro|retrocz|retromusictelevision|",
 		"basealias": "retromusic",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/rr/retro_music_tv_cz.png",
-		"name": "Retro Music TV (CZ)",
+		"country": "cz",
+		"logo_url": "/logos/retro-music.png",
+		"name": "Retro Music TV",
 		"group": "music"
 	},
 	{
@@ -49575,9 +49575,9 @@
 		"_id": 51162,
 		"aliases": "|hitmusicromania|htmusic|hitmusicro|htmusicromania|htmusicro|",
 		"basealias": "hitmusic",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/hh/hit_music_channel.png",
-		"name": "H!t Music Channel (RO)",
+		"country": "ro",
+		"logo_url": "/logos/hit-music.png",
+		"name": "H!t Music Channel",
 		"group": "music"
 	},
 	{
@@ -51501,9 +51501,9 @@
 		"_id": 51401,
 		"aliases": "|sonusfmhd|sonusfmlive|sonus|sonustv|",
 		"basealias": "sonusfm",
-		"country": "us",
-		"logo_url": "https://dl.dropboxusercontent.com/s/7yoj8ls6cgu99yo/sonusfm.png",
-		"name": "Sonus FM TV (DE)",
+		"country": "de",
+		"logo_url": "/logos/sonus-fm.png",
+		"name": "Sonus FM TV",
 		"group": "music"
 	},
 	{
@@ -52006,7 +52006,7 @@
 		"aliases": "|osnkidshd|osnmovieskidshd|osnmovieshdkids|osnmovieskids|osnkidzone|osnkidzonehd|",
 		"basealias": "osnkids",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/oo/osn-kids-ae.png",
+		"logo_url": "/logos/kidzone.png",
 		"name": "OSN Kids",
 		"group": "kids"
 	},
@@ -52095,8 +52095,8 @@
 		"_id": 51473,
 		"aliases": "|fightnetworkhd|osnfightnetworkhd|",
 		"basealias": "fightnetwork",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ff/fight_network_ca.png",
+		"country": "uk",
+		"logo_url": "/logos/fight-network.png",
 		"name": "Fight Network",
 		"group": "men"
 	},
@@ -53425,11 +53425,11 @@
 	},
 	{
 		"_id": 51623,
-		"aliases": "|v2beat|v2beathd|v2beatlivehd|vibeehd|vibeepopmusic|vibeemusic|vibeemusichd|vibeetvmusic|vibeetvmusicpop|vibeetv|vibeetvpopmusic|vibee2|vibee2hd|vibeetv2hd|",
+		"aliases": "|v2beat|v2beathd|v2beatlivehd|vibeehd|vibeepopmusic|vibeemusic|vibeemusichd|vibeetvmusic|vibeetvmusicpop|vibeetv|vibeetvpopmusic|vibee2|vibee2hd|vibeetv2hd|v2beatvibeeradiotv|",
 		"basealias": "vibee",
 		"country": "us",
-		"logo_url": "https://dl.dropboxusercontent.com/s/grf6psv88a36hwo/v2beat.png",
-		"name": "Vibee TV (V2Beat Vibee Radio TV)",
+		"logo_url": "/logos/v2beat.png",
+		"name": "Vibee TV",
 		"group": "music"
 	},
 	{
@@ -56236,9 +56236,9 @@
 		"aliases": "|movistarlaligahdes|mlaliga|mlaligahd|mlaligauhd|beinsportslaligahdes|movistarlaligahd|beinsportlaliga|beinsportslaligahd|beinsportlaligahd|beinlaliga|beinlaligahd|",
 		"basealias": "beinsportslaliga",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/mm/movistar-laliga-es.png",
+		"logo_url": "/logos/bein-sports-laliga.png",
 		"name": "Movistar LaLiga",
-		"group": "common"
+		"group": "sport"
 	},
 	{
 		"_id": 51959,
@@ -60106,7 +60106,7 @@
 		"aliases": "|неизвестнаяпланетаhd|",
 		"basealias": "неизвестнаяпланета",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/jrdc1wwxjbilic9/np.png",
+		"logo_url": "/logos/unknown-planet.png",
 		"name": "Неизвестная планета",
 		"group": "knowledge"
 	},
@@ -67269,8 +67269,8 @@
 		"_id": 53310,
 		"aliases": "|musictophd|",
 		"basealias": "musictop",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/mm/music_top_ar.png",
+		"country": "ar",
+		"logo_url": "/logos/music-top.png",
 		"name": "Music Top",
 		"group": "music"
 	},
@@ -69031,10 +69031,10 @@
 	},
 	{
 		"_id": 53511,
-		"aliases": "|gametoonhd|568hd|",
+		"aliases": "",
 		"basealias": "gametoon",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/gg/game_toon_us.png",
+		"country": "nl",
+		"logo_url": "/logos/gametoon.png",
 		"name": "Gametoon",
 		"group": "entertainment"
 	},
@@ -71317,7 +71317,7 @@
 	},
 	{
 		"_id": 53769,
-		"aliases": "|тіс|тис|тисодесса|тiсодесса|тісодесса|",
+		"aliases": "|тіс|тис|тисодесса|тiсодесса|тісодесса|тиств|тистводесса|",
 		"basealias": "тiс",
 		"country": "ua",
 		"logo_url": "/logos/tis-tv-ua.png",
@@ -71598,8 +71598,8 @@
 		"_id": 53801,
 		"aliases": "|livemusichd|",
 		"basealias": "livemusic",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/rr1j9iik3cgfezj/livemusic.png",
+		"country": "ru",
+		"logo_url": "/logos/live-music.png",
 		"name": "Live Music Channel",
 		"group": "music"
 	},
@@ -74911,7 +74911,7 @@
 		"aliases": "|kidzonebaltic|kidszone|kidzonehd|kidzonelv|kidzonelt|kidzoneee|",
 		"basealias": "kidzone",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/kk/kidzone-tv-ee.png",
+		"logo_url": "/logos/kidzone.png",
 		"name": "KidZone TV",
 		"group": "kids"
 	},
@@ -75486,8 +75486,8 @@
 		"_id": 54250,
 		"aliases": "|ostwesthd|rtvd|rtvdhd|",
 		"basealias": "ostwest",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/oo/ost-west-tv-de.png",
+		"country": "de",
+		"logo_url": "/logos/ost-west.png",
 		"name": "OstWest",
 		"group": "news"
 	},
@@ -79210,10 +79210,10 @@
 	},
 	{
 		"_id": 54677,
-		"aliases": "|uaмиколаїв|uaмиколаiв|николаев|uaниколаев|миколаїв|телеканалниколаев|",
+		"aliases": "|uaмиколаїв|uaмиколаiв|николаев|uaниколаев|миколаїв|телеканалниколаев|тркмарт|тркмартмиколаїв|",
 		"basealias": "ткниколаев",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/luq2aww4n1tpo7d/nikola.png",
+		"logo_url": "/logos/trk-mart.png",
 		"name": "UA: Миколаїв (ТРК Николаев)",
 		"group": "common"
 	},
@@ -81040,7 +81040,7 @@
 		"aliases": "|carsstars|carsstarshd|carsandstarshd|carsstarstv|",
 		"basealias": "carsandstars",
 		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/cxuh7i39qrutft5/carsstars.png",
+		"logo_url": "/logos/cars-and-stars.png",
 		"name": "Cars and Stars TV",
 		"group": "men"
 	},
@@ -82795,7 +82795,7 @@
 		"aliases": "|старсинемароссия|starcinemahdроссия|starcinemasdроссия|starcinemaроссияhd|starcinemaроссияsd|",
 		"basealias": "starcinemaроссия",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/6fv5cq23vnvkdc4/starcine.png",
+		"logo_url": "/logos/star-cinema-hd.png",
 		"name": "Star Cinema Россия",
 		"group": "films"
 	},
@@ -83461,7 +83461,7 @@
 		"aliases": "|555huntfishinghd|555huntfishingtvhd|555hftv|555hf|",
 		"basealias": "555huntfishing",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/ub48xiwvbu2aogg/555hf.png",
+		"logo_url": "/logos/555hf.png",
 		"name": "555 Hunt Fishing TV",
 		"group": "knowledge"
 	},
@@ -85701,8 +85701,8 @@
 		"_id": 55420,
 		"aliases": "|перпетуммобиле|перпетууммобилеhd|perpetuummobile|perpetuummobilehd|",
 		"basealias": "перпетууммобиле",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/1ii5qkwd26d35g5/permob.png",
+		"country": "ru",
+		"logo_url": "/logos/perpetuum-mobile.png",
 		"name": "Перпетуум Мобиле",
 		"group": "knowledge"
 	},
@@ -87645,8 +87645,8 @@
 		"_id": 100106,
 		"aliases": "",
 		"basealias": "eurodance90",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/808zp2svkep7fdg/eurod90.png",
+		"country": "ru",
+		"logo_url": "/logos/eurodance-90.png",
 		"name": "Eurodance 90",
 		"group": "music"
 	},
@@ -88483,7 +88483,7 @@
 		"aliases": "",
 		"basealias": "музыкакино",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/gececza7eooousa/muz-kino.png",
+		"logo_url": "/logos/muzyka-kino.png",
 		"name": "Музыка Кино",
 		"group": "music"
 	},
@@ -89794,7 +89794,7 @@
 	},
 	{
 		"_id": 100348,
-		"aliases": "|тераua|",
+		"aliases": "|тераua|терра|",
 		"basealias": "тера",
 		"country": "ua",
 		"logo_url": "/logos/terra-ua.png",
@@ -91519,5 +91519,329 @@
 		"logo_url": "/logos/sport-live.png",
 		"name": "Sport Live",
 		"group": "sport"
+	},
+	{
+		"_id": 1005727,
+		"aliases": "|historyviasatceehd|historyviasatenhd|viasathistorybaltichd|viasathistorybalticshd|viasathistoryприбалтикаhd|",
+		"basealias": "viasathistoryceehd",
+		"country": "fr",
+		"logo_url": "/logos/viasat-history-hd.png",
+		"name": "Viasat History CEE HD",
+		"group": "knowledge"
+	},
+	{
+		"_id": 1005728,
+		"aliases": "|retrodance|",
+		"basealias": "retrodance90s",
+		"country": "cz",
+		"logo_url": "/logos/retro-music.png",
+		"name": "Retro Dance 90's",
+		"group": "music"
+	},
+	{
+		"_id": 1005729,
+		"aliases": "|retroplus|",
+		"basealias": "retroplustv",
+		"country": "cz",
+		"logo_url": "/logos/retro-music.png",
+		"name": "Retro Plus TV",
+		"group": "music"
+	},
+	{
+		"_id": 1005730,
+		"aliases": "",
+		"basealias": "музыкакиноinternational",
+		"country": "ru",
+		"logo_url": "/logos/muzyka-kino.png",
+		"name": "Музыка Кино International",
+		"group": "music"
+	},
+	{
+		"_id": 1005731,
+		"aliases": "|568hd|",
+		"basealias": "gametoonhd",
+		"country": "nl",
+		"logo_url": "/logos/gametoon-hd.png",
+		"name": "Gametoon HD",
+		"group": "entertainment"
+	},
+	{
+		"_id": 1005732,
+		"aliases": "",
+		"basealias": "duo6",
+		"country": "ru",
+		"logo_url": "/logos/duo6.png",
+		"name": "Duo 6",
+		"group": "films"
+	},
+	{
+		"_id": 1005733,
+		"aliases": "",
+		"basealias": "tvpinfohd",
+		"country": "pl",
+		"logo_url": "/logos/tvp-info-hd.png",
+		"name": "TVP Info HD",
+		"group": "news"
+	},
+	{
+		"_id": 1005734,
+		"aliases": "",
+		"basealias": "itvрівне",
+		"country": "pl",
+		"logo_url": "/logos/ua-itv.png",
+		"name": "ITV Рівне",
+		"group": "news"
+	},
+	{
+		"_id": 1005735,
+		"aliases": "|rtvalteahd|alteahd|",
+		"basealias": "rtvaltea",
+		"country": "pl",
+		"logo_url": "/logos/altea.png",
+		"name": "Altea",
+		"group": "music"
+	},
+	{
+		"_id": 1005736,
+		"aliases": "",
+		"basealias": "ecotv",
+		"country": "ww",
+		"logo_url": "/logos/eco-tv.png",
+		"name": "Eco TV",
+		"group": "knowledge"
+	},
+	{
+		"_id": 1005737,
+		"aliases": "|ccartoonhd|",
+		"basealias": "ccartoon",
+		"country": "ru",
+		"logo_url": "/logos/c-cartoon.png",
+		"name": "C-Cartoon",
+		"group": "films"
+	},
+	{
+		"_id": 1005738,
+		"aliases": "|ccomedyhd|",
+		"basealias": "ccomedy",
+		"country": "ru",
+		"logo_url": "/logos/c-comedy.png",
+		"name": "C-Comedy",
+		"group": "films"
+	},
+	{
+		"_id": 1005739,
+		"aliases": "|cinquesthd|",
+		"basealias": "cinquest",
+		"country": "ru",
+		"logo_url": "/logos/c-inquest.png",
+		"name": "C-Inquest",
+		"group": "films"
+	},
+	{
+		"_id": 1005740,
+		"aliases": "|cmarvelhd|",
+		"basealias": "cmarvel",
+		"country": "ru",
+		"logo_url": "/logos/c-marvel.png",
+		"name": "C-Marvel",
+		"group": "films"
+	},
+	{
+		"_id": 1005750,
+		"aliases": "",
+		"basealias": "kbcnewfilm",
+		"country": "ru",
+		"logo_url": "/logos/kbc-newfilm.png",
+		"name": "KBC-New Film",
+		"group": "films"
+	},
+	{
+		"_id": 1005751,
+		"aliases": "",
+		"basealias": "kbcpremium",
+		"country": "ru",
+		"logo_url": "/logos/kbc-premium.png",
+		"name": "KBC-Premium",
+		"group": "films"
+	},
+	{
+		"_id": 1005752,
+		"aliases": "",
+		"basealias": "kbcfantastic",
+		"country": "ru",
+		"logo_url": "/logos/kbc-fantastic.png",
+		"name": "KBC-Fantastic",
+		"group": "films"
+	},
+	{
+		"_id": 1005753,
+		"aliases": "",
+		"basealias": "kbchistory",
+		"country": "ru",
+		"logo_url": "/logos/kbc-history.png",
+		"name": "KBC-History",
+		"group": "films"
+	},
+	{
+		"_id": 1005754,
+		"aliases": "",
+		"basealias": "kbcкинотеатр",
+		"country": "ru",
+		"logo_url": "/logos/kbc-kinoteatr.png",
+		"name": "KBC-Кинотеатр",
+		"group": "films"
+	},
+	{
+		"_id": 1005755,
+		"aliases": "",
+		"basealias": "kbcкошмарное",
+		"country": "ru",
+		"logo_url": "/logos/kbc-koshmarnoe.png",
+		"name": "KBC-Кошмарное",
+		"group": "films"
+	},
+	{
+		"_id": 1005756,
+		"aliases": "",
+		"basealias": "kbcшпионское",
+		"country": "ru",
+		"logo_url": "/logos/kbc-shpionskoe.png",
+		"name": "KBC-Шпионское",
+		"group": "films"
+	},
+	{
+		"_id": 1005757,
+		"aliases": "",
+		"basealias": "kbcдрамаtic",
+		"country": "ru",
+		"logo_url": "/logos/kbc-dramatic.png",
+		"name": "KBC-Драма tic",
+		"group": "films"
+	},
+	{
+		"_id": 1005758,
+		"aliases": "",
+		"basealias": "kbcelitecomedys",
+		"country": "ru",
+		"logo_url": "/logos/kbc-elitecomedys.png",
+		"name": "KBC-Elite Comedys",
+		"group": "films"
+	},
+	{
+		"_id": 1005759,
+		"aliases": "",
+		"basealias": "kbcrussianкомедия",
+		"country": "ru",
+		"logo_url": "/logos/kbc-russiancomedia.png",
+		"name": "KBC-Russian Комедия",
+		"group": "films"
+	},
+	{
+		"_id": 1005760,
+		"aliases": "",
+		"basealias": "kbccomics",
+		"country": "ru",
+		"logo_url": "/logos/kbc-comics.png",
+		"name": "KBC-Comics",
+		"group": "films"
+	},
+	{
+		"_id": 1005761,
+		"aliases": "",
+		"basealias": "kbcfamilyanimation",
+		"country": "ru",
+		"logo_url": "/logos/kbc-familyanimation.png",
+		"name": "KBC-Family Animation",
+		"group": "films"
+	},
+	{
+		"_id": 1005762,
+		"aliases": "|kbcгайritchie|",
+		"basealias": "kbcгайritchietarantino",
+		"country": "ru",
+		"logo_url": "/logos/kbc-guyritchie.png",
+		"name": "KBC-ГАЙ Ritchie & Tarantino",
+		"group": "films"
+	},
+	{
+		"_id": 1005763,
+		"aliases": "",
+		"basealias": "kbclightсериал",
+		"country": "ru",
+		"logo_url": "/logos/kbc-lightserial.png",
+		"name": "KBC-Light Сериал",
+		"group": "films"
+	},
+	{
+		"_id": 1005764,
+		"aliases": "",
+		"basealias": "kbcвидак",
+		"country": "ru",
+		"logo_url": "/logos/kbc-vidak.png",
+		"name": "KBC-Видак",
+		"group": "films"
+	},
+	{
+		"_id": 1005765,
+		"aliases": "",
+		"basealias": "kbcстранассср",
+		"country": "ru",
+		"logo_url": "/logos/kbc-stranasssr.png",
+		"name": "KBC-Страна СССР",
+		"group": "films"
+	},
+	{
+		"_id": 1005766,
+		"aliases": "",
+		"basealias": "kbcлегендарное",
+		"country": "ru",
+		"logo_url": "/logos/kbc-legendarnoe.png",
+		"name": "KBC-Легендарное",
+		"group": "films"
+	},
+	{
+		"_id": 1005767,
+		"aliases": "",
+		"basealias": "kbcкриминальныйserial",
+		"country": "ru",
+		"logo_url": "/logos/kbc-krimialserial.png",
+		"name": "KBC-Криминальный Serial",
+		"group": "films"
+	},
+	{
+		"_id": 1005768,
+		"aliases": "",
+		"basealias": "kbcbob",
+		"country": "ru",
+		"logo_url": "/logos/kbc-vov.png",
+		"name": "KBC-B.O.B",
+		"group": "films"
+	},
+	{
+		"_id": 1005769,
+		"aliases": "",
+		"basealias": "kbcсоюзмультzal",
+		"country": "ru",
+		"logo_url": "/logos/kbc-souzmultzal.png",
+		"name": "KBC-Союз МУЛЬТZAL",
+		"group": "films"
+	},
+	{
+		"_id": 1005770,
+		"aliases": "",
+		"basealias": "kbcsecondhit",
+		"country": "ru",
+		"logo_url": "/logos/kbc-secondhit.png",
+		"name": "KBC-Second HIT",
+		"group": "films"
+	},
+	{
+		"_id": 1005771,
+		"aliases": "",
+		"basealias": "kbcнашrock",
+		"country": "ru",
+		"logo_url": "/logos/kbc-nashrock.png",
+		"name": "KBC-НАШ ROCK",
+		"group": "films"
 	}
 ]
