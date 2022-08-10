@@ -588,7 +588,7 @@
 		"_id": 67,
 		"aliases": "|инглишклаб|инглишклуб|английскийклуб|",
 		"basealias": "englishclub",
-		"country": "ru",
+		"country": "uk",
 		"logo_url": "/logos/english-club-tv.png",
 		"name": "English Club TV",
 		"group": "knowledge"
@@ -64623,7 +64623,7 @@
 		"_id": 52999,
 		"aliases": "",
 		"basealias": "englishclubhd",
-		"country": 30,
+		"country": "uk",
 		"logo_url": "/logos/english-club-tv-hd.png",
 		"name": "English Club TV HD",
 		"group": "knowledge"
@@ -91261,7 +91261,7 @@
 	},
 	{
 		"_id": 1005644,
-		"aliases": "|khlprime|khlпрайм|",
+		"aliases": "|khlprime|khlпрайм|khlprimehd|khlprimehd50fps|khlprimehdpremium+|",
 		"basealias": "кхлпрайм",
 		"country": "ru",
 		"logo_url": "/logos/khl-prime.png",
