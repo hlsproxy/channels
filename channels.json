@@ -12963,8 +12963,8 @@
 		"_id": 1742,
 		"aliases": "|disneyfrancehd|disneyfr|",
 		"basealias": "disneyfrance",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png",
+		"country": "fr",
+		"logo_url": "/logos/disney-kanal.png",
 		"name": "Disney Channel France",
 		"group": "kids"
 	},
@@ -13366,9 +13366,9 @@
 	},
 	{
 		"_id": 1787,
-		"aliases": "|nickelodeonasia|nickelodeonil|nickelodeontr|nickelodeontürkiye|",
+		"aliases": "|nickelodeonasia|nickelodeontr|nickelodeontürkiye|",
 		"basealias": "nickelodeonsoutheastasia",
-		"country": "il",
+		"country": "tr",
 		"logo_url": "/logos/nickelodeon.png",
 		"name": "Nickelodeon South East Asia",
 		"group": "kids"
@@ -15709,7 +15709,7 @@
 		"aliases": "|disneyhdde|disneydeutschland|disneyde|disneyhd|disneyhddeutschland|disneydeutschlandhd|disneygermany|disneyaustria|disneyhdgermany|disneyhdaustria|",
 		"basealias": "disneychannelhdde",
 		"country": "de",
-		"logo_url": "https://dl.dropboxusercontent.com/s/dstj1uoqceu252k/disn-hd.png",
+		"logo_url": "/logos/disney-kanal.png",
 		"name": "Disney Channel Deutschland",
 		"group": "kids"
 	},
@@ -18199,12 +18199,12 @@
 	},
 	{
 		"_id": 2488,
-		"aliases": "|bollyshowil|hotbollyshow|bombayil|",
+		"aliases": "|bollyshowil|hotbollyshow|bombayil|bolyshow|",
 		"basealias": "yesbollyshow",
-		"country": 30,
-		"logo_url": "/logos/bollyshow-il.png",
-		"name": "BollyshoW",
-		"group": "regional"
+		"country": "il",
+		"logo_url": "/logos/bollyshow.png",
+		"name": "BollyshoW Israel",
+		"group": "israel"
 	},
 	{
 		"_id": 2489,
@@ -38524,7 +38524,7 @@
 		"aliases": "|disneyeast|disneywest|",
 		"basealias": "disneyus",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_east.png",
+		"logo_url": "/logos/disney-kanal.png",
 		"name": "Disney Channel US",
 		"group": "kids"
 	},
@@ -47656,7 +47656,7 @@
 	},
 	{
 		"_id": 50395,
-		"aliases": "|yesдоку|yesdocuhd|yesdocuhdil|yesдокуhd|yesdocohd|yesdochd|yesdoco|",
+		"aliases": "|yesдоку|yesdocuhd|yesdocuhdil|yesдокуhd|yesdocohd|yesdochd|yesdoco|docuil|docuilhd|docuhdil|",
 		"basealias": "yesdocu",
 		"country": "il",
 		"logo_url": "/logos/israel-yes-docu.png",
@@ -48097,12 +48097,12 @@
 	},
 	{
 		"_id": 50475,
-		"aliases": "|hotcablenetwork|bombay|",
+		"aliases": "|hotcablenetwork|",
 		"basealias": "hotbombay",
-		"country": 30,
+		"country": "il",
 		"logo_url": "https://dl.dropboxusercontent.com/s/0m3plmhv9uzurd7/hotbombay.png",
 		"name": "HOT Bombay",
-		"group": "regional"
+		"group": "israel"
 	},
 	{
 		"_id": 50476,
@@ -50770,7 +50770,7 @@
 	},
 	{
 		"_id": 51312,
-		"aliases": "|easiaandpacific|eisrael|ephilippines|emiddleeast|easiapacific|epacific|",
+		"aliases": "|easiaandpacific|ephilippines|emiddleeast|easiapacific|epacific|",
 		"basealias": "easia",
 		"country": "us",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ee/e_global_us.png",
@@ -56478,8 +56478,8 @@
 		"_id": 51988,
 		"aliases": "|disneyespanahd|disneyespañahd|disneylatinoamérica|disneylatinoamerica|disneyméxico|disneymexico|disneycentro|disneysur|disneyportugal|",
 		"basealias": "disneyespaña",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png",
+		"country": "es",
+		"logo_url": "/logos/disney-kanal.png",
 		"name": "Disney Channel España",
 		"group": "kids"
 	},
@@ -60022,16 +60022,16 @@
 	},
 	{
 		"_id": 52439,
-		"aliases": "|disneyindia|disneyhongkong|disneyil|disneyphilippines|disneyjapan|disneymiddleeast|disneysouthafrica|",
+		"aliases": "|disneyindia|disneyhongkong|disneyphilippines|disneyjapan|disneymiddleeast|disneysouthafrica|",
 		"basealias": "disneyasia",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png",
+		"logo_url": "/logos/disney-kanal.png",
 		"name": "Disney Channel Asia",
 		"group": "kids"
 	},
 	{
 		"_id": 52440,
-		"aliases": "|disneyjuniorindia|disneyjuniorjapan|disneyjunioril|disneyjril|disneyjuniormiddleeast|disneyjuniorsouthafrica|disneyjuniorsouthaustralia|disneyjuniornewzealand|",
+		"aliases": "|disneyjuniorindia|disneyjuniorjapan|disneyjuniormiddleeast|disneyjuniorsouthafrica|disneyjuniorsouthaustralia|disneyjuniornewzealand|",
 		"basealias": "disneyjuniorasia",
 		"country": 30,
 		"logo_url": "/logos/disney-junior.png",
@@ -60256,7 +60256,7 @@
 	},
 	{
 		"_id": 52473,
-		"aliases": "|nickjrindia|nickjrphilippines|nickjunioril|nickjril|nickjrsoutheastasia|nickjrtürkiye|nickjrturkiye|nickjrturkey|",
+		"aliases": "|nickjrindia|nickjrphilippines|nickjrsoutheastasia|nickjrtürkiye|nickjrturkiye|nickjrturkey|",
 		"basealias": "nickjrasia",
 		"country": 30,
 		"logo_url": "/logos/nick-junior.png",
@@ -91243,11 +91243,11 @@
 	},
 	{
 		"_id": 100563,
-		"aliases": "",
+		"aliases": "|discoverychannelilhd|discoveryil|discoveryilhd|",
 		"basealias": "discoverychannelil",
 		"country": "il",
 		"logo_url": "/logos/discovery-channel.png",
-		"name": "Discovery Channel IL",
+		"name": "Discovery Channel Israel",
 		"group": "israel"
 	},
 	{
@@ -91843,5 +91843,95 @@
 		"logo_url": "/logos/kbc-nashrock.png",
 		"name": "KBC-НАШ ROCK",
 		"group": "films"
+	},
+	{
+		"_id": 1005772,
+		"aliases": "|bollywoodilhd|",
+		"basealias": "bollywoodil",
+		"country": "il",
+		"logo_url": "/logos/bollywood-hd.png",
+		"name": "Bollywood Israel",
+		"group": "israel"
+	},
+	{
+		"_id": 1005773,
+		"aliases": "|disneyilhd|disneyhdil|",
+		"basealias": "disneyil",
+		"country": "il",
+		"logo_url": "/logos/disney-kanal.png",
+		"name": "Disney Channel Israel",
+		"group": "israel"
+	},
+	{
+		"_id": 1005774,
+		"aliases": "|disneyjrilhd|disneyjunioril|disneyjuniorhdil|",
+		"basealias": "disneyjril",
+		"country": "il",
+		"logo_url": "/logos/disney-junior.png",
+		"name": "Disney Jr Israel",
+		"group": "israel"
+	},
+	{
+		"_id": 1005775,
+		"aliases": "|nickelodeonhdil|",
+		"basealias": "nickelodeonil",
+		"country": "il",
+		"logo_url": "/logos/nickelodeon.png",
+		"name": "Nickelodeon Israel",
+		"group": "israel"
+	},
+	{
+		"_id": 1005776,
+		"aliases": "|nickjrilhd|nickjunioril|nickjuniorilhd|",
+		"basealias": "nickjril",
+		"country": "il",
+		"logo_url": "/logos/nick-junior.png",
+		"name": "Nick Jr Israel",
+		"group": "israel"
+	},
+	{
+		"_id": 1005777,
+		"aliases": "",
+		"basealias": "mtvil",
+		"country": "il",
+		"logo_url": "/logos/mtv.png",
+		"name": "MTV Israel",
+		"group": "israel"
+	},
+	{
+		"_id": 1005778,
+		"aliases": "",
+		"basealias": "eil",
+		"country": "il",
+		"logo_url": "/logos/e-ru.png",
+		"name": "Е! Israel",
+		"group": "israel"
+	},
+	{
+		"_id": 1005779,
+		"aliases": "",
+		"basealias": "cbsrealityil",
+		"country": "il",
+		"logo_url": "/logos/cbs-reality.png",
+		"name": "CBS Reality Israel",
+		"group": "israel"
+	},
+	{
+		"_id": 1005780,
+		"aliases": "",
+		"basealias": "yesil",
+		"country": "il",
+		"logo_url": "/logos/israel-yes.png",
+		"name": "Yes Israel",
+		"group": "israel"
+	},
+	{
+		"_id": 1005781,
+		"aliases": "|bollyshow|bollyshow|bombay|",
+		"basealias": "bollyshow",
+		"country": "in",
+		"logo_url": "/logos/bollyshow.png",
+		"name": "BollyshoW",
+		"group": "regional"
 	}
 ]
