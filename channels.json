@@ -228,8 +228,8 @@
 		"_id": 27,
 		"aliases": "|атр|atrhd|",
 		"basealias": "atr",
-		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/aa/atr_ua.png",
+		"country": "ua",
+		"logo_url": "/logos/atr.png",
 		"name": "ATR",
 		"group": "regional"
 	},
@@ -352,7 +352,7 @@
 	},
 	{
 		"_id": 41,
-		"aliases": "|bloomberghd|bloombergeu|bloomberguk|bloombergeuropean|",
+		"aliases": "|bloombergtv|bloomberghd|bloomberghd|bloombergeu|bloomberguk|bloombergeuropean|",
 		"basealias": "bloomberg",
 		"country": "ru",
 		"logo_url": "/logos/bloomberg.png",
@@ -2989,10 +2989,10 @@
 	},
 	{
 		"_id": 340,
-		"aliases": "|e|телеканале|gameshowstudio|gameshowtv|",
+		"aliases": "|e|телеканале|gameshowstudio|gameshowtv|etv|",
 		"basealias": "gameshow",
 		"country": "ru",
-		"logo_url": "/logos/e-ru.png",
+		"logo_url": "/logos/e-tv.png",
 		"name": "Е.",
 		"group": "entertainment"
 	},
@@ -12727,7 +12727,7 @@
 	},
 	{
 		"_id": 1716,
-		"aliases": "|hothbohdil|hboil|hboilhd|",
+		"aliases": "|hothbohdil|hboil|hboilhd|hbohdil|",
 		"basealias": "hothbo",
 		"country": "il",
 		"logo_url": "/logos/israel-hbo-hot.png",
@@ -19642,7 +19642,7 @@
 		"aliases": "|донбасonline|донбассonline|dонбасonline|donbasonline|",
 		"basealias": "донбассонлайн",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/26o60hqxiakdhre/donbason.png",
+		"logo_url": "/logos/donbas-online.png",
 		"name": "Донбасс Онлайн",
 		"group": "regional"
 	},
@@ -20950,15 +20950,6 @@
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/nn/nrj_be_hits.png",
 		"name": "NRJ Hits",
 		"group": "music"
-	},
-	{
-		"_id": 3183,
-		"aliases": "|rmcsport1hd|rmcsport1hdfr|sfrsport1|sfrsport|sfrsports1|",
-		"basealias": "rmcsport1",
-		"country": "fr",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/rr/rmc-sport-1-fr.png",
-		"name": "RMC Sport 1 (ex SFR Sport)",
-		"group": "sport"
 	},
 	{
 		"_id": 3186,
@@ -27265,7 +27256,7 @@
 		"aliases": "|тркаверс|",
 		"basealias": "аверс",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/6zbe7ydtd31i3bo/avers.jpg",
+		"logo_url": "/logos/avers.png",
 		"name": "Аверс (Луцк)",
 		"group": "regional"
 	},
@@ -28705,7 +28696,7 @@
 		"aliases": "|pro100tv|pro100|про100|pro100baltic|",
 		"basealias": "про100тв",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/1o0wdtaceitr9oq/pro100.jpg",
+		"logo_url": "/logos/pro100.png",
 		"name": "Про100ТВ",
 		"group": "common"
 	},
@@ -33376,7 +33367,7 @@
 		"aliases": "|а1одесса|а1hdодесса|а1одессаhd|",
 		"basealias": "a1одесса",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/fdml177b851vmve/a1od.png",
+		"logo_url": "/logos/ua-a1-odessa.png",
 		"name": "A1 Одесса",
 		"group": "regional"
 	},
@@ -37732,7 +37723,7 @@
 		"aliases": "|bloombergglobalnews|bloombergushd|bloombergasia|bloombergmain|bloombergmainhd|bloombergindia|bloombergbrazil|bloomberglatinamerica|",
 		"basealias": "bloombergus",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png",
+		"logo_url": "/logos/bloomberg.png",
 		"name": "Bloomberg TV US",
 		"group": "news"
 	},
@@ -48079,7 +48070,7 @@
 	},
 	{
 		"_id": 50471,
-		"aliases": "|hotcomedycentral|",
+		"aliases": "|hotcomedycentral|comedycentralhdil|",
 		"basealias": "hotcomedycentralhd",
 		"country": "il",
 		"logo_url": "/logos/israel-hot-comedy-central.png",
@@ -49152,8 +49143,8 @@
 		"_id": 51114,
 		"aliases": "|24riga|riga24tv|24rigarv|",
 		"basealias": "riga24",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/rr/riga_tv_24_lv.png",
+		"country": "lv",
+		"logo_url": "/logos/riga-24.png",
 		"name": "Riga TV 24",
 		"group": "common"
 	},
@@ -60113,7 +60104,7 @@
 	{
 		"_id": 52450,
 		"aliases": "|etvestonia|etvэстония|etvhdee|etvee|eestitelevisioon|",
-		"basealias": "etv",
+		"basealias": "eesti",
 		"country": "ee",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ee/etv_ee.png",
 		"name": "ETV (Eesti TV)",
@@ -60772,7 +60763,7 @@
 		"aliases": "|skysportsfootballhd|skysportsfootballireland|",
 		"basealias": "skysportsfootball",
 		"country": "gb",
-		"logo_url": "https://dl.dropboxusercontent.com/s/yslm8e6mz73kmvx/sspsfoot.png",
+		"logo_url": "/logos/sky-sports-football-hd.png",
 		"name": "Sky Sports Football (UK)",
 		"group": "sport"
 	},
@@ -60789,7 +60780,7 @@
 		"_id": 52537,
 		"aliases": "|skybundesligauhd|",
 		"basealias": "skysportbundesligauhd",
-		"country": 30,
+		"country": "de",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_bundesliga_uhd.png",
 		"name": "Sky Sport Bundesliga UHD",
 		"group": "sport"
@@ -61516,10 +61507,10 @@
 	},
 	{
 		"_id": 52622,
-		"aliases": "|tlcbg|tlctr|tlcturkiye|tlcbalkan|tlchdturk|tlctürkiyehd|",
+		"aliases": "|tlcbg|tlctr|tlcturkiye|tlcbalkan|tlchdturk|tlctürkiyehd|tlcbalkans|tclblk|",
 		"basealias": "tlctürkiye",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png",
+		"country": "tr",
+		"logo_url": "/logos/tlc-balkans.png",
 		"name": "TLC Türkiye",
 		"group": "regional"
 	},
@@ -61527,7 +61518,7 @@
 		"_id": 52623,
 		"aliases": "",
 		"basealias": "tlccanada",
-		"country": 30,
+		"country": "ca",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png",
 		"name": "TLC Canada",
 		"group": "knowledge"
@@ -62697,8 +62688,8 @@
 		"_id": 52761,
 		"aliases": "|skybundesligahd|skybundesligahd1|skysportbundesliga1hd|skysportbundesliga1hdde|skybundesliga1hd|",
 		"basealias": "skysportbundesligahd",
-		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_bundesliga_hd.png",
+		"country": "de",
+		"logo_url": "/logos/sky-sports-bundesliga-1-hd.png",
 		"name": "Sky Sport Bundesliga HD",
 		"group": "sport"
 	},
@@ -63571,7 +63562,7 @@
 		"aliases": "|33|33новиниухмельницькому|33новини|33хмельницьк|",
 		"basealias": "33канал",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/tbckp6yo34ke60w/33.png",
+		"logo_url": "/logos/33-kanal.png",
 		"name": "33 канал",
 		"group": "regional"
 	},
@@ -63580,7 +63571,7 @@
 		"aliases": "|simonхарьков|симон|симонхарьков|трксимон|тркsimon|",
 		"basealias": "simon",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/stzj0qfkzg13z5q/simon.jpg",
+		"logo_url": "/logos/ua-simon.png",
 		"name": "Simon",
 		"group": "regional"
 	},
@@ -63748,7 +63739,7 @@
 	},
 	{
 		"_id": 52891,
-		"aliases": "|hotbidur|hotбидурисраэли|entertainmentil|hotentertainmentil|hotentertainmenthdil|",
+		"aliases": "|hotbidur|hotбидурисраэли|entertainmentil|hotentertainmentil|hotentertainmenthdil|entertainmenthdil|",
 		"basealias": "hotbidurisraeli",
 		"country": "il",
 		"logo_url": "/logos/israel-hot-entertainment.png",
@@ -71275,7 +71266,7 @@
 		"aliases": "|тв7+|tv7+гхмельницкий|tv7+ua|tv7+украина|",
 		"basealias": "tv7+",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/qmzu2363xc7ha6m/7plus.jpg",
+		"logo_url": "/logos/ua-tv7plus.png",
 		"name": "TV7+ (Хмельницкий)",
 		"group": "regional"
 	},
@@ -74856,8 +74847,8 @@
 		"_id": 54179,
 		"aliases": "|reлатвия|retvлатвия|relatvia|retvlatvia|retv|",
 		"basealias": "re",
-		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/rr/re_tv_lv.png",
+		"country": "lv",
+		"logo_url": "/logos/re-tv-lv.png",
 		"name": "Re:TV (LV)",
 		"group": "regional"
 	},
@@ -77637,10 +77628,10 @@
 		"_id": 54497,
 		"aliases": "|atvkinomanhd|կինոման|kinoman|киноманatv|kinomanatv|kinomanhd|киноман|վինոմանatv|",
 		"basealias": "atvkinoman",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/niam1gnwzf2c3kv/kinoman.png",
+		"country": "am",
+		"logo_url": "/logos/atv-kinoman.png",
 		"name": "ATV Kinoman (AM)",
-		"group": "notfound"
+		"group": "films"
 	},
 	{
 		"_id": 54498,
@@ -77890,7 +77881,7 @@
 		"aliases": "|nobelднепр|nobeltv|nobelднiпро|nobelднёпр|",
 		"basealias": "nobel",
 		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/fb1fn9gb34ul5e2/nobel.png",
+		"logo_url": "/logos/novel-tv.png",
 		"name": "Nobel TV (Днiпро)",
 		"group": "regional"
 	},
@@ -80769,7 +80760,7 @@
 		"_id": 54862,
 		"aliases": "|armeniapremium|upremiumarmenia|upremium1|atvpremium1|premium1|ucompremiumarmenia|premiumarmenia|atvpremium|armenia1premium|պրեմիում|uպրեմիում|",
 		"basealias": "armeniapremium1",
-		"country": 30,
+		"country": "am",
 		"logo_url": "https://dl.dropboxusercontent.com/s/926ru56ksad7gfw/upr1.png",
 		"name": "Armenia Premium 1",
 		"group": "regional"
@@ -80778,7 +80769,7 @@
 		"_id": 54863,
 		"aliases": "|haykino|armenia2premium|atv2premium|atvpremium2|հայկինո|haykino2|",
 		"basealias": "armeniahaykino",
-		"country": 30,
+		"country": "am",
 		"logo_url": "https://dl.dropboxusercontent.com/s/hmfuv5bciqiomrk/arm2p.png",
 		"name": "Armenia Premium 2",
 		"group": "regional"
@@ -80787,7 +80778,7 @@
 		"_id": 54864,
 		"aliases": "|armeniajan|jantv|jan|armenia3premium|atv3premium|ջան|ջանtv|ջամ|jantv3|джан|",
 		"basealias": "armeniajantv",
-		"country": 30,
+		"country": "am",
 		"logo_url": "https://dl.dropboxusercontent.com/s/tmx7vslmwqskbec/arm3p.png",
 		"name": "Armenia Premium 3",
 		"group": "regional"
@@ -80796,7 +80787,7 @@
 		"_id": 54865,
 		"aliases": "|armenia4premium|atv4premium|քոմեդի|armcomedy|քոնեդի|komedy4|արմենիաքոմեդի|",
 		"basealias": "armeniacomedy",
-		"country": 30,
+		"country": "am",
 		"logo_url": "https://dl.dropboxusercontent.com/s/td4re0n8ewigiiy/arm4p.png",
 		"name": "Armenia Premium 4",
 		"group": "entertainment"
@@ -80805,8 +80796,8 @@
 		"_id": 54866,
 		"aliases": "|uarmeniatuntunik|tuntunik|armenia5premium|atv5premium|տունտունիկ|тунтуник|tuntunik5|",
 		"basealias": "armeniatuntunik",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/90v6oz4d87fwdnp/arm5p.png",
+		"country": "am",
+		"logo_url": "/logos/tuntunik.png",
 		"name": "Armenia Premium 5",
 		"group": "regional"
 	},
@@ -80814,8 +80805,8 @@
 		"_id": 54867,
 		"aliases": "|armenia6premium|sineman|atv6premium|atvcineman|armeniacineman|armeniacinemax|սինեման|սինեմանhd|սինեմաքս|",
 		"basealias": "armeniasineman",
-		"country": 30,
-		"logo_url": "https://dl.dropboxusercontent.com/s/vqxdupz16f58ewf/arm6p.png",
+		"country": "am",
+		"logo_url": "/logos/atv-cineman.png",
 		"name": "Armenia Premium 6",
 		"group": "regional"
 	},
@@ -81289,9 +81280,9 @@
 	},
 	{
 		"_id": 54921,
-		"aliases": "|elevensports1uk|elevensports|elevensportshd|elevensports1|elevensports1hd|11sports1|elevensports1uhd|elevensports14k|",
+		"aliases": "|elevensports1uk|elevensports|elevensportshd|elevensports1|elevensports1hd|11sports1|",
 		"basealias": "elevensportsuk",
-		"country": "us",
+		"country": "gb",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-network-uk.png",
 		"name": "Eleven Sports UK (11 Sports)",
 		"group": "sport"
@@ -81904,7 +81895,7 @@
 		"aliases": "|rmcsport2hd|rmcsport2hdfr|sfrsports2|",
 		"basealias": "rmcsport2",
 		"country": "fr",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/rr/rmc-sport-2-fr.png",
+		"logo_url": "/logos/rmc-sport-2.png",
 		"name": "RMC Sport 2",
 		"group": "sport"
 	},
@@ -81913,7 +81904,7 @@
 		"aliases": "|rmcsport3hd|rmcsport3hdfr|sfrsports3|",
 		"basealias": "rmcsport3",
 		"country": "fr",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/rr/rmc-sport-3-fr.png",
+		"logo_url": "/logos/rmc-sport-3.png",
 		"name": "RMC Sport 3",
 		"group": "sport"
 	},
@@ -81922,7 +81913,7 @@
 		"aliases": "|rmcsport4hd|rmcsport4hdfr|sfrsports4|",
 		"basealias": "rmcsport4",
 		"country": "fr",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/rr/rmc-sport-4-fr.png",
+		"logo_url": "/logos/rmc-sport-4.png",
 		"name": "RMC Sport 4",
 		"group": "sport"
 	},
@@ -82138,7 +82129,7 @@
 		"aliases": "|беларусь5internet|",
 		"basealias": "беларусь5интернет",
 		"country": "by",
-		"logo_url": "https://dl.dropboxusercontent.com/s/w44v38cz94dgdvo/bel5in.png",
+		"logo_url": "/logos/belarus5.png",
 		"name": "Беларусь 5. Интернет",
 		"group": "sport"
 	},
@@ -83236,7 +83227,7 @@
 		"aliases": "|векторновополоцк|вектортвновополоцк|",
 		"basealias": "звязда",
 		"country": "by",
-		"logo_url": "https://dl.dropboxusercontent.com/s/8hlo3uum6womyc8/vektor.png",
+		"logo_url": "/logos/zvyazda.png",
 		"name": "Звязда (Вектор ТВ Новополоцк)",
 		"group": "regional"
 	},
@@ -83749,7 +83740,7 @@
 		"aliases": "|tv12mfmusic|mafi2amusic|mfmusic|mfmafi2amusichd|tv12gudautahd|tv12gudautamusic|тв12гудаута|",
 		"basealias": "tv12gudauta",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/kua4kx00sa2pslk/tv12gud.png",
+		"logo_url": "/logos/mafi2a-music.png",
 		"name": "TV12 MAFI2A Music",
 		"group": "regional"
 	},
@@ -91864,7 +91855,7 @@
 	},
 	{
 		"_id": 1005774,
-		"aliases": "|disneyjrilhd|disneyjunioril|disneyjuniorhdil|",
+		"aliases": "|disneyjrilhd|disneyjunioril|disneyjuniorhdil|juniorhdil|",
 		"basealias": "disneyjril",
 		"country": "il",
 		"logo_url": "/logos/disney-junior.png",
@@ -91933,5 +91924,311 @@
 		"logo_url": "/logos/bollyshow.png",
 		"name": "BollyshoW",
 		"group": "regional"
+	},
+	{
+		"_id": 1005800,
+		"aliases": "|skyhighadulthd|",
+		"basealias": "skyhighadult",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH ADULT HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005801,
+		"aliases": "|skyhighbunnyhd|",
+		"basealias": "skyhighbunny",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH BUNNY HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005802,
+		"aliases": "|skyhighclassichd|",
+		"basealias": "skyhighclassic",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH CLASSIC HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005803,
+		"aliases": "|skyhighconcerthd|",
+		"basealias": "skyhighconcert",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH CONCERT HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005804,
+		"aliases": "|skyhighdancehd|skyhighdanceuhd|",
+		"basealias": "skyhighdance",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH DANCE HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005805,
+		"aliases": "|skyhighepochhd|",
+		"basealias": "skyhighepoch",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH EPOCH HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005806,
+		"aliases": "|skyhighfresh60hd|",
+		"basealias": "skyhighfresh60",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH FRESH 60",
+		"group": "films"
+	},
+	{
+		"_id": 1005807,
+		"aliases": "|skyhighfreshhdr|",
+		"basealias": "skyhighfreshhdr",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH FRESH HDR",
+		"group": "films"
+	},
+	{
+		"_id": 1005808,
+		"aliases": "|skyhighfreshhd|",
+		"basealias": "skyhighfresh",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH FRESH HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005809,
+		"aliases": "|skyhighfuturehd|",
+		"basealias": "skyhighfuture",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH FUTURE HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005810,
+		"aliases": "|skyhighheroeshd|",
+		"basealias": "skyhighheroes",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH HEROES HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005811,
+		"aliases": "|skyhighmanhd|",
+		"basealias": "skyhighman",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH MAN HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005812,
+		"aliases": "",
+		"basealias": "skyhighmix3d",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH MIX 3D",
+		"group": "films"
+	},
+	{
+		"_id": 1005813,
+		"aliases": "|skyhighnaturehd|",
+		"basealias": "skyhighnature",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH NATURE 4K",
+		"group": "films"
+	},
+	{
+		"_id": 1005814,
+		"aliases": "|skyhighrussianhd|",
+		"basealias": "skyhighrussian",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH RUSSIAN HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005815,
+		"aliases": "|skyhighserieshd|",
+		"basealias": "skyhighseries",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH SERIES HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005816,
+		"aliases": "|skyhighspirithd|",
+		"basealias": "skyhighspirit",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH SPIRIT HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005817,
+		"aliases": "|skyhighuhdhdr|",
+		"basealias": "skyhighuhdhdr",
+		"country": "ru",
+		"logo_url": "/logos/sky-high.png",
+		"name": "SKY HIGH UHD HDR",
+		"group": "films"
+	},
+	{
+		"_id": 1005850,
+		"aliases": "|sfrsport1|",
+		"basealias": "rmcsport1",
+		"country": "ru",
+		"logo_url": "/logos/rmc-sport-1.png",
+		"name": "RMC Sport 1",
+		"group": "sport"
+	},
+	{
+		"_id": 1005851,
+		"aliases": "|sfrsport1hd|rmcsporthd1|",
+		"basealias": "rmcsport1hd",
+		"country": "fr",
+		"logo_url": "/logos/rmc-sport-1-hd.png",
+		"name": "RMC Sport 1 HD",
+		"group": "sport"
+	},
+	{
+		"_id": 1005852,
+		"aliases": "|sfrsport5|rmcsport5live|rmcsportlive5|",
+		"basealias": "rmcsport5",
+		"country": "fr",
+		"logo_url": "/logos/rmc-sport-5.png",
+		"name": "RMC Sport 5 Live",
+		"group": "sport"
+	},
+	{
+		"_id": 1005853,
+		"aliases": "|sfrsport6|rmcsport6live|rmcsportlive6|",
+		"basealias": "rmcsport6",
+		"country": "fr",
+		"logo_url": "/logos/rmc-sport-6.png",
+		"name": "RMC Sport 6 Live",
+		"group": "sport"
+	},
+	{
+		"_id": 1005854,
+		"aliases": "|sfrsport7|rmcsport7live|rmcsportlive7|",
+		"basealias": "rmcsport7",
+		"country": "fr",
+		"logo_url": "/logos/rmc-sport-7.png",
+		"name": "RMC Sport 7 Live",
+		"group": "sport"
+	},
+	{
+		"_id": 1005855,
+		"aliases": "|sfrsport8|rmcsport8live|rmcsportlive8|",
+		"basealias": "rmcsport8",
+		"country": "fr",
+		"logo_url": "/logos/rmc-sport-8.png",
+		"name": "RMC Sport 8 Live",
+		"group": "sport"
+	},
+	{
+		"_id": 1005856,
+		"aliases": "|sfrsport9|rmcsport9live|rmcsportlive9|",
+		"basealias": "rmcsport9",
+		"country": "fr",
+		"logo_url": "/logos/rmc-sport-9.png",
+		"name": "RMC Sport 9 Live",
+		"group": "sport"
+	},
+	{
+		"_id": 1005857,
+		"aliases": "|latinachannel21+|",
+		"basealias": "latinachannel",
+		"country": "ww",
+		"logo_url": "/logos/latina-channel.png",
+		"name": "Latina Channel",
+		"group": "adult"
+	},
+	{
+		"_id": 1005860,
+		"aliases": "|elevensports1uhd|",
+		"basealias": "elevensports14k",
+		"country": "gb",
+		"logo_url": "/logos/eleven-sports-1-4k.png",
+		"name": "Eleven Sports 1 4K",
+		"group": "sport"
+	},
+	{
+		"_id": 1005861,
+		"aliases": "|криминальноеhd|",
+		"basealias": "криминальное",
+		"country": "ru",
+		"logo_url": "/logos/kriminalnoe.png",
+		"name": "Криминальное",
+		"group": "films"
+	},
+	{
+		"_id": 1005862,
+		"aliases": "|lavahd|",
+		"basealias": "lava",
+		"country": "ru",
+		"logo_url": "/logos/lava-tv.png",
+		"name": "Lava",
+		"group": "films"
+	},
+	{
+		"_id": 1005863,
+		"aliases": "|pznhd|",
+		"basealias": "pzn",
+		"country": "ru",
+		"logo_url": "/logos/pzn-hd.png",
+		"name": "PZN HD",
+		"group": "films"
+	},
+	{
+		"_id": 1005864,
+		"aliases": "",
+		"basealias": "военноекино",
+		"country": "ru",
+		"logo_url": "/logos/voennoe-kino.png",
+		"name": "Военное Кино",
+		"group": "films"
+	},
+	{
+		"_id": 1005865,
+		"aliases": "|кикклассикаиндийскогокино|",
+		"basealias": "классикаиндийскогокино",
+		"country": "ru",
+		"logo_url": "/logos/kik.png",
+		"name": "Кик",
+		"group": "films"
+	},
+	{
+		"_id": 1005866,
+		"aliases": "|типтопhd|",
+		"basealias": "типтоп",
+		"country": "ru",
+		"logo_url": "/logos/tiptop.png",
+		"name": "ТипТоп",
+		"group": "kids"
+	},
+	{
+		"_id": 1005867,
+		"aliases": "",
+		"basealias": "filmtvkinder",
+		"country": "ru",
+		"logo_url": "/logos/film-tv-kinder.png",
+		"name": "Film TV Kinder",
+		"group": "kids"
 	}
 ]
