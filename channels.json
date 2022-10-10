@@ -4360,7 +4360,7 @@
 		"aliases": "|cnl|cnleurope|",
 		"basealias": "cnlевропа",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/cc/cnl_eu.png",
+		"logo_url": "/logos/ua-cnl.png",
 		"name": "CNL Европа",
 		"group": "religious"
 	},
@@ -7021,10 +7021,10 @@
 	},
 	{
 		"_id": 792,
-		"aliases": "|travelxp4kgermany|travelxp4kindia|travelxp4asia|",
+		"aliases": "|travelxp4kgermany|travelxp4kindia|travelxp4kasia|",
 		"basealias": "travelxp4k",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/tt/travel_xp_in_4k_us.png",
+		"logo_url": "/logos/travelxp-4k.png",
 		"name": "TravelXP 4K",
 		"group": "knowledge"
 	},
@@ -16879,7 +16879,7 @@
 		"aliases": "|skysporthd1|skysport1hdgermany|skysport1hddeutschland|",
 		"basealias": "skysport1hd",
 		"country": "de",
-		"logo_url": "https://dl.dropboxusercontent.com/s/zylugpjkkg8nauf/ssport1hd.png",
+		"logo_url": "/logos/sky-sports-1-hd.png",
 		"name": "Sky Sport 1 HD (DE)",
 		"group": "sport"
 	},
@@ -16888,7 +16888,7 @@
 		"aliases": "|skysporthd2|skysport2hdgermany|skysport2hddeutschland|",
 		"basealias": "skysport2hd",
 		"country": "de",
-		"logo_url": "https://dl.dropboxusercontent.com/s/2l7c82s2av76tco/ssport2hd.png",
+		"logo_url": "/logos/sky-sports-2-hd.png",
 		"name": "Sky Sport 2 HD (DE)",
 		"group": "sport"
 	},
@@ -29317,7 +29317,7 @@
 		"aliases": "|cnlua|cnlukraine|cnlukraina|",
 		"basealias": "cnlукраина",
 		"country": "ua",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/cc/cnl_eu.png",
+		"logo_url": "/logos/ua-cnl.png",
 		"name": "CNL Украина",
 		"group": "religious"
 	},
@@ -30144,8 +30144,8 @@
 		"_id": 8369,
 		"aliases": "|первыйреспубликанскийтеле|первыйреспубликанскийhd|1республиканскийhd|первыйреспубликанскийтеледнр|1республиканский|1йреспубликанский|первыйднрhd|первыйднр|",
 		"basealias": "первыйреспубликанский",
-		"country": "ua",
-		"logo_url": "https://dl.dropboxusercontent.com/s/3rhvvqdcxu5f728/1dnr.png",
+		"country": "ru",
+		"logo_url": "/logos/1respublikansky.png",
 		"name": "Первый Республиканский (ДНР)",
 		"group": "regional"
 	},
@@ -47911,7 +47911,7 @@
 		"aliases": "|beinsports1|beinsport1|bein1|beinsports1hd|beinsports1hdqa|beinsports1uk|beinsports1hduk|beinsportshd1uk|",
 		"basealias": "beinsportshd1",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_01_hd.png",
+		"logo_url": "/logos/bein-sports-01.png",
 		"name": "BeIn Sports HD 1",
 		"group": "sport"
 	},
@@ -47920,7 +47920,7 @@
 		"aliases": "|beinsports2|beinsport2|bein2|beinsports2hd|beinsports2hdqa|beinsports2uk|beinsports2hduk|beinsportshd2uk|",
 		"basealias": "beinsportshd2",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_02_hd.png",
+		"logo_url": "/logos/bein-sports-02.png",
 		"name": "BeIn Sports HD 2",
 		"group": "sport"
 	},
@@ -47929,7 +47929,7 @@
 		"aliases": "|beinsports3|beinsport3|bein3|beinsports3hd|beinsports3hdqa|beinsports3uk|beinsports3hduk|beinsportshd3uk|",
 		"basealias": "beinsportshd3",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_03_hd.png",
+		"logo_url": "/logos/bein-sports-03.png",
 		"name": "BeIn Sports HD 3",
 		"group": "sport"
 	},
@@ -47938,7 +47938,7 @@
 		"aliases": "|beinsports4|beinsport4|bein4|beinsports4hd|beinsports4hdqa|beinsports4uk|beinsports4hduk|beinsportshd4uk|",
 		"basealias": "beinsportshd4",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_04_hd.png",
+		"logo_url": "/logos/bein-sports-04.png",
 		"name": "BeIn Sports HD 4",
 		"group": "sport"
 	},
@@ -47947,7 +47947,7 @@
 		"aliases": "|beinsports5|beinsport5|bein5|beinsports5hd|beinsports5hdqa|beinsports5uk|beinsports5hduk|beinsportshd5uk|",
 		"basealias": "beinsportshd5",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_05_hd.png",
+		"logo_url": "/logos/bein-sports-05.png",
 		"name": "BeIn Sports HD 5",
 		"group": "sport"
 	},
@@ -47956,7 +47956,7 @@
 		"aliases": "|beinsports6|beinsport6|bein6|beinsports6hd|beinsports6hdqa|beinsports6uk|beinsports6hduk|beinsportshd6uk|",
 		"basealias": "beinsportshd6",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_06_hd.png",
+		"logo_url": "/logos/bein-sports-06.png",
 		"name": "BeIn Sports HD 6",
 		"group": "sport"
 	},
@@ -47965,7 +47965,7 @@
 		"aliases": "|beinsports7|beinsport7|bein7|beinsports7hd|beinsports7hdqa|beinsports7uk|beinsports7hduk|beinsportshd7uk|",
 		"basealias": "beinsportshd7",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_07_hd.png",
+		"logo_url": "/logos/bein-sports-07.png",
 		"name": "BeIn Sports HD 7",
 		"group": "sport"
 	},
@@ -47974,7 +47974,7 @@
 		"aliases": "|beinsports8|beinsport8|bein8|beinsports8hd|beinsports8hdqa|beinsports8uk|beinsports8hduk|beinsportshd8uk|",
 		"basealias": "beinsportshd8",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_08_hd.png",
+		"logo_url": "/logos/bein-sports-08.png",
 		"name": "BeIn Sports HD 8",
 		"group": "sport"
 	},
@@ -47983,7 +47983,7 @@
 		"aliases": "|beinsports9|beinsport9|bein9|beinsports9hd|beinsports9hdqa|beinsports9uk|beinsports9hduk|beinsportshd9uk|",
 		"basealias": "beinsportshd9",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_09_hd.png",
+		"logo_url": "/logos/bein-sports-09.png",
 		"name": "BeIn Sports HD 9",
 		"group": "sport"
 	},
@@ -47992,7 +47992,7 @@
 		"aliases": "|beinsports10|beinsport10|bein10|beinsports10hd|beinsports10hdqa|beinsports10uk|beinsports10hduk|beinsportshd10uk|",
 		"basealias": "beinsportshd10",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_10_hd.png",
+		"logo_url": "/logos/bein-sports-10.png",
 		"name": "BeIn Sports HD 10",
 		"group": "sport"
 	},
@@ -48001,7 +48001,7 @@
 		"aliases": "|beinsports11|beinsport11|bein11|beinsports11hd|beinsports11hdqa|beinsporthd11|beinsports11uk|beinsports11hduk|beinsportshd11uk|",
 		"basealias": "beinsportshd11",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_11_hd.png",
+		"logo_url": "/logos/bein-sports-11.png",
 		"name": "BeIn Sports HD 11",
 		"group": "sport"
 	},
@@ -48010,7 +48010,7 @@
 		"aliases": "|beinsports12|beinsport12|bein12|beinsports12hd|beinsports12hdqa|beinsports12uk|beinsports12hduk|beinsportshd12uk|",
 		"basealias": "beinsportshd12",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_12_hd.png",
+		"logo_url": "/logos/bein-sports-12.png",
 		"name": "BeIn Sports HD 12",
 		"group": "sport"
 	},
@@ -48019,7 +48019,7 @@
 		"aliases": "|beinsports15|beinsport15|bein15|beinsports15hd|beinsports15uk|beinsports15hduk|beinsportshd15uk|",
 		"basealias": "beinsportshd15",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_15_hd.png",
+		"logo_url": "/logos/bein-sports-15.png",
 		"name": "BeIn Sports HD 15",
 		"group": "sport"
 	},
@@ -48028,7 +48028,7 @@
 		"aliases": "|beinsports16|beinsport16|bein16|beinsports16hd|beinsports16uk|beinsports16hduk|beinsportshd16uk|",
 		"basealias": "beinsportshd16",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_16_hd.png",
+		"logo_url": "/logos/bein-sports-16.png",
 		"name": "BeIn Sports HD 16",
 		"group": "sport"
 	},
@@ -48037,7 +48037,7 @@
 		"aliases": "|beinsports13|beinsport13|bein13|beinsports13hd|beinsports13uk|beinsports13hduk|beinsportshd13uk|",
 		"basealias": "beinsportshd13",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_13_hd.png",
+		"logo_url": "/logos/bein-sports-13.png",
 		"name": "BeIn Sports HD 13",
 		"group": "sport"
 	},
@@ -48046,7 +48046,7 @@
 		"aliases": "|beinsports14|beinsport14|bein14|beinsports14hd|beinsports14uk|beinsports14hduk|beinsportshd14uk|",
 		"basealias": "beinsportshd14",
 		"country": 30,
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_14_hd.png",
+		"logo_url": "/logos/bein-sports-14.png",
 		"name": "BeIn Sports HD 14",
 		"group": "sport"
 	},
