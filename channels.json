@@ -505,7 +505,7 @@
 	},
 	{
 		"_id": 58,
-		"aliases": "|bridgefresh|bridgetvfresh|bridgefreshhd|freshtv|",
+		"aliases": "|bridgefresh|bridgetvfresh|bridgefreshhd|freshtv|bridgetvфрэш|bridgetvфрэшhd|",
 		"basealias": "bridgefresh",
 		"country": "ru",
 		"logo_url": "/logos/bridge-tv-fresh.png",
@@ -588,7 +588,7 @@
 		"_id": 67,
 		"aliases": "|инглишклаб|инглишклуб|английскийклуб|",
 		"basealias": "englishclub",
-		"country": "uk",
+		"country": "gb",
 		"logo_url": "/logos/english-club-tv.png",
 		"name": "English Club TV",
 		"group": "knowledge"
@@ -867,7 +867,7 @@
 		"_id": 98,
 		"aliases": "",
 		"basealias": "ictv",
-		"country": "ru",
+		"country": "ua",
 		"logo_url": "/logos/ictv.png",
 		"name": "ICTV",
 		"group": "common"
@@ -1003,7 +1003,7 @@
 		"aliases": "|mtveuropean|мтвевропа|mtvnorway|mtvdenmark|mtvitalia|mtvireland|mtvromania|mtvpolska|mtvpolskahd|mtvfrance|",
 		"basealias": "mtveurope",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png",
+		"logo_url": "/logos/mtv.png",
 		"name": "MTV Europe",
 		"group": "music"
 	},
@@ -2227,7 +2227,7 @@
 		"aliases": "|евразияkz|evrazia|eurasia|евразияпервый|",
 		"basealias": "первыйевразия",
 		"country": "ru",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/pp/perviy_kanal_eurasia.png",
+		"logo_url": "/logos/perviy-evrazia.png",
 		"name": "Первый канал Евразия",
 		"group": "common"
 	},
@@ -2467,7 +2467,7 @@
 	},
 	{
 		"_id": 281,
-		"aliases": "|kinopokaz|кинопоказhd|",
+		"aliases": "|kinopokaz|",
 		"basealias": "кинопоказ",
 		"country": "ru",
 		"logo_url": "/logos/kinopokaz.png",
@@ -3781,7 +3781,7 @@
 	},
 	{
 		"_id": 429,
-		"aliases": "|tv1000rukino|tv1000russkoekino|тв1000русскоекино|tv1000русскоекиноhd|tb1000русскоекино|tв1000русскоекино|",
+		"aliases": "|tv1000rukino|tv1000russkoekino|тв1000русскоекино|tv1000русскоекиноhd|tb1000русскоекино|tв1000русскоекино|русскоекиноtv1000|",
 		"basealias": "tv1000русскоекино",
 		"country": "ru",
 		"logo_url": "/logos/tv1000-russkoe.png",
@@ -8545,7 +8545,7 @@
 		"aliases": "|btsport1hd|btsport1uk|btsport1inpubs|",
 		"basealias": "btsport1",
 		"country": "gb",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png",
+		"logo_url": "/logos/btsport-1-hd.png",
 		"name": "BT Sport 1",
 		"group": "sport"
 	},
@@ -8554,7 +8554,7 @@
 		"aliases": "|btsport2hd|btsport2uk|",
 		"basealias": "btsport2",
 		"country": "gb",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.png",
+		"logo_url": "/logos/btsport-2-hd.png",
 		"name": "BT Sport 2",
 		"group": "sport"
 	},
@@ -9742,7 +9742,7 @@
 		"aliases": "",
 		"basealias": "magic",
 		"country": "gb",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/mm/magic_tv_uk.png",
+		"logo_url": "/logos/magic-tv.png",
 		"name": "Magic TV (UK)",
 		"group": "music"
 	},
@@ -10696,7 +10696,7 @@
 		"aliases": "|skynewsireland|",
 		"basealias": "skynewsuk",
 		"country": "gb",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_news.png",
+		"logo_url": "/logos/sky-news.png",
 		"name": "Sky News UK",
 		"group": "news"
 	},
@@ -10705,7 +10705,7 @@
 		"aliases": "|skynwsarabia|skynewsarabiahd|",
 		"basealias": "skynewsarabia",
 		"country": "gb",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ss/sky-news-arabia-uk.png",
+		"logo_url": "/logos/sky-news.png",
 		"name": "Sky News Arabia",
 		"group": "news"
 	},
@@ -10714,7 +10714,7 @@
 		"aliases": "|skynews|skynewshd|skynewsint|skynewsaustralia|skynewsnewzealand|",
 		"basealias": "skynewsinternational",
 		"country": "gb",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_news_international.png",
+		"logo_url": "/logos/sky-news.png",
 		"name": "Sky News International",
 		"group": "news"
 	},
@@ -18478,16 +18478,16 @@
 	},
 	{
 		"_id": 2519,
-		"aliases": "|bcumediahd|",
+		"aliases": "|bcumediahd|bcumediaold|",
 		"basealias": "bcumedia",
 		"country": "ru",
-		"logo_url": "https://dl.dropboxusercontent.com/s/sifickjomxztpj3/bcumedia.png",
+		"logo_url": "/logos/bcu-media.png",
 		"name": "BCU Media",
 		"group": "films"
 	},
 	{
 		"_id": 2520,
-		"aliases": "|bcuкинозаказhd|",
+		"aliases": "|bcuкинозаказhd|bcukinozakaz|bcukinozakazhd|",
 		"basealias": "bcuкинозаказ",
 		"country": "ru",
 		"logo_url": "/logos/bcu-kinozakaz-hd.png",
@@ -47485,7 +47485,7 @@
 	},
 	{
 		"_id": 50333,
-		"aliases": "|14israel|14|arutz10|10israel|arutzeser|10израиль|14израиль|14каналisrael|",
+		"aliases": "|14israel|israel14|14|arutz10|10israel|arutzeser|10израиль|14израиль|14каналisrael|",
 		"basealias": "channel14",
 		"country": "il",
 		"logo_url": "/logos/israel-14.png",
@@ -47908,144 +47908,144 @@
 	},
 	{
 		"_id": 50447,
-		"aliases": "|beinsports1|beinsport1|bein1|beinsports1hd|beinsports1hdqa|beinsports1uk|beinsports1hduk|beinsportshd1uk|",
+		"aliases": "|beinsports1|beinsport1|bein1|beinsports1hd|beinsport1hd|beinsporthd1|beinsports1hdqa|beinsports1uk|beinsports1hduk|beinsportshd1uk|",
 		"basealias": "beinsportshd1",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-01.png",
 		"name": "BeIn Sports HD 1",
 		"group": "sport"
 	},
 	{
 		"_id": 50448,
-		"aliases": "|beinsports2|beinsport2|bein2|beinsports2hd|beinsports2hdqa|beinsports2uk|beinsports2hduk|beinsportshd2uk|",
+		"aliases": "|beinsports2|beinsport2|bein2|beinsports2hd|beinsport2hd|beinsporthd2|beinsports2hdqa|beinsports2uk|beinsports2hduk|beinsportshd2uk|",
 		"basealias": "beinsportshd2",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-02.png",
 		"name": "BeIn Sports HD 2",
 		"group": "sport"
 	},
 	{
 		"_id": 50449,
-		"aliases": "|beinsports3|beinsport3|bein3|beinsports3hd|beinsports3hdqa|beinsports3uk|beinsports3hduk|beinsportshd3uk|",
+		"aliases": "|beinsports3|beinsport3|bein3|beinsports3hd|beinsport3hd|beinsporthd3|beinsports3hdqa|beinsports3uk|beinsports3hduk|beinsportshd3uk|",
 		"basealias": "beinsportshd3",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-03.png",
 		"name": "BeIn Sports HD 3",
 		"group": "sport"
 	},
 	{
 		"_id": 50450,
-		"aliases": "|beinsports4|beinsport4|bein4|beinsports4hd|beinsports4hdqa|beinsports4uk|beinsports4hduk|beinsportshd4uk|",
+		"aliases": "|beinsports4|beinsport4|bein4|beinsports4hd|beinsport4hd|beinsporthd4|beinsports4hdqa|beinsports4uk|beinsports4hduk|beinsportshd4uk|",
 		"basealias": "beinsportshd4",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-04.png",
 		"name": "BeIn Sports HD 4",
 		"group": "sport"
 	},
 	{
 		"_id": 50451,
-		"aliases": "|beinsports5|beinsport5|bein5|beinsports5hd|beinsports5hdqa|beinsports5uk|beinsports5hduk|beinsportshd5uk|",
+		"aliases": "|beinsports5|beinsport5|bein5|beinsports5hd|beinsport5hd|beinsporthd5|beinsports5hdqa|beinsports5uk|beinsports5hduk|beinsportshd5uk|",
 		"basealias": "beinsportshd5",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-05.png",
 		"name": "BeIn Sports HD 5",
 		"group": "sport"
 	},
 	{
 		"_id": 50452,
-		"aliases": "|beinsports6|beinsport6|bein6|beinsports6hd|beinsports6hdqa|beinsports6uk|beinsports6hduk|beinsportshd6uk|",
+		"aliases": "|beinsports6|beinsport6|bein6|beinsports6hd|beinsport6hd|beinsporthd6|beinsports6hdqa|beinsports6uk|beinsports6hduk|beinsportshd6uk|",
 		"basealias": "beinsportshd6",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-06.png",
 		"name": "BeIn Sports HD 6",
 		"group": "sport"
 	},
 	{
 		"_id": 50453,
-		"aliases": "|beinsports7|beinsport7|bein7|beinsports7hd|beinsports7hdqa|beinsports7uk|beinsports7hduk|beinsportshd7uk|",
+		"aliases": "|beinsports7|beinsport7|bein7|beinsports7hd|beinsport7hd|beinsporthd7|beinsports7hdqa|beinsports7uk|beinsports7hduk|beinsportshd7uk|",
 		"basealias": "beinsportshd7",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-07.png",
 		"name": "BeIn Sports HD 7",
 		"group": "sport"
 	},
 	{
 		"_id": 50454,
-		"aliases": "|beinsports8|beinsport8|bein8|beinsports8hd|beinsports8hdqa|beinsports8uk|beinsports8hduk|beinsportshd8uk|",
+		"aliases": "|beinsports8|beinsport8|bein8|beinsports8hd|beinsport8hd|beinsporthd8|beinsports8hdqa|beinsports8uk|beinsports8hduk|beinsportshd8uk|",
 		"basealias": "beinsportshd8",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-08.png",
 		"name": "BeIn Sports HD 8",
 		"group": "sport"
 	},
 	{
 		"_id": 50455,
-		"aliases": "|beinsports9|beinsport9|bein9|beinsports9hd|beinsports9hdqa|beinsports9uk|beinsports9hduk|beinsportshd9uk|",
+		"aliases": "|beinsports9|beinsport9|bein9|beinsports9hd|beinsport9hd|beinsporthd9|beinsports9hdqa|beinsports9uk|beinsports9hduk|beinsportshd9uk|",
 		"basealias": "beinsportshd9",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-09.png",
 		"name": "BeIn Sports HD 9",
 		"group": "sport"
 	},
 	{
 		"_id": 50456,
-		"aliases": "|beinsports10|beinsport10|bein10|beinsports10hd|beinsports10hdqa|beinsports10uk|beinsports10hduk|beinsportshd10uk|",
+		"aliases": "|beinsports10|beinsport10|bein10|beinsports10hd|beinsport10hd|beinsporthd10|beinsports10hdqa|beinsports10uk|beinsports10hduk|beinsportshd10uk|",
 		"basealias": "beinsportshd10",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-10.png",
 		"name": "BeIn Sports HD 10",
 		"group": "sport"
 	},
 	{
 		"_id": 50457,
-		"aliases": "|beinsports11|beinsport11|bein11|beinsports11hd|beinsports11hdqa|beinsporthd11|beinsports11uk|beinsports11hduk|beinsportshd11uk|",
+		"aliases": "|beinsports11|beinsport11|bein11|beinsports11hd|beinsport11hd|beinsports11hdqa|beinsporthd11|beinsports11uk|beinsports11hduk|beinsportshd11uk|",
 		"basealias": "beinsportshd11",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-11.png",
 		"name": "BeIn Sports HD 11",
 		"group": "sport"
 	},
 	{
 		"_id": 50458,
-		"aliases": "|beinsports12|beinsport12|bein12|beinsports12hd|beinsports12hdqa|beinsports12uk|beinsports12hduk|beinsportshd12uk|",
+		"aliases": "|beinsports12|beinsport12|bein12|beinsports12hd|beinsport12hd|beinsporthd12|beinsports12hdqa|beinsports12uk|beinsports12hduk|beinsportshd12uk|",
 		"basealias": "beinsportshd12",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-12.png",
 		"name": "BeIn Sports HD 12",
 		"group": "sport"
 	},
 	{
 		"_id": 50459,
-		"aliases": "|beinsports15|beinsport15|bein15|beinsports15hd|beinsports15uk|beinsports15hduk|beinsportshd15uk|",
+		"aliases": "|beinsports15|beinsport15|bein15|beinsports15hd|beinsport15hd|beinsporthd15|beinsports15uk|beinsports15hduk|beinsportshd15uk|",
 		"basealias": "beinsportshd15",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-15.png",
 		"name": "BeIn Sports HD 15",
 		"group": "sport"
 	},
 	{
 		"_id": 50460,
-		"aliases": "|beinsports16|beinsport16|bein16|beinsports16hd|beinsports16uk|beinsports16hduk|beinsportshd16uk|",
+		"aliases": "|beinsports16|beinsport16|bein16|beinsports16hd|beinsport16hd|beinsporthd16|beinsports16uk|beinsports16hduk|beinsportshd16uk|",
 		"basealias": "beinsportshd16",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-16.png",
 		"name": "BeIn Sports HD 16",
 		"group": "sport"
 	},
 	{
 		"_id": 50461,
-		"aliases": "|beinsports13|beinsport13|bein13|beinsports13hd|beinsports13uk|beinsports13hduk|beinsportshd13uk|",
+		"aliases": "|beinsports13|beinsport13|bein13|beinsports13hd|beinsport13hd|beinsporthd13|beinsports13uk|beinsports13hduk|beinsportshd13uk|",
 		"basealias": "beinsportshd13",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-13.png",
 		"name": "BeIn Sports HD 13",
 		"group": "sport"
 	},
 	{
 		"_id": 50462,
-		"aliases": "|beinsports14|beinsport14|bein14|beinsports14hd|beinsports14uk|beinsports14hduk|beinsportshd14uk|",
+		"aliases": "|beinsports14|beinsport14|bein14|beinsports14hd|beinsport14hd|beinsporthd14|beinsports14uk|beinsports14hduk|beinsportshd14uk|",
 		"basealias": "beinsportshd14",
-		"country": 30,
+		"country": "gb",
 		"logo_url": "/logos/bein-sports-14.png",
 		"name": "BeIn Sports HD 14",
 		"group": "sport"
@@ -52077,7 +52077,7 @@
 		"_id": 51473,
 		"aliases": "|fightnetworkhd|osnfightnetworkhd|",
 		"basealias": "fightnetwork",
-		"country": "uk",
+		"country": "gb",
 		"logo_url": "/logos/fight-network.png",
 		"name": "Fight Network",
 		"group": "men"
@@ -58413,7 +58413,7 @@
 		"_id": 52241,
 		"aliases": "|nationalgeographicwilduk|nationalgeographicwildbg|nationalgeographicwildhdbg|",
 		"basealias": "natgeowilduk",
-		"country": "uk",
+		"country": "gb",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png",
 		"name": "Nat Geo Wild UK",
 		"group": "knowledge"
@@ -64516,7 +64516,7 @@
 		"aliases": "|btsport3hd|btsport3uk|",
 		"basealias": "btsport3",
 		"country": "us",
-		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png",
+		"logo_url": "/logos/btsport-3-hd.png",
 		"name": "BT Sport 3",
 		"group": "sport"
 	},
@@ -64605,7 +64605,7 @@
 		"_id": 52999,
 		"aliases": "",
 		"basealias": "englishclubhd",
-		"country": "uk",
+		"country": "gb",
 		"logo_url": "/logos/english-club-tv-hd.png",
 		"name": "English Club TV HD",
 		"group": "knowledge"
@@ -76890,7 +76890,7 @@
 		"_id": 54412,
 		"aliases": "|cartoonnetworkuk|cartoonnetworkde|cartoonnetworkpolska|cartoonnetworkhdpolska|cartoonnetworkgermany|cartoonnetworkdeutschland|cartoonnetworkespana|cartoonnetworkfrance|cartoonnetworkitaly|cartoonnetworkcentraleasterneurope|cartoonnetworkcee|",
 		"basealias": "cartoonnetworkeurope",
-		"country": "uk",
+		"country": "gb",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png",
 		"name": "Cartoon Network Europe",
 		"group": "kids"
@@ -82891,7 +82891,7 @@
 	},
 	{
 		"_id": 55104,
-		"aliases": "|4evermusic|uamusic|uamusichd|",
+		"aliases": "|4evermusic|",
 		"basealias": "4evermusichd",
 		"country": "ua",
 		"logo_url": "/logos/music-4ever-hd.png",
@@ -85834,36 +85834,36 @@
 	},
 	{
 		"_id": 55437,
-		"aliases": "|bein1turkiye|beinsport1hd|beinsports1türk|beinsport1turkiye|beinsports1turk|beinsportshd1türkiye|beinsports1hdtürkiye|beinsports1hdturkiye|beinsports1turkey|",
+		"aliases": "|bein1turkiye|beinsports1türk|beinsport1turkiye|beinsports1turk|beinsportshd1türkiye|beinsports1hdtürkiye|beinsports1hdturkiye|beinsports1turkey|",
 		"basealias": "beinsports1tr",
-		"country": 30,
+		"country": "tr",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_01_hd.png",
 		"name": "BeIn Sports 1 Türkiye",
 		"group": "sport"
 	},
 	{
 		"_id": 55438,
-		"aliases": "|bein2turkiye|beinsports2türk|beinsport2hd|beinsport2turkiye|beinsports2turk|beinsportshd2türkiye|beinsports2hdtürkiye|beinsports2hdturkiye|beinsports2tk|beinsports2turkey|",
+		"aliases": "|bein2turkiye|beinsports2türk|beinsport2turkiye|beinsports2turk|beinsportshd2türkiye|beinsports2hdtürkiye|beinsports2hdturkiye|beinsports2tk|beinsports2turkey|",
 		"basealias": "beinsports2tr",
-		"country": 30,
+		"country": "tr",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_02_hd.png",
 		"name": "BeIn Sports 2 Türkiye",
 		"group": "sport"
 	},
 	{
 		"_id": 55439,
-		"aliases": "|bein3turkiye|beinsport3hd|beinsports3türk|beinsport3turkiye|beinsports3turk|beinsportshd3türkiye|beinsports3hdtürkiye|beinsports3hdturkiye|beinsports3turkey|",
+		"aliases": "|bein3turkiye|beinsports3türk|beinsport3turkiye|beinsports3turk|beinsportshd3türkiye|beinsports3hdtürkiye|beinsports3hdturkiye|beinsports3turkey|",
 		"basealias": "beinsports3tr",
-		"country": 30,
+		"country": "tr",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_03_hd.png",
 		"name": "BeIn Sports 3 Türkiye",
 		"group": "sport"
 	},
 	{
 		"_id": 55440,
-		"aliases": "|bein4turkiye|beinsports4türk|beinsport4hd|beinsport4turkiye|beinsports4turk|beinsportshd4türkiye|beinsports4hdtürkiye|beinsports4hdturkiye|beinsports4turkey|",
+		"aliases": "|bein4turkiye|beinsports4türk|beinsport4turkiye|beinsports4turk|beinsportshd4türkiye|beinsports4hdtürkiye|beinsports4hdturkiye|beinsports4turkey|",
 		"basealias": "beinsports4tr",
-		"country": 30,
+		"country": "tr",
 		"logo_url": "https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_04_hd.png",
 		"name": "BeIn Sports 4 Türkiye",
 		"group": "sport"
@@ -86707,7 +86707,7 @@
 	},
 	{
 		"_id": 55534,
-		"aliases": "|bcurealityhd|",
+		"aliases": "|bcurealityhd|bcurealityold|",
 		"basealias": "bcureality",
 		"country": "ru",
 		"logo_url": "/logos/bcu-reality-hd.png",
@@ -86740,6 +86740,15 @@
 		"logo_url": "/logos/bcu-ultra-4k.png",
 		"name": "BCU Ultra 4K",
 		"group": "films"
+	},
+	{
+		"_id": 55538,
+		"aliases": "|uamusic|uamusichd|",
+		"basealias": "uamusic",
+		"country": "ua",
+		"logo_url": "/logos/ua-music.png",
+		"name": "UA Music HD",
+		"group": "music"
 	},
 	{
 		"_id": 100000,
@@ -92448,7 +92457,7 @@
 		"group": "films"
 	},
 	{
-		"_id": 1007010,
+		"_id": 100710,
 		"aliases": "|сапфирhd|",
 		"basealias": "сапфир",
 		"country": "ru",
@@ -92457,7 +92466,7 @@
 		"group": "films"
 	},
 	{
-		"_id": 1007011,
+		"_id": 100711,
 		"aliases": "|чижикhd|",
 		"basealias": "чижик",
 		"country": "ru",
@@ -92466,7 +92475,7 @@
 		"group": "kids"
 	},
 	{
-		"_id": 1007012,
+		"_id": 100712,
 		"aliases": "|кинекоhd|",
 		"basealias": "кинеко",
 		"country": "ru",
@@ -92475,12 +92484,273 @@
 		"group": "films"
 	},
 	{
-		"_id": 1007013,
+		"_id": 100713,
 		"aliases": "|terrahd|",
 		"basealias": "terra",
 		"country": "ru",
 		"logo_url": "/logos/terra-ru.png",
 		"name": "Terra",
 		"group": "knowledge"
+	},
+	{
+		"_id": 100714,
+		"aliases": "|kinopokazhd|",
+		"basealias": "кинопоказhd",
+		"country": "ru",
+		"logo_url": "/logos/kinopokaz.png",
+		"name": "Кинопоказ HD",
+		"group": "films"
+	},
+	{
+		"_id": 100720,
+		"aliases": "|magickarate|",
+		"basealias": "magickaratehd",
+		"country": "ru",
+		"logo_url": "/logos/magic-karate.png",
+		"name": "Magic Karate HD",
+		"group": "films"
+	},
+	{
+		"_id": 100721,
+		"aliases": "|magicvhs|",
+		"basealias": "magicvhshd",
+		"country": "ru",
+		"logo_url": "/logos/magic-vhs.png",
+		"name": "Magic VHS HD",
+		"group": "films"
+	},
+	{
+		"_id": 100722,
+		"aliases": "|magiccomedy|",
+		"basealias": "magiccomedyhd",
+		"country": "ru",
+		"logo_url": "/logos/magic-comedy.png",
+		"name": "Magic Comedy HD",
+		"group": "films"
+	},
+	{
+		"_id": 100723,
+		"aliases": "|magiclove|",
+		"basealias": "magiclovehd",
+		"country": "ru",
+		"logo_url": "/logos/magic-love.png",
+		"name": "Magic Love HD",
+		"group": "films"
+	},
+	{
+		"_id": 100724,
+		"aliases": "|magicfamily|",
+		"basealias": "magicfamilyhd",
+		"country": "ru",
+		"logo_url": "/logos/magic-family.png",
+		"name": "Magic Family HD",
+		"group": "films"
+	},
+	{
+		"_id": 100725,
+		"aliases": "|magicthriller|",
+		"basealias": "magicthrillerhd",
+		"country": "ru",
+		"logo_url": "/logos/magic-thriller.png",
+		"name": "Magic Thriller HD",
+		"group": "films"
+	},
+	{
+		"_id": 100726,
+		"aliases": "|magicaction|",
+		"basealias": "magicactionhd",
+		"country": "ru",
+		"logo_url": "/logos/magic-action.png",
+		"name": "Magic Action HD",
+		"group": "films"
+	},
+	{
+		"_id": 100727,
+		"aliases": "|magicgalaxy|",
+		"basealias": "magicgalaxyhd",
+		"country": "ru",
+		"logo_url": "/logos/magic-galaxy.png",
+		"name": "Magic Galaxy HD",
+		"group": "films"
+	},
+	{
+		"_id": 100728,
+		"aliases": "|magichorror|",
+		"basealias": "magichorrorhd",
+		"country": "ru",
+		"logo_url": "/logos/magic-horror.png",
+		"name": "Magic Horror HD",
+		"group": "films"
+	},
+	{
+		"_id": 100729,
+		"aliases": "|magicdisney|",
+		"basealias": "magicdisneyhd",
+		"country": "ru",
+		"logo_url": "/logos/magic-disney.png",
+		"name": "Magic Disney HD",
+		"group": "films"
+	},
+	{
+		"_id": 100740,
+		"aliases": "|mscrime|",
+		"basealias": "mscrimehd",
+		"country": "ru",
+		"logo_url": "/logos/ms-crime-hd.png",
+		"name": "MS Crime HD",
+		"group": "films"
+	},
+	{
+		"_id": 100741,
+		"aliases": "|msprisons|",
+		"basealias": "msprisonshd",
+		"country": "ru",
+		"logo_url": "/logos/ms-prisons-hd.png",
+		"name": "MS Prisons HD",
+		"group": "films"
+	},
+	{
+		"_id": 100742,
+		"aliases": "|msmagic|",
+		"basealias": "msmagichd",
+		"country": "ru",
+		"logo_url": "/logos/ms-magic-hd.png",
+		"name": "MS Magic HD",
+		"group": "films"
+	},
+	{
+		"_id": 100743,
+		"aliases": "|msyoungblood|",
+		"basealias": "msyoungbloodhd",
+		"country": "ru",
+		"logo_url": "/logos/ms-youngblood-hd.png",
+		"name": "MS Young Blood HD",
+		"group": "films"
+	},
+	{
+		"_id": 100744,
+		"aliases": "|mstoons|",
+		"basealias": "mstoonshd",
+		"country": "ru",
+		"logo_url": "/logos/ms-toons-hd.png",
+		"name": "MS Toons HD",
+		"group": "films"
+	},
+	{
+		"_id": 100745,
+		"aliases": "|msanimated|",
+		"basealias": "msanimatedhd",
+		"country": "ru",
+		"logo_url": "/logos/ms-animated-hd.png",
+		"name": "MS ANIMATED HD",
+		"group": "films"
+	},
+	{
+		"_id": 100750,
+		"aliases": "|tokyomx|",
+		"basealias": "tokyomxhd",
+		"country": "ru",
+		"logo_url": "/logos/tokyo-mx.png",
+		"name": "Tokyo MX HD",
+		"group": "films"
+	},
+	{
+		"_id": 100751,
+		"aliases": "",
+		"basealias": "vfлуидефюнес",
+		"country": "ru",
+		"logo_url": "/logos/vf-luidefunes.png",
+		"name": "VF Луи де Фюнес",
+		"group": "films"
+	},
+	{
+		"_id": 100752,
+		"aliases": "",
+		"basealias": "vfчернобыль",
+		"country": "ru",
+		"logo_url": "/logos/vf-chernobyl.png",
+		"name": "VF Чернобыль",
+		"group": "films"
+	},
+	{
+		"_id": 100753,
+		"aliases": "|старттриумфhd|",
+		"basealias": "старттриумф",
+		"country": "ru",
+		"logo_url": "/logos/start-triumf.png",
+		"name": "Старт Триумф",
+		"group": "sport"
+	},
+	{
+		"_id": 100800,
+		"aliases": "|boxanimehd|",
+		"basealias": "boxanime",
+		"country": "ru",
+		"logo_url": "/logos/box-anime-hd.png",
+		"name": "BOX Anime",
+		"group": "films"
+	},
+	{
+		"_id": 100801,
+		"aliases": "|boxcyberhd|",
+		"basealias": "boxcyber",
+		"country": "ru",
+		"logo_url": "/logos/box-cyber-hd.png",
+		"name": "BOX Cyber",
+		"group": "films"
+	},
+	{
+		"_id": 100802,
+		"aliases": "|boxfantasyhd|",
+		"basealias": "boxfantasy",
+		"country": "ru",
+		"logo_url": "/logos/box-fantasy-hd.png",
+		"name": "BOX Fantasy",
+		"group": "films"
+	},
+	{
+		"_id": 100803,
+		"aliases": "|btsport4hd|btsport4uk|",
+		"basealias": "btsport4",
+		"country": "us",
+		"logo_url": "/logos/btsport-4.png",
+		"name": "BT Sport 4",
+		"group": "sport"
+	},
+	{
+		"_id": 100804,
+		"aliases": "|familyjamhd|",
+		"basealias": "familyjam",
+		"country": "ru",
+		"logo_url": "/logos/family-jam.png",
+		"name": "Family Jam",
+		"group": "films"
+	},
+	{
+		"_id": 100805,
+		"aliases": "|detectivejamhd|",
+		"basealias": "detectivejam",
+		"country": "ru",
+		"logo_url": "/logos/detective-jam.png",
+		"name": "Detective Jam",
+		"group": "films"
+	},
+	{
+		"_id": 100806,
+		"aliases": "|screamhd|",
+		"basealias": "scream",
+		"country": "ru",
+		"logo_url": "/logos/scream.png",
+		"name": "Scream",
+		"group": "films"
+	},
+	{
+		"_id": 100807,
+		"aliases": "",
+		"basealias": "ictv2",
+		"country": "ua",
+		"logo_url": "/logos/ictv-2.png",
+		"name": "ICTV 2",
+		"group": "common"
 	}
 ]
